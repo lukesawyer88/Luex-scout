@@ -20,6 +20,7 @@ async def worker(ctx, queue, target, report):
             ext = ".png" if "png" in r.headers.get("content-type", "") else ".jpg"
             (target / f"{name}{ext}").write_bytes(await r.body())
             report.append(f"OK    {name}  {url}")
+            await asyncio.sleep(1.5)
         except Exception as e:
             report.append(f"FAIL  {name}  {url}  {type(e).__name__}")
     await page.close()
@@ -42,7 +43,7 @@ async def main(list_file, out_dir):
         browser = await p.chromium.launch()
         ctx = await browser.new_context(user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                                                     "(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"))
-        await asyncio.gather(*(worker(ctx, queue, target, report) for _ in range(6)))
+        await asyncio.gather(*(worker(ctx, queue, target, report) for _ in range(3)))
         await browser.close()
     (target / "report.txt").write_text("\n".join(sorted(report)) + "\n")
     print(f"{sum(r.startswith('OK') for r in report)} ok of {len(entries)}")
