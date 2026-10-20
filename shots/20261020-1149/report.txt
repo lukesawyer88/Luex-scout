@@ -1,0 +1,26 @@
+OK    d01-finexy  https://dribbble.com/shots/26723736-Finexy-Finance-SaaS-Dashboard-Design  (10s)  title: Finexy - Finance SaaS Dashboard Design by Sujon Hossain on Dribbble
+OK    d02-crm-saas  https://dribbble.com/shots/26848851-CRM-SaaS-Dashboard-Design  (8s)  title: CRM SaaS Dashboard Design by Sajibur Rahman on Dribbble
+OK    d03-time-tracking  https://dribbble.com/shots/27660229-Time-Tracking-SaaS-Dashboard-UI  (8s)  title: Time Tracking SaaS Dashboard UI by Nixtio on Dribbble
+OK    d04-relay  https://dribbble.com/shots/27460216-B2B-SaaS-Dashboard-UX-Design-Relay  (8s)  title: B2B SaaS Dashboard UX Design | Relay by Filllo - SaaS Design Agency on Dribbble
+OK    d05-horizon-warehouse  https://dribbble.com/shots/26956265-Horizon-Warehouse-Operations-Dashboard  (8s)  title: Horizon — Warehouse Operations Dashboard by Sogee UIUX for Sogee on Dribbble
+OK    d06-fleet-ops  https://dribbble.com/shots/27133399-Logistics-Fleet-Management-Smart-Operations-Dashboard-UI  (7s)  title: Logistics Fleet Management — Smart Operations Dashboard UI by Ayoub kada for Digcy on Dribbble
+OK    d07-innex-ops  https://dribbble.com/shots/27730374-SaaS-Operations-Dashboard-UI-UX-Design-Innex  (8s)  title: SaaS Operations Dashboard UI UX Design | Innex by Filllo - SaaS Design Agency on Dribbble
+OK    d08-business-ops  https://dribbble.com/shots/27748464-AI-Business-Operations-Dashboard-SaaS-Analytics-Insights  (7s)  title: AI Business Operations Dashboard — SaaS Analytics & Insights by Murad Hossain 🔥 on Dribbble
+OK    d09-outpost-franchise  https://dribbble.com/shots/27607759-Outpost-Franchise-Operations-Dashboard  (8s)  title: Outpost - Franchise Operations Dashboard by Ananto Nugroho Putra for Korsa on Dribbble
+OK    d10-convoy-fleet  https://dribbble.com/shots/27624032-Convoy-Fleet-Operations-Dashboard  (8s)  title: Convoy - Fleet Operations Dashboard by Ananto Nugroho Putra for Korsa on Dribbble
+OK    d11-glass-hr  https://dribbble.com/shots/26001298-HR-Management-Dashboard  (6s)  title: HR Management Dashboard by Ghani Pradita for Paperpillar on Dribbble
+OK    d12-frosted-blue  https://dribbble.com/shots/26991523-Frosted-Glass-Dashboard-Modern-Ocean-Blue-Admin-UI  (6s)  title: Frosted Glass Dashboard • Modern Ocean-Blue Admin UI by Hamza Jamal on Dribbble
+OK    d13-invoezy-glass  https://dribbble.com/shots/26570052-Invoezy-Liquid-Glass-Dashboard-Design  (8s)  title: Invoezy - Liquid Glass Dashboard Design by Iqbal Nurrofiq on Dribbble
+OK    d14-liquid-glass  https://dribbble.com/shots/27123989-Liquid-Glass-Dashboard-UI-Design  (7s)  title: Liquid Glass Dashboard UI Design by binara yehan on Dribbble
+OK    d15-apple-glass-sidebar  https://dribbble.com/shots/26241992-Apple-Inspired-Liquid-Glass-Dashboard-Sidebar-UI  (7s)  title: Apple-Inspired Liquid Glass Dashboard Sidebar UI by Ali Raza on Dribbble
+OK    d16-dark-glass-reports  https://dribbble.com/shots/27523411-Dark-Glassmorphism-Reports-Workspace-UI  (7s)  title: Dark Glassmorphism Reports Workspace UI by Insoftex : Designing AI products that scale on Dribbble
+OK    d17-compliance-ui  https://dribbble.com/shots/27319815-Compliance-Dashboard-UI  (6s)  title: Compliance Dashboard UI by Outcrowd on Dribbble
+OK    d18-ai-compliance  https://dribbble.com/shots/26925356-AI-Compliance-Dashboard-Risk-Monitoring-Governance-Platform  (8s)  title: AI Compliance Dashboard – Risk Monitoring & Governance Platform by Mike Taylor on Dribbble
+OK    d19-enterprise-compliance  https://dribbble.com/shots/27461910-Compliance-Dashboard-Design-Enterprise-SaaS-Platform  (8s)  title: Compliance Dashboard Design – Enterprise SaaS Platform by Red Lions on Dribbble
+OK    d20-soc2-dark  https://dribbble.com/shots/27568208-SOC-2-Compliance-Dashboard-Dark-Mode  (7s)  title: SOC 2 Compliance Dashboard — Dark Mode by Phuong Nguyen on Dribbble
+OK    d21-saas-hr  https://dribbble.com/shots/26260562-SaaS-HR-Dashboard-with-Real-Time-Analytics  (7s)  title: SaaS HR Dashboard with Real-Time Analytics by Muhsin ✪ on Dribbble
+OK    d22-workzen-hr  https://dribbble.com/shots/27360273-Workzen-SaaS-HR-Dashboard-Management  (7s)  title: Workzen - SaaS HR Dashboard Management by Rifqi Adam on Dribbble
+OK    d23-tiimi-custom  https://dribbble.com/shots/26105622-Tiimi-Customizing-HR-Dashboards-and-Exploring-Announcements  (9s)  title: Tiimi - Customizing HR Dashboards and Exploring Announcements by Bagus Fikri for Fikri Studio on Dribbble
+OK    d24-incident-admin  https://dribbble.com/shots/26742327-Admin-Dashboard-Data-Driven-Insights-for-Incident-Management  (7s)  title: Admin Dashboard: Data-Driven Insights for Incident Management by Outcrowd on Dribbble
+OK    d25-stratify-pm  https://dribbble.com/shots/26281371-Stratify-AI-Project-Management-Dashboard-Design  (8s)  title: Stratify – AI Project Management Dashboard Design by Phenomenon Product for Phenomenon Studio on Dribbble
+OK    d26-management  https://dribbble.com/shots/26825384-Web-App-UI-Design-Management-Dashboard  (7s)  title: Web App UI Design - Management Dashboard by Nixtio on Dribbble
