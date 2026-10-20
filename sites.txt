@@ -1,0 +1,6 @@
+# One URL per line, optionally followed by a short name.
+# Pushing a change to this file takes a fresh set of screenshots.
+https://linear.app linear
+https://stripe.com stripe
+https://safetyculture.com safetyculture
+https://land-book.com landbook-gallery
