@@ -1,0 +1,35 @@
+OK    e01-smart-home  https://dribbble.com/shots/26797908-Realist-Smart-Home-Dashboard-Design  (11s)  title: Realist - Smart Home Dashboard Design by Emura on Dribbble
+OK    e02-smart-home  https://dribbble.com/shots/20919942-Smart-Home-Dashboard  (8s)  title: Smart Home Dashboard by Bogdan Falin for QClay on Dribbble
+OK    e03-smart-home  https://dribbble.com/shots/26458223-Smart-Home-Dashboard-Design  (8s)  title: Smart Home Dashboard Design by Kyrylo Soliar for SOLAR Digital on Dribbble
+OK    e04-smart-home  https://dribbble.com/shots/27489912-Smart-Home-Dashboard  (8s)  title: Smart Home Dashboard by Juice Lab UI/UX Development Agency on Dribbble
+OK    e05-smart-home  https://dribbble.com/shots/27751451-Lintel-Smart-Home-Dashboard-Room-View-and-AC-Control  (7s)  title: Lintel — Smart Home Dashboard, Room View and AC Control by Sayeed Ahmad on Dribbble
+OK    e06-smart-home  https://dribbble.com/shots/27216939-Smart-Home-Dashboard-Environment-Device-Control  (9s)  title: Smart Home Dashboard — Environment & Device Control by Admiral Studios on Dribbble
+OK    e07-health-app  https://dribbble.com/shots/23689369-Freud-UI-Kit-AI-Mental-Health-App-Smart-Dashboard-UIUX  (8s)  title: Freud UI Kit: AI Mental Health App 🧠 | Smart Dashboard UIUX by strangehelix for UI8 on Dribbble
+OK    e08-health-app  https://dribbble.com/shots/27507051-AuraTrack-Smart-Ring-Dashboard-Health-App-UI-UX  (8s)  title: AuraTrack - Smart Ring Dashboard & Health App UI/UX by Safayet Hossain on Dribbble
+OK    e09-health-app  https://dribbble.com/shots/27363984-Health-Insights-App-Design-Animation  (8s)  title: Health Insights App Design Animation by Nixtio on Dribbble
+OK    e10-bento  https://dribbble.com/shots/26203147-Bento-UI-for-Atono-Feature-Control-Planning-Bug-Tracking  (8s)  title: Bento UI for Atono – Feature Control, Planning & Bug Tracking by Alim Joldaspayev on Dribbble
+OK    e11-bento  https://dribbble.com/shots/27190144-Aviation-Operations-Dashboard-Bento-UI  (8s)  title: Aviation Operations Dashboard - Bento UI by Anuar D. on Dribbble
+OK    e12-bento  https://dribbble.com/shots/27350916-Bento-UI-Modern-Dashboard-Design-System  (11s)  title: Bento UI — Modern Dashboard Design System by Oko Solutions on Dribbble
+OK    e13-futuristic  https://dribbble.com/shots/25143527-Futuristic-Dashboard-Simplifying-Project-Management  (7s)  title: Futuristic Dashboard: Simplifying Project Management by Fazil on Dribbble
+OK    e14-futuristic  https://dribbble.com/shots/27125603-Health-Futuristic-Dashboard  (7s)  title: Health Futuristic Dashboard by Stephen Sowunmi on Dribbble
+OK    e15-futuristic  https://dribbble.com/shots/26760901-Spatial-Workspace-UI-Futuristic-Dashboard  (11s)  title: Spatial Workspace UI – Futuristic Dashboard ✨ by Mohan on Dribbble
+OK    e16-spatial-visionos  https://dribbble.com/shots/21778146-VisionOS-Calendar-UI-Exploration  (7s)  title: VisionOS Calendar UI Exploration by Ghani Pradita for Paperpillar on Dribbble
+OK    e17-spatial-visionos  https://dribbble.com/shots/22163085-Smart-Home-visionOS  (9s)  title: Smart Home visionOS by Giovanni Mingo® for Orizon: UI/UX Design Agency on Dribbble
+OK    e18-spatial-visionos  https://dribbble.com/shots/22558891-Spatial-Design-for-IKEA-Apple-Vision-Pro-visionOS  (11s)  title: Spatial Design for IKEA – Apple Vision Pro / visionOS by Yanosh Govoshi on Dribbble
+OK    e19-car-ui  https://dribbble.com/shots/17748851-Car-Dashboard-UI-Concept  (7s)  title: Car Dashboard UI Concept by Fireart Studio on Dribbble
+OK    e20-car-ui  https://dribbble.com/shots/27667232-Smart-Car-Dashboard-UI-Design-Automotive-Infotainment  (9s)  title: Smart Car Dashboard UI Design | Automotive Infotainment by Zahid Hasan for Crevio - UX/UI Design Agency on Dribbble
+OK    e21-control-center  https://dribbble.com/shots/26863165-Smart-Home-App-UI-Design  (9s)  title: Smart Home App UI Design by Nixtio on Dribbble
+OK    e22-control-center  https://dribbble.com/shots/27379767-Industrial-Operations-Dashboard-UI-UX-Design-for-Industrial-Auto  (8s)  title: Industrial Operations Dashboard UI/UX Design for Industrial Auto by Lina Ghimp on Dribbble
+OK    e23-control-center  https://dribbble.com/shots/27507129-HomePilot-AI-Intelligent-Home-Dashboard-UI  (9s)  title: HomePilot AI – Intelligent Home Dashboard UI by SHIMUL BILLAH on Dribbble
+OK    e24-widgets  https://dribbble.com/shots/26335836-Futuristic-Widget-Dashboard-Elements  (7s)  title: Futuristic Widget Dashboard Elements by Riyu It on Dribbble
+OK    e25-widgets  https://dribbble.com/shots/27582920-Minimal-Widget-Dashboard  (7s)  title: Minimal Widget Dashboard by Akshay Anil on Dribbble
+OK    e26-neumorphism  https://dribbble.com/shots/27274551-Soft-AI-Dashboard-Neumorphism-Pastel-UI  (7s)  title: Soft AI Dashboard ✨ Neumorphism + Pastel UI by Valkyrie Studios on Dribbble
+OK    e27-neumorphism  https://dribbble.com/shots/26678790-Smart-Home-Control-Dashboard-3D-Interface  (8s)  title: Smart Home Control Dashboard - 3D Interface by Nixtio on Dribbble
+OK    e28-3d-dashboard  https://dribbble.com/shots/26335757-Factory-Logic-Visualized-A-3D-Dashboard-for-Total-Control  (10s)  title: Factory Logic, Visualized: A 3D Dashboard for Total Control by George Railean on Dribbble
+OK    e29-3d-dashboard  https://dribbble.com/shots/27748721-3D-Power-Monitoring-Dashboard-Design-for-Grid-Operations  (10s)  title: 3D Power Monitoring Dashboard Design for Grid Operations by George Railean on Dribbble
+OK    e30-3d-dashboard  https://dribbble.com/shots/25787065-City-Editor-Real-Time-Data-Interface  (10s)  title: City Editor Real Time Data Interface by George Railean on Dribbble
+OK    e31-liquid-glass  https://dribbble.com/shots/26415621-Liquid-Glass-UI-Project-Progress-Widget  (7s)  title: Liquid Glass UI – Project Progress Widget by Valery Yakovchik on Dribbble
+OK    e32-liquid-glass  https://dribbble.com/shots/27489568-Liquid-Glass-UI-Card-Design-2-0-Modern-Web-UI-Exploration  (8s)  title: Liquid Glass UI Card Design 2.0 — Modern Web UI Exploration by Badr Rehman on Dribbble
+OK    e33-creative-dashboard  https://dribbble.com/shots/26996873-LMS-Dashboard-Web-App-Design-Growly  (9s)  title: LMS Dashboard Web App Design – Growly by Phenomenon Product for Phenomenon Studio on Dribbble
+OK    e34-creative-dashboard  https://dribbble.com/shots/27210300-Energy-Monitoring-Dashboard-Design-Solora  (10s)  title: Energy Monitoring Dashboard Design - Solora by Phenomenon Studio on Dribbble
+OK    e35-creative-dashboard  https://dribbble.com/shots/25642303-AIRES-Real-Estate-Modern-Web-App-Design  (10s)  title: AIRES - Real Estate Modern Web App Design by Phenomenon Product for Phenomenon Studio on Dribbble
