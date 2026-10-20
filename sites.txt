@@ -1,17 +1,13 @@
-# Clean, premium, trustworthy - round 1
-https://dribbble.com/search/minimal-dashboard minimal-dashboard
-https://dribbble.com/search/clean-saas-dashboard clean-saas
-https://dribbble.com/search/premium-dashboard premium-dashboard
-https://dribbble.com/search/enterprise-dashboard enterprise-dashboard
-https://dribbble.com/search/minimalist-web-app minimalist-web-app
-https://dribbble.com/search/workspace-app workspace-app
-https://attio.com attio
-https://mercury.com mercury
-https://ramp.com ramp
-https://www.rippling.com rippling
-https://www.deel.com deel
-https://www.notion.com/product notion
-https://linear.app/features linear-features
-https://www.pitch.com pitch
-https://www.ashbyhq.com ashby
-https://www.brex.com brex
+# Clean premium - round 2: real app interfaces
+https://demo.mercury.com mercury-demo
+https://ui.shadcn.com/examples/dashboard shadcn-dashboard
+https://ui.shadcn.com/examples/tasks shadcn-tasks
+https://ui.shadcn.com/blocks shadcn-blocks
+https://catalyst.tailwindui.com catalyst
+https://linear.app linear-home
+https://attio.com/platform attio-platform
+https://www.notion.com/product/projects notion-projects
+https://dribbble.com/search/attio attio-style
+https://dribbble.com/search/linear-style-dashboard linear-style
+https://dribbble.com/search/untitled-ui-dashboard untitled-ui
+https://dribbble.com/search/notion-style notion-style

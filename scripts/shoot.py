@@ -14,7 +14,7 @@ from pathlib import Path
 from playwright.sync_api import sync_playwright
 
 MAX_FULL_HEIGHT = 7000
-COOKIE_TEXTS = ["Accept all", "Accept All", "Accept", "I agree", "Agree", "Allow all",
+COOKIE_TEXTS = ["Continue", "Accept all", "Accept All", "Accept", "I agree", "Agree", "Allow all",
                 "Got it", "OK", "Accept cookies", "Allow cookies"]
 
 
