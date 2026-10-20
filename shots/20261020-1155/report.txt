@@ -1,0 +1,12 @@
+OK    smart-home  https://dribbble.com/search/smart-home-dashboard  (12s)  title: Browse thousands of Smart Home Dashboard images for design inspiration | Dribbble
+OK    health-app  https://dribbble.com/search/health-app-dashboard  (10s)  title: Browse thousands of Health App Dashboard images for design inspiration | Dribbble
+OK    bento  https://dribbble.com/search/bento-ui  (9s)  title: Browse thousands of Bento UI images for design inspiration | Dribbble
+OK    futuristic  https://dribbble.com/search/futuristic-dashboard  (9s)  title: Browse thousands of Futuristic Dashboard images for design inspiration | Dribbble
+OK    spatial-visionos  https://dribbble.com/search/visionos  (10s)  title: Browse thousands of Visionos images for design inspiration | Dribbble
+OK    car-ui  https://dribbble.com/search/car-dashboard-ui  (10s)  title: Browse thousands of Car Dashboard UI images for design inspiration | Dribbble
+OK    neumorphism  https://dribbble.com/search/neumorphism-dashboard  (9s)  title: Browse thousands of Neumorphism Dashboard images for design inspiration | Dribbble
+OK    3d-dashboard  https://dribbble.com/search/3d-dashboard  (10s)  title: Browse thousands of 3D Dashboard images for design inspiration | Dribbble
+OK    control-center  https://dribbble.com/search/control-center-ui  (10s)  title: Browse thousands of Control Center UI images for design inspiration | Dribbble
+OK    widgets  https://dribbble.com/search/widget-dashboard  (9s)  title: Browse thousands of Widget Dashboard images for design inspiration | Dribbble
+OK    liquid-glass  https://dribbble.com/search/liquid-glass-ui  (9s)  title: Browse thousands of Liquid Glass UI images for design inspiration | Dribbble
+OK    creative-dashboard  https://dribbble.com/search/creative-dashboard  (10s)  title: Browse thousands of Creative Dashboard images for design inspiration | Dribbble
