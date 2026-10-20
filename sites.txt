@@ -1,6 +1,10 @@
 # One URL per line, optionally followed by a short name.
 # Pushing a change to this file takes a fresh set of screenshots.
-https://linear.app linear
-https://stripe.com stripe
-https://safetyculture.com safetyculture
-https://land-book.com landbook-gallery
+https://dribbble.com/search/saas-dashboard saas-dashboard
+https://dribbble.com/search/operations-dashboard operations-dashboard
+https://dribbble.com/search/admin-dashboard admin-dashboard
+https://dribbble.com/search/hr-dashboard hr-dashboard
+https://dribbble.com/search/crm-dashboard crm-dashboard
+https://dribbble.com/search/compliance-dashboard compliance-dashboard
+https://dribbble.com/search/glass-dashboard glass-dashboard
+https://dribbble.com/tags/dashboard tag-dashboard

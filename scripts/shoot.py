@@ -87,6 +87,11 @@ def main(list_file, out_dir):
                 page.screenshot(path=str(target / f"{name}-full.jpg"), type="jpeg", quality=65,
                                 full_page=True,
                                 clip={"x": 0, "y": 0, "width": 1440, "height": max(height, 900)})
+                try:
+                    hrefs = page.eval_on_selector_all("a[href]", "els => els.map(e => e.href)")
+                    (target / f"{name}-links.txt").write_text("\n".join(dict.fromkeys(hrefs)) + "\n")
+                except Exception:
+                    pass
                 report.append(f"OK    {name}  {url}  ({time.time() - started:.0f}s)  title: {page.title()}")
             except Exception as exc:
                 report.append(f"FAIL  {name}  {url}  {type(exc).__name__}: {str(exc)[:200]}")
