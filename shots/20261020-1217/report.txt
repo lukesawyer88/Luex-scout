@@ -1,0 +1,12 @@
+OK    mercury-demo  https://demo.mercury.com  (17s)  title: Mercury | Banking for Startups
+OK    shadcn-dashboard  https://ui.shadcn.com/examples/dashboard  (10s)  title: The Foundation for your Design System - shadcn/ui
+OK    shadcn-tasks  https://ui.shadcn.com/examples/tasks  (6s)  title: Tasks
+OK    shadcn-blocks  https://ui.shadcn.com/blocks  (19s)  title: Building Blocks for the Web - shadcn/ui
+OK    catalyst  https://catalyst.tailwindui.com  (5s)  title: Catalyst UI Kit
+OK    linear-home  https://linear.app  (12s)  title: Linear – The system for product development
+OK    attio-platform  https://attio.com/platform  (8s)  title: Page not found
+OK    notion-projects  https://www.notion.com/product/projects  (10s)  title: Your connected workspace for wiki, docs & projects | Notion
+OK    attio-style  https://dribbble.com/search/attio  (11s)  title: Browse thousands of Attio images for design inspiration | Dribbble
+OK    linear-style  https://dribbble.com/search/linear-style-dashboard  (11s)  title: Browse thousands of Linear Style Dashboard images for design inspiration | Dribbble
+OK    untitled-ui  https://dribbble.com/search/untitled-ui-dashboard  (11s)  title: Browse thousands of Untitled UI Dashboard images for design inspiration | Dribbble
+OK    notion-style  https://dribbble.com/search/notion-style  (10s)  title: Browse thousands of Notion Style images for design inspiration | Dribbble
