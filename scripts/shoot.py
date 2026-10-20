@@ -81,6 +81,8 @@ def main(list_file, out_dir):
                     pass
                 page.wait_for_timeout(1500)
                 dismiss_popups(page)
+                page.mouse.move(5, 890)
+                page.wait_for_timeout(400)
                 page.screenshot(path=str(target / f"{name}-top.jpg"), type="jpeg", quality=75)
                 load_lazy_content(page)
                 height = min(page.evaluate("document.body.scrollHeight"), MAX_FULL_HEIGHT)
@@ -90,6 +92,15 @@ def main(list_file, out_dir):
                 try:
                     hrefs = page.eval_on_selector_all("a[href]", "els => els.map(e => e.href)")
                     (target / f"{name}-links.txt").write_text("\n".join(dict.fromkeys(hrefs)) + "\n")
+                except Exception:
+                    pass
+                try:
+                    og = page.get_attribute('meta[property="og:image"]', "content", timeout=2000)
+                    if og:
+                        r = page.request.get(og, timeout=30000)
+                        if r.ok:
+                            ext = ".png" if "png" in r.headers.get("content-type", "") else ".jpg"
+                            (target / f"{name}-image{ext}").write_bytes(r.body())
                 except Exception:
                     pass
                 report.append(f"OK    {name}  {url}  ({time.time() - started:.0f}s)  title: {page.title()}")
