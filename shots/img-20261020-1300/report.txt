@@ -1,0 +1,475 @@
+FAIL  bento-dashboard-24302906  https://dribbble.com/shots/24302906-healthcare-Dashboard-Bento  TimeoutError
+FAIL  bento-dashboard-25290060  https://dribbble.com/shots/25290060-Dashboard-Finance-Saas  TimeoutError
+FAIL  bento-dashboard-25630927  https://dribbble.com/shots/25630927-Bento-grid-Dashboard-Charts  TimeoutError
+FAIL  bento-dashboard-25765472  https://dribbble.com/shots/25765472-Bento-grid-dashboard-for-revops-startup  TimeoutError
+FAIL  bento-dashboard-25960339  https://dribbble.com/shots/25960339-Bento-dashboard-UI  TimeoutError
+FAIL  bento-dashboard-25990036  https://dribbble.com/shots/25990036-Bento-Dashboard-02  TimeoutError
+FAIL  bento-dashboard-26256581  https://dribbble.com/shots/26256581-UI-Exploration-Bento-Dashboard-Cards  TimeoutError
+FAIL  construction-25019705  https://dribbble.com/shots/25019705--Construction-Dashboard  TimeoutError
+FAIL  construction-26945588  https://dribbble.com/shots/26945588-Structra-Smart-Construction-Dashboard  TimeoutError
+FAIL  construction-27077828  https://dribbble.com/shots/27077828-Building-Construction-Dashboard  TimeoutError
+FAIL  crm-25482217  https://dribbble.com/shots/25482217-CRM-Dashboard-UI-Sales-Automation-Performance-Tracking  TimeoutError
+FAIL  crm-26853910  https://dribbble.com/shots/26853910-Alignify-Sales-CRM-Dashboard-UI  TimeoutError
+FAIL  crm-26892320  https://dribbble.com/shots/26892320-Healthcare-CRM-Dashboard-UI-Clinexa  TimeoutError
+FAIL  crm-27105418  https://dribbble.com/shots/27105418-Recruitment-CRM-Dashboard-UI-for-Hiring-Talent-Management  TimeoutError
+FAIL  crm-27174197  https://dribbble.com/shots/27174197-Modern-CRM-Dashboard-UI-Design  TimeoutError
+FAIL  crm-27298687  https://dribbble.com/shots/27298687-CityFibre-Real-Estate-CRM-Dashboard-UI-UX-Design  TimeoutError
+FAIL  crm-27337892  https://dribbble.com/shots/27337892-Real-Estate-CRM-Dashboard-UI  TimeoutError
+FAIL  crm-27368324  https://dribbble.com/shots/27368324-CRM-Dashboard-UI-Design  TimeoutError
+FAIL  crm-27397393  https://dribbble.com/shots/27397393-SaaS-CRM-Dashboard-UI-Design  TimeoutError
+FAIL  crm-27527029  https://dribbble.com/shots/27527029-AI-CRM-Dashboard-UI-Design-SaaS-Analytics-Web-App  TimeoutError
+FAIL  crm-27565263  https://dribbble.com/shots/27565263-Real-Estate-CRM-Dashboard-UI-Design  TimeoutError
+FAIL  crm-27642297  https://dribbble.com/shots/27642297-Brickline-Real-Estate-CRM-Dashboard-UI-Design  TimeoutError
+FAIL  crm-27712071  https://dribbble.com/shots/27712071-Real-Estate-CRM-Dashboard-UI-Design  TimeoutError
+FAIL  crm-27712728  https://dribbble.com/shots/27712728-Expense-Tracker-Mobile-App  TimeoutError
+FAIL  elegant-27284066  https://dribbble.com/shots/27284066-Nexus-CRM-Data-Clarity-Reimagined  TimeoutError
+FAIL  hr-25362135  https://dribbble.com/shots/25362135-Employee-Details-Dashboard-UI  TimeoutError
+FAIL  hr-25690970  https://dribbble.com/shots/25690970-Analytics-Employee-Insights-UI-Component  TimeoutError
+FAIL  hr-26481039  https://dribbble.com/shots/26481039-HR-Dashboard-UI-Employee-Management-Productivity-Tracking  TimeoutError
+FAIL  hr-26939799  https://dribbble.com/shots/26939799-HR-Analytics-Dashboard-UI-for-Employee-Management  TimeoutError
+FAIL  hr-26971640  https://dribbble.com/shots/26971640-AI-Job-Dashboard-UI-UX-Design-Recruitment-ATS-SaaS  TimeoutError
+FAIL  hr-27212996  https://dribbble.com/shots/27212996-MarcoHR-Employee-Management-Dashboard  TimeoutError
+FAIL  ipad-16016464  https://dribbble.com/shots/16016464-Recipe-App-Ipad-Tablet-Dashboard  TimeoutError
+FAIL  ipad-20982911  https://dribbble.com/shots/20982911-iPad-Smart-Home-App-UI  TimeoutError
+FAIL  ipad-21381064  https://dribbble.com/shots/21381064-Economic-Indicator-Dashboards-for-iPad  TimeoutError
+FAIL  ipad-22149609  https://dribbble.com/shots/22149609-Intrack-Dashboard-iPad  TimeoutError
+FAIL  ipad-23408352  https://dribbble.com/shots/23408352-Medikals-iPad-Medical-Dashboard-App-for-Doctor  TimeoutError
+FAIL  ipad-26883406  https://dribbble.com/shots/26883406-Next-Gen-Crypto-Trading-Dashboard  TimeoutError
+FAIL  ipad-27445334  https://dribbble.com/shots/27445334-Private-Wealth-Management-Dashboard-UI  TimeoutError
+FAIL  ipad-27479561  https://dribbble.com/shots/27479561-E-commerce-Dashboard-on-iPad-Analytics-Overview  TimeoutError
+FAIL  ipad-27725415  https://dribbble.com/shots/27725415-Poker-App-UI-UX-Design-iGaming-Dashboard-iPad-Experience  TimeoutError
+FAIL  ipad-27780476  https://dribbble.com/shots/27780476-EAS-Observe  TimeoutError
+FAIL  ipad-323757  https://dribbble.com/shots/323757-Device-Dashboard-Mobile-iPad-UI-UX-iOS  TimeoutError
+FAIL  ipad-3302199  https://dribbble.com/shots/3302199-Dashboard-ipad  TimeoutError
+FAIL  ipad-3318850  https://dribbble.com/shots/3318850-Ipad-dashboard  TimeoutError
+FAIL  ipad-4222204  https://dribbble.com/shots/4222204-PDF-Markup-Dashboard-iPad  TimeoutError
+FAIL  isometric-27003325  https://dribbble.com/shots/27003325-Industrial-Plant-Monitoring-Dashboard-3D-Isometric-UI  TimeoutError
+FAIL  map-20122707  https://dribbble.com/shots/20122707-CRM-map-dashboard  TimeoutError
+FAIL  map-2261336  https://dribbble.com/shots/2261336-Swiss-Map-Dashboard  TimeoutError
+FAIL  map-24021927  https://dribbble.com/shots/24021927-3D-map-dashboard  TimeoutError
+FAIL  map-25892348  https://dribbble.com/shots/25892348-Branch-Optimization-Map-Dashboard  TimeoutError
+FAIL  map-25927446  https://dribbble.com/shots/25927446-Flight-Tracking-Web-App-UI-Design  TimeoutError
+FAIL  map-26025022  https://dribbble.com/shots/26025022-Country-wise-Comments-Analysis  TimeoutError
+FAIL  map-27311093  https://dribbble.com/shots/27311093-Logistics-SaaS-Platform-Load-Board-Map-Dashboard-UX-UI  TimeoutError
+FAIL  office-22596215  https://dribbble.com/shots/22596215-Noffice-Dasboard  TimeoutError
+FAIL  office-22817974  https://dribbble.com/shots/22817974-Money-Transfer-Software-UX-for-KYC-Transaction-Tracking  TimeoutError
+FAIL  office-26530776  https://dribbble.com/shots/26530776-OptiSpace-SaaS-Office-Operating-Dashboard  TimeoutError
+FAIL  office-26643717  https://dribbble.com/shots/26643717-Finance-Management-App-Redesigned-Experience  TimeoutError
+FAIL  office-27239697  https://dribbble.com/shots/27239697-Superconscious-AI-Powered-Self-Growth-App  TimeoutError
+FAIL  office-27336500  https://dribbble.com/shots/27336500-Office-Management-System-Dashboard-Design  TimeoutError
+FAIL  office-27365106  https://dribbble.com/shots/27365106-Restaurant-POS-Application  TimeoutError
+FAIL  office-27658836  https://dribbble.com/shots/27658836-HR-Dashboard-for-Employee-Management-Attendance-Recruitment  TimeoutError
+FAIL  office-27662469  https://dribbble.com/shots/27662469-Office-Workspace-Management-Dashboard  TimeoutError
+FAIL  office-27669058  https://dribbble.com/shots/27669058-Modern-Project-Management-SaaS-Brand-Identity  TimeoutError
+FAIL  office-27740584  https://dribbble.com/shots/27740584-TaskLoop-Clean-Modern-Task-Management-Dashboard-UI  TimeoutError
+FAIL  property-26597366  https://dribbble.com/shots/26597366-Property-Management-Dashboard-Landing-Page  TimeoutError
+FAIL  property-26910714  https://dribbble.com/shots/26910714-Property-Management-Dashboard  TimeoutError
+FAIL  property-27048886  https://dribbble.com/shots/27048886-Smart-Property-Management-Dashboard-UI  TimeoutError
+FAIL  property-27061479  https://dribbble.com/shots/27061479-Realestaze-Property-Management-Dashboard-UI-UX-Design  TimeoutError
+FAIL  property-27090363  https://dribbble.com/shots/27090363-Property-Chain-Real-Estate-CRM-Property-Management-Dashboard  TimeoutError
+FAIL  property-27167137  https://dribbble.com/shots/27167137-Property-Management-Dashboard  TimeoutError
+FAIL  property-27202781  https://dribbble.com/shots/27202781-Property-Management-Dashboard-for-B2B-Real-Estate-SaaS  TimeoutError
+FAIL  property-27274119  https://dribbble.com/shots/27274119-Property-Management-Dashboard-Design  TimeoutError
+FAIL  property-27383391  https://dribbble.com/shots/27383391-Housemade-Property-Management-Dashboard  TimeoutError
+FAIL  property-27486055  https://dribbble.com/shots/27486055-Real-Estate-Property-Management-Dashboard-Realest  TimeoutError
+FAIL  property-27490879  https://dribbble.com/shots/27490879-Property-Management-Dashboard  TimeoutError
+FAIL  property-27502339  https://dribbble.com/shots/27502339-DoorWay-Property-management-Dashboard-app  TimeoutError
+FAIL  property-27520042  https://dribbble.com/shots/27520042-Property-Management-Dashboard  TimeoutError
+FAIL  property-27552150  https://dribbble.com/shots/27552150-Real-Estate-Property-Management-Dashboard  TimeoutError
+FAIL  property-27561223  https://dribbble.com/shots/27561223-Property-Management-Dashboard  TimeoutError
+FAIL  property-27612642  https://dribbble.com/shots/27612642-AI-Property-Management-Dashboard-UI-UX-Design  TimeoutError
+FAIL  property-27666131  https://dribbble.com/shots/27666131-Property-Management-Dashboard  TimeoutError
+FAIL  property-27675593  https://dribbble.com/shots/27675593-AI-Real-Estate-Property-Management-Dashboard  TimeoutError
+FAIL  workspace-25774166  https://dribbble.com/shots/25774166-WhatTask-AI-Task-Workspace-Dashboard  TimeoutError
+FAIL  workspace-26716796  https://dribbble.com/shots/26716796-Alien-AI-Workspace-Dashboard-design  TimeoutError
+FAIL  workspace-26773537  https://dribbble.com/shots/26773537-Ovra-Productivity-Workspace-Dashboard  TimeoutError
+FAIL  workspace-26911464  https://dribbble.com/shots/26911464-Hetris-SaaS-AI-Creative-Workspace-Dashboard  TimeoutError
+FAIL  workspace-26954402  https://dribbble.com/shots/26954402-Ovra-Productivity-Workspace-Dashboard-Meeting-Space-Page  TimeoutError
+FAIL  workspace-26968332  https://dribbble.com/shots/26968332-Rithum-SaaS-AI-Creative-Workspace-Dashboard  TimeoutError
+FAIL  workspace-27130596  https://dribbble.com/shots/27130596-AI-SaaS-Landing-Page-Workspace-Dashboard-UI  TimeoutError
+FAIL  workspace-27393895  https://dribbble.com/shots/27393895-AI-Agent-Workspace-Dashboard-UI-Design  TimeoutError
+FAIL  workspace-27458107  https://dribbble.com/shots/27458107-FlowDesk-Freelance-Workspace-Dashboard-Landing-Page  TimeoutError
+FAIL  workspace-27585986  https://dribbble.com/shots/27585986-Fable-AI-Workspace-Dashboard  TimeoutError
+FAIL  workspace-27615146  https://dribbble.com/shots/27615146-AI-Agent-Management-Workspace-Dashboard  TimeoutError
+OK    ai-26744019  https://dribbble.com/shots/26744019-AI-Dashboard-UI-Minimal-Modern-Cards-for-Product-Design
+OK    ai-27181638  https://dribbble.com/shots/27181638-AI-Dashboard-UI-for-3D-Engineering-Platform
+OK    ai-27277968  https://dribbble.com/shots/27277968-Fintech-AI-Dashboard-UI-UX-Design-SaaS-Admin-Panel
+OK    ai-27291410  https://dribbble.com/shots/27291410-AI-dashboard-UI-design
+OK    ai-27314683  https://dribbble.com/shots/27314683-AI-Dashboard-UI-UX-Design-for-SaaS-Synora
+OK    ai-27368131  https://dribbble.com/shots/27368131-Revive-AI-Dashboard-UI-UX-for-SaaS-Productivity-Platform
+OK    ai-27519018  https://dribbble.com/shots/27519018-Shipment-Tracking-Dashboard-UI-AI-Warehouse-SaaS
+OK    ai-27545688  https://dribbble.com/shots/27545688-AI-Recruitment-Dashboard-SaaS-UI-Design
+OK    ai-27549554  https://dribbble.com/shots/27549554-AI-Dashboard-UI-HR-Management
+OK    ai-27551131  https://dribbble.com/shots/27551131-AI-Video-Recorder-Behavioral-Analytics-Dashboard
+OK    ai-27560047  https://dribbble.com/shots/27560047-AI-Interview-Workspace-SaaS-UI-Design
+OK    ai-27594642  https://dribbble.com/shots/27594642-AI-Powered-Project-Management-Dashboard-for-Team-Productivity
+OK    ai-27615771  https://dribbble.com/shots/27615771-AI-SaaS-Dashboard-Design-for-HR-Tech-ATS-Workflow
+OK    ai-27629578  https://dribbble.com/shots/27629578-AI-Skin-Scanning-Experience
+OK    apple-19193291  https://dribbble.com/shots/19193291-Diet-App-Food-Tracker-App-UI-UX-Design-Nutrition-App-UI
+OK    apple-23552035  https://dribbble.com/shots/23552035-Fluently-AI-tool-to-improve-English-speech-during-calls
+OK    apple-26155640  https://dribbble.com/shots/26155640-Liquide-Glassy-Style-Dashboard
+OK    apple-26766122  https://dribbble.com/shots/26766122-Apple-App-Store-Redesign-Apple-Redesign-Full-App-UI
+OK    apple-26792725  https://dribbble.com/shots/26792725-Sleep-tracker-widget-apple-style
+OK    apple-26792753  https://dribbble.com/shots/26792753-Steps-walked-widget-apple-style
+OK    apple-27045382  https://dribbble.com/shots/27045382-iOS26-Style-Settings-App-Icon-Light-Dark-Mode-UI-Icon
+OK    apple-27244411  https://dribbble.com/shots/27244411-Telehealth-Wellness-App-UI-Design
+OK    apple-27409414  https://dribbble.com/shots/27409414-Premium-Property-Management-Real-Estate-Bento-Box-Grid
+OK    apple-27441174  https://dribbble.com/shots/27441174-FuelX-Wallet-Futuristic-Fleet-Management-App-Showcase
+OK    apple-27442387  https://dribbble.com/shots/27442387-Responsive-SaaS-Dashboard-Cinematic-UI-UX-Motion
+OK    apple-27571999  https://dribbble.com/shots/27571999-Apple-Style-Ui-Animation
+OK    apple-27703433  https://dribbble.com/shots/27703433-iOS27-Style-Settings-App-Icon-Light-Dark-Mode-UI-Icon-Design
+OK    bento-dashboard-26275146  https://dribbble.com/shots/26275146-Bento-Dashboard-Frieren-Beyond-Journey-s-End
+OK    bento-dashboard-26780180  https://dribbble.com/shots/26780180-Weekly-Recap-with-Motion-Design-Bento-Dashboard-Mobile-app
+OK    bento-dashboard-26831143  https://dribbble.com/shots/26831143-Hiresense-HR-Management-Dashboard-with-AI
+OK    bento-dashboard-26960202  https://dribbble.com/shots/26960202-Taqwah-s-Yearly-Recap-2025-Bento-App-Dashboard-Web-Design
+OK    bento-dashboard-26994184  https://dribbble.com/shots/26994184-Detox-A-Mobile-App-for-Habit-Control
+OK    bento-dashboard-27361872  https://dribbble.com/shots/27361872-Smart-Home-App-Bento-Dashboard-Design
+OK    bento-dashboard-27509707  https://dribbble.com/shots/27509707-Fintech-SaaS-Dashboard-Financial-Analytics-UI
+OK    bento-dashboard-27604177  https://dribbble.com/shots/27604177-Momentum-Bento-Grid-Dashboard-Muscle-Telemetry-UI
+OK    bento-dashboard-27617446  https://dribbble.com/shots/27617446-Freshlyo-Grocery-Ecommerce-Admin-Dashboard
+OK    bento-dashboard-27693799  https://dribbble.com/shots/27693799-Cloudeuy-Storage-Management-Bento-Cards
+OK    bento-dashboard-27696477  https://dribbble.com/shots/27696477-Crypto-Bento-Card-Design-UIAble
+OK    bento-dashboard-27737287  https://dribbble.com/shots/27737287-Message-Communication-Platform-Landing-Page-UI
+OK    booking-16785410  https://dribbble.com/shots/16785410-Flight-Booking-Dashboard-Design
+OK    booking-24823350  https://dribbble.com/shots/24823350-EV-Charging-Station-Booking-Dashboard
+OK    booking-24948248  https://dribbble.com/shots/24948248-Ticket-Booking-Dashboard
+OK    booking-25465242  https://dribbble.com/shots/25465242-Ticket-Booking-Dashboard
+OK    booking-25717556  https://dribbble.com/shots/25717556-Travel-Booking-Dashboard
+OK    booking-26830055  https://dribbble.com/shots/26830055-Flight-Ticket-Booking-Dashboard
+OK    booking-27226183  https://dribbble.com/shots/27226183-Signup-Page-for-Hotel-Booking-Dashboard
+OK    booking-27407423  https://dribbble.com/shots/27407423-Luxury-Car-Booking-Dashboard-UI-UX-Design-for-Automotive-Rental
+OK    booking-27511309  https://dribbble.com/shots/27511309-AI-Driven-Medtech-Website-Design-for-HealthSync-Platform
+OK    booking-27614655  https://dribbble.com/shots/27614655-Travel-booking-dashboard-design-SkyWay
+OK    booking-27646449  https://dribbble.com/shots/27646449-Yow-Island-Reservation-Dashboard
+OK    booking-27681007  https://dribbble.com/shots/27681007-Smart-Flight-Booking-Dashboard-UI
+OK    booking-27708519  https://dribbble.com/shots/27708519-Flight-Booking-Dashboard-UI-Concept
+OK    building-17284100  https://dribbble.com/shots/17284100-Dashboard-Management-Form-Building-Application
+OK    building-26411572  https://dribbble.com/shots/26411572-Smart-Building-Management-System-Dashboard
+OK    building-26448797  https://dribbble.com/shots/26448797-Dynamic-Dashboards-Smarter-Urban-Control-Animation
+OK    building-26557154  https://dribbble.com/shots/26557154-Pegu-HRM-Dashboard
+OK    building-26907070  https://dribbble.com/shots/26907070-Minimal-SaaS-Project-Manager-Dashboard
+OK    building-26972668  https://dribbble.com/shots/26972668-Minimal-SaaS-Project-Manager-AI-Chatbot
+OK    building-27390516  https://dribbble.com/shots/27390516-Finvest-Investment-Portfolio-Transaction-Dashboard-Design
+OK    building-27451240  https://dribbble.com/shots/27451240-Project-Campaign-Management-Dashboard
+OK    building-27594816  https://dribbble.com/shots/27594816-Fintech-Dashboard-UI-Design-Financial-Analytics-Admin-Panel
+OK    building-27615859  https://dribbble.com/shots/27615859-Student-Management-Dashboard-UI-UX-Education-Admin-Panel-Design
+OK    building-27617120  https://dribbble.com/shots/27617120-Dashboard-Design-SaaS
+OK    building-27699607  https://dribbble.com/shots/27699607-Investment-Portfolio-Tracker-App-UI-UX-Design
+OK    building-27723060  https://dribbble.com/shots/27723060-Real-Estate-Dashboard-Design-Property-Analytics-UI-UX
+OK    building-27781532  https://dribbble.com/shots/27781532-SaaS-Project-Management-Dashboard-UI
+OK    construction-24992957  https://dribbble.com/shots/24992957-Construction-Dashboard-Overview-Promotion-Sales-Analysis
+OK    construction-26105895  https://dribbble.com/shots/26105895-Tectra-Smart-Construction-Dashboard
+OK    construction-26156081  https://dribbble.com/shots/26156081-Liquid-Glass-Widget-Components-Smart-Construction-Dashboard-UI
+OK    construction-26513168  https://dribbble.com/shots/26513168-Constier-Construction-Dashboard
+OK    construction-26982686  https://dribbble.com/shots/26982686-Modern-Construction-Dashboard-UI-Real-Time-Project-Management
+OK    construction-27030851  https://dribbble.com/shots/27030851-Construction-Dashboard-Design
+OK    construction-27292420  https://dribbble.com/shots/27292420-Structra-Smart-Construction-Dashboard
+OK    construction-27336056  https://dribbble.com/shots/27336056-Smart-Construction-Dashboard-SaaS-Web-App-UI-UX-Design
+OK    construction-27490417  https://dribbble.com/shots/27490417-Obrixa-Smart-Construction-Dashboard
+OK    construction-27577216  https://dribbble.com/shots/27577216-Builders-Brick-Modern-Construction-Dashboard-App-Design
+OK    construction-27746981  https://dribbble.com/shots/27746981-AI-Dashboard-UX-UI-Product-Design
+OK    dashboard-image-25447833  https://dribbble.com/shots/25447833-AI-Content-Image-Generator-SaaS-Dashboard-UI-UX-Design
+OK    dashboard-image-26417573  https://dribbble.com/shots/26417573-Real-Estate-Dashboard
+OK    dashboard-image-26801894  https://dribbble.com/shots/26801894-Property-Management-Dashboard-UI-Design
+OK    dashboard-image-26865474  https://dribbble.com/shots/26865474-Auralis-AI-Automation-Dashboard
+OK    dashboard-image-27121953  https://dribbble.com/shots/27121953--Finance-Digital-Banking-Smart-Payment-Landing-Page
+OK    dashboard-image-27193327  https://dribbble.com/shots/27193327-AI-image-generation-dashboard-Creative-AI-Web-UI
+OK    dashboard-image-27214788  https://dribbble.com/shots/27214788-Keyvo-Website
+OK    dashboard-image-27538244  https://dribbble.com/shots/27538244-AI-Web-Dashboard
+OK    dashboard-image-27637384  https://dribbble.com/shots/27637384-Restaurant-POS-Dashboard-Design-Modern-Food-Ordering-UI-UX
+OK    dashboard-image-27696012  https://dribbble.com/shots/27696012-Orbizz-Finance-Dashboard-with-AI-Agent-Recommendation
+OK    dashboard-image-27737281  https://dribbble.com/shots/27737281-Smart-Ring-App-Health-Tracking-Mobile-UI
+OK    dashboard-image-27749089  https://dribbble.com/shots/27749089-FINAN-A-Fresh-Take-on-Finance-Web-Design
+OK    dashboard-image-27778134  https://dribbble.com/shots/27778134-Orbizz-Finance-Dashboard-with-Notification-Center
+OK    elegant-22734007  https://dribbble.com/shots/22734007-Tutoring-platform-App-design
+OK    elegant-24939351  https://dribbble.com/shots/24939351-Job-Management-System-SaaS-Dashboard
+OK    elegant-25431161  https://dribbble.com/shots/25431161-photography-website-ui-design
+OK    elegant-25533385  https://dribbble.com/shots/25533385-Payment-cryptocurrency-mobile-UI-design
+OK    elegant-26113864  https://dribbble.com/shots/26113864-Payment-cryptocurrency-mobile-UI-design
+OK    elegant-26673571  https://dribbble.com/shots/26673571-AI-Smart-Home-App
+OK    elegant-26699629  https://dribbble.com/shots/26699629-Finance-Card-Mobile-App-UI-Design
+OK    elegant-26762722  https://dribbble.com/shots/26762722-Custom-Learning-Dashboard-Design
+OK    elegant-27354751  https://dribbble.com/shots/27354751-ZIKO-Finance-Website-UI-UX-Modern-Fintech-Landing-Page
+OK    elegant-27387170  https://dribbble.com/shots/27387170-Healthy-Food-Scanner-Mobile-App
+OK    elegant-27535711  https://dribbble.com/shots/27535711-WebPee-AI-Website-Builder-Landing-Page
+OK    elegant-27551014  https://dribbble.com/shots/27551014-Real-Time-Personal-Health-Dashboard-Mobile-App-Design
+OK    elegant-27759252  https://dribbble.com/shots/27759252-UI-UX-Audit-Check-Your-Website
+OK    finance-19411888  https://dribbble.com/shots/19411888-iBanko-Finance-Dashboard-UI-Concept
+OK    finance-19700264  https://dribbble.com/shots/19700264-Finance-Dashboard-Design
+OK    finance-24687824  https://dribbble.com/shots/24687824-Finance-Dashboard
+OK    finance-25178389  https://dribbble.com/shots/25178389-Fundcy-Finance-Dashboard
+OK    finance-26210274  https://dribbble.com/shots/26210274-Finance-Dashboard-Design
+OK    finance-26317465  https://dribbble.com/shots/26317465-Finance-Dashboard-Design
+OK    finance-26791339  https://dribbble.com/shots/26791339-Finance-Dashboard
+OK    finance-27258613  https://dribbble.com/shots/27258613-FinScope-Finance-Dashboard-UI
+OK    finance-27425883  https://dribbble.com/shots/27425883-Finance-Dashboard
+OK    finance-27484500  https://dribbble.com/shots/27484500-Finance-Dashboard-Design
+OK    finance-27504897  https://dribbble.com/shots/27504897-Finexa-Modern-Finance-Dashboard-UIUX-Design
+OK    finance-27554203  https://dribbble.com/shots/27554203-Fintrack-Personal-Finance-Dashboard
+OK    finance-27558664  https://dribbble.com/shots/27558664-Mobile-Ecommerce-App
+OK    finance-27783565  https://dribbble.com/shots/27783565-Mobile-app-YouSquared
+OK    fleet-14421207  https://dribbble.com/shots/14421207-Fleet-Management-Dashboard
+OK    fleet-26327784  https://dribbble.com/shots/26327784-Logistics-Fleet-Management-Dashboard
+OK    fleet-26357684  https://dribbble.com/shots/26357684-Logistics-Fleet-Management-Dashboard
+OK    fleet-26849863  https://dribbble.com/shots/26849863-Logistics-Fleet-Management-Dashboard-UI
+OK    fleet-26918657  https://dribbble.com/shots/26918657-Logistics-Fleet-Management-Dashboard
+OK    fleet-27210450  https://dribbble.com/shots/27210450-Logistics-Fleet-Management-Dashboard
+OK    fleet-27267855  https://dribbble.com/shots/27267855-Logistics-Fleet-Management-Dashboard
+OK    fleet-27414943  https://dribbble.com/shots/27414943-Vodafone-Fleet-management-dashboard-app
+OK    fleet-27442953  https://dribbble.com/shots/27442953-Logistics-Fleet-Management-Dashboard
+OK    fleet-27516015  https://dribbble.com/shots/27516015-Fleet-Management-Dashboard-Design-Haulix
+OK    fleet-27624555  https://dribbble.com/shots/27624555-Telematics-Fleet-Management-Dashboard-UI
+OK    fleet-27672454  https://dribbble.com/shots/27672454-Logistics-Fleet-Management-Dashboard
+OK    fleet-27728912  https://dribbble.com/shots/27728912-Northvale-Fleet-Management-Dashboard-UI
+OK    fleet-27741036  https://dribbble.com/shots/27741036-Northvale-Fleet-Management-Dashboard-UI
+OK    glass-14918446  https://dribbble.com/shots/14918446-Glassmorphism-Dashboard
+OK    glass-25345989  https://dribbble.com/shots/25345989-Glassmorphism-Dashboard-UI-Design
+OK    glass-25346001  https://dribbble.com/shots/25346001-Glassmorphism-Dashboard-UI-Design
+OK    glass-25346029  https://dribbble.com/shots/25346029-Glassmorphism-Dashboard-UI-Design
+OK    glass-26001298  https://dribbble.com/shots/26001298-HR-Management-Dashboard
+OK    glass-26136889  https://dribbble.com/shots/26136889-Glassmorphism-Dashboard
+OK    glass-26539889  https://dribbble.com/shots/26539889-E-commerce-Admin-Dashboard-Glassmorphism-UI
+OK    glass-27155138  https://dribbble.com/shots/27155138-Glassmorphism-Finanace-Dashboard
+OK    glass-27177396  https://dribbble.com/shots/27177396-Modern-Finance-Dashboard-UI-Design
+OK    glass-27369332  https://dribbble.com/shots/27369332-Kiln-Monitoring-App-Glassmorphism-Dashboard
+OK    glass-27523407  https://dribbble.com/shots/27523407-Glassmorphism-Analytics-Dashboard-UI
+OK    glass-27523423  https://dribbble.com/shots/27523423-Glassmorphism-Dashboard-Components
+OK    glass-27639867  https://dribbble.com/shots/27639867-Glassmorphism-Dashboard-UI-UX-Design
+OK    glass-27667680  https://dribbble.com/shots/27667680-Glassmorphism-Dashboard-UI-Design
+OK    hr-24178243  https://dribbble.com/shots/24178243-Wiko-HR-Dashboard-UI-KIT
+OK    hr-25362122  https://dribbble.com/shots/25362122-HR-Dashboard-UI
+OK    hr-25860030  https://dribbble.com/shots/25860030-HR-Dashboard-UI-Clear-Metrics-Human-Centered-Design
+OK    hr-26819893  https://dribbble.com/shots/26819893-AI-HR-Dashboard-UI-Employee-Management-Analytics
+OK    hr-27170104  https://dribbble.com/shots/27170104-HR-Dashboard-UI-Workforce-Intelligence-Design
+OK    hr-27210235  https://dribbble.com/shots/27210235-Analytics-Widgets-for-HR-Dashboard-UI
+OK    hr-27329856  https://dribbble.com/shots/27329856-Employee-Management-SaaS-Landing-Page-HR-Dashboard-UIUX-Design
+OK    isometric-27038483  https://dribbble.com/shots/27038483-Smart-Home-Dashboard
+OK    isometric-27221377  https://dribbble.com/shots/27221377-AI-powered-Airport-Control-Dashboard
+OK    isometric-27528255  https://dribbble.com/shots/27528255-Kairo-Gaming-Analytics-Dashboard
+OK    isometric-27593452  https://dribbble.com/shots/27593452-Logistics-Fleet-Tracking-Website
+OK    isometric-27623477  https://dribbble.com/shots/27623477-3D-Isometric-Product-UI
+OK    isometric-27747219  https://dribbble.com/shots/27747219-Logistics-Fleet-Tracking-Website
+OK    isometric-27750217  https://dribbble.com/shots/27750217-Main-Page
+OK    isometric-27806380  https://dribbble.com/shots/27806380-Hospital-Management-Dashboard-Healthcare-UI-UX-Design
+OK    light-16581352  https://dribbble.com/shots/16581352-Project-Management-Dashboard-Light-Mode
+OK    light-18962994  https://dribbble.com/shots/18962994-Homix-Rent-Dashboard-Light-Version
+OK    light-21739391  https://dribbble.com/shots/21739391-Heart-Rate-Activity-Tracking-Dashboard-Light-and-Dark-Theme
+OK    light-24125201  https://dribbble.com/shots/24125201-Dashboard-Light-Dark-Mode
+OK    light-24152403  https://dribbble.com/shots/24152403-Finance-Dashboard-light-theme
+OK    light-25012791  https://dribbble.com/shots/25012791-Pre-Deposit-Dashboard-Light
+OK    light-25673039  https://dribbble.com/shots/25673039-Core-Panel-Dashboard-Light-Dark
+OK    light-25748126  https://dribbble.com/shots/25748126-User-Management-Dashboard-Light-Mode
+OK    light-25930809  https://dribbble.com/shots/25930809-Attribution-Tracking-Dashboard-Light-Mode
+OK    light-26591564  https://dribbble.com/shots/26591564-Boostboard-Leads-Dashboard-Light-mode
+OK    light-26752107  https://dribbble.com/shots/26752107-Cryven-Dashboard-Light-Mode-Crypto-Trading-Wallet-UI-Design
+OK    light-27010423  https://dribbble.com/shots/27010423-AI-Analytics-Dashboard-Light-UI
+OK    light-27022426  https://dribbble.com/shots/27022426-Cyber-Security-Dashboard-Light-Mode
+OK    light-5929592  https://dribbble.com/shots/5929592-Security-Service-Dashboard-Light-Theme
+OK    logistics-21369240  https://dribbble.com/shots/21369240-Logistics-Dashboard-Web-App-Design-Analytics-UX-UI
+OK    logistics-23422627  https://dribbble.com/shots/23422627-Shipment-Logistic-Dashboard-App
+OK    logistics-26614559  https://dribbble.com/shots/26614559-Logistic-Dashboard-UI-Kit-Monitor-Route-Resolve
+OK    logistics-26783464  https://dribbble.com/shots/26783464-Routax-Container-Truck-Logistic-Dashboard
+OK    logistics-26886445  https://dribbble.com/shots/26886445-Shipment-Logistic-Dashboard-App
+OK    logistics-26947314  https://dribbble.com/shots/26947314-SkyLift-Air-Cargo-Logistics-Dashboard
+OK    logistics-26961544  https://dribbble.com/shots/26961544-Logistics-Dashboard-UI
+OK    logistics-26961604  https://dribbble.com/shots/26961604-Logistics-Dashboard-Design-UI-UX
+OK    logistics-27229691  https://dribbble.com/shots/27229691-UI-UX-Design-for-Logistics-Dashboard-Haulix
+OK    logistics-27288911  https://dribbble.com/shots/27288911-Nexus-Logistics-Dashboard
+OK    logistics-27343207  https://dribbble.com/shots/27343207-NexusFlow-Logistics-Dashboard-UI-for-Freight-Management-SaaS
+OK    logistics-27355048  https://dribbble.com/shots/27355048-Teriminal-Inc-Dashboard-Logistic-Management
+OK    logistics-27355064  https://dribbble.com/shots/27355064-Shipping-Logistics-Dashboard
+OK    logistics-27751970  https://dribbble.com/shots/27751970-logistics-dashboard-nova-post
+OK    luxury-25754005  https://dribbble.com/shots/25754005-Verite-Skincare-Management-Dashboard
+OK    luxury-26759304  https://dribbble.com/shots/26759304-Nova-Control-Panel-Modern-Luxury-Analytics-Dashboard-Figma
+OK    luxury-26884817  https://dribbble.com/shots/26884817-Luxury-Dining-Dashboard-Sushi-Private-Services
+OK    luxury-27069305  https://dribbble.com/shots/27069305-Luxury-Automotive-Admin-Dashboard-All-Car-Management-Screens
+OK    luxury-27075808  https://dribbble.com/shots/27075808-Furniture-Sales-Dashboard-Luxury-Web-UI
+OK    luxury-27317094  https://dribbble.com/shots/27317094-Luxury-Aviation-Dashboard-UI-Private-Jet-Flight-Management
+OK    luxury-27396738  https://dribbble.com/shots/27396738-Luxury-Car-Dashboard-Website-UI-Design
+OK    luxury-27420077  https://dribbble.com/shots/27420077-Luxury-Furniture-Ecommerce-Dashboard
+OK    luxury-27507129  https://dribbble.com/shots/27507129-HomePilot-AI-Intelligent-Home-Dashboard-UI
+OK    luxury-27549236  https://dribbble.com/shots/27549236-AI-Luxury-Car-Dashboard
+OK    luxury-27568326  https://dribbble.com/shots/27568326-Finlio-Luxury-Finance-Dashboard-UI-Design-for-Freelancers
+OK    luxury-27663316  https://dribbble.com/shots/27663316-Luxury-Flight-Dashboard
+OK    luxury-27680437  https://dribbble.com/shots/27680437-Ocean-Royale-Yacht-Booking-Analytics-Dashboard
+OK    luxury-27706731  https://dribbble.com/shots/27706731-Provenance-SaaS-Platform-for-Galleries-Dealers
+OK    maintenance-25044690  https://dribbble.com/shots/25044690-Growth-Maintenance-Dashboard
+OK    maintenance-25611480  https://dribbble.com/shots/25611480-Machine-Maintenance-Dashboard
+OK    maintenance-25660393  https://dribbble.com/shots/25660393-Growth-Maintenance-Dashboard
+OK    maintenance-25673944  https://dribbble.com/shots/25673944-Safety-Growth-Maintenance-Dashboard
+OK    maintenance-26790557  https://dribbble.com/shots/26790557-Opsen-Maintenance-Dashboard
+OK    maintenance-26804903  https://dribbble.com/shots/26804903-DeySync-System-Maintenance-Dashboard
+OK    maintenance-26887862  https://dribbble.com/shots/26887862-AI-Fleet-Maintenance-Dashboard-UI
+OK    maintenance-26947875  https://dribbble.com/shots/26947875-Smart-Factory-Predictive-Maintenance-Dashboard
+OK    maintenance-27058022  https://dribbble.com/shots/27058022-SD-WAN-Maintenance-Dashboard
+OK    maintenance-27335533  https://dribbble.com/shots/27335533-Maintenance-Dashboard-UI
+OK    maintenance-27667526  https://dribbble.com/shots/27667526-Vehicle-Details-Maintenance-Dashboard-for-SaaS-TrueTrack
+OK    maintenance-27798376  https://dribbble.com/shots/27798376-car-dashboard-concept-carwhisperer
+OK    maintenance-5885198  https://dribbble.com/shots/5885198-Aircraft-Maintenance-Dashboard-Light
+OK    maintenance-9109597  https://dribbble.com/shots/9109597-Preventive-Maintenance-Dashboard
+OK    map-25062167  https://dribbble.com/shots/25062167-Code-Map-tracking-Dashboard
+OK    map-26069311  https://dribbble.com/shots/26069311-Dashboard-with-Map
+OK    map-26871737  https://dribbble.com/shots/26871737-Logistics-Fleet-Management-Web-Dashboard-Design
+OK    map-26905357  https://dribbble.com/shots/26905357-AiroGuide-AI-Travel-Dashboard-UI
+OK    map-27513492  https://dribbble.com/shots/27513492-Human-in-the-Loop-AI-Decision-Dashboard-for-Logistics-Operations
+OK    neutral-20011415  https://dribbble.com/shots/20011415-Mobile-App-Design-for-Cargo-Shipping-Freight-Apps
+OK    neutral-25752262  https://dribbble.com/shots/25752262-CareSync-SaaS-Healthcare-Dashboard-Appointments
+OK    neutral-26406512  https://dribbble.com/shots/26406512-EcoSun-Solar-Panel-Management-Mobile-App
+OK    neutral-26406857  https://dribbble.com/shots/26406857-Mindful-Moments-Wellness-Mood-Tracker-App
+OK    neutral-26793391  https://dribbble.com/shots/26793391-Sales-Business-Admin-Dashboard-Design
+OK    neutral-26902263  https://dribbble.com/shots/26902263-Capway-B2B-SaaS-for-a-Fitness-coach-marketing-agency
+OK    neutral-26930259  https://dribbble.com/shots/26930259-Client-dashboard-UI-for-a-hospitality-platform
+OK    neutral-27181841  https://dribbble.com/shots/27181841-Banking-Credit-Score-Mobile-App
+OK    neutral-27215098  https://dribbble.com/shots/27215098-E-Commerce-Admin-Dashboard-Product-Management-Curation-Inter
+OK    neutral-27268775  https://dribbble.com/shots/27268775-Smart-Home-Management-IoT-Dashboard-UI
+OK    neutral-27280567  https://dribbble.com/shots/27280567-Swivel-Turn-Marketplace-Buyers-Into-Loyal-Customers
+OK    neutral-27384854  https://dribbble.com/shots/27384854-Crypto-Management-Asset-Dashboard
+OK    neutral-27387139  https://dribbble.com/shots/27387139-Smart-Solar-Energy-App-UI-Design
+OK    neutral-27447269  https://dribbble.com/shots/27447269-Sinau-Education-Dashboard-Platform
+OK    neutral-27510428  https://dribbble.com/shots/27510428-Interactive-AI-Ops-Dashboard
+OK    neutral-27525852  https://dribbble.com/shots/27525852-BatteryPro-App
+OK    neutral-27536214  https://dribbble.com/shots/27536214-Email-Marketing-Dashboard-Exploration
+OK    neutral-27539233  https://dribbble.com/shots/27539233-B2B-SaaS-Admin-Dashboard
+OK    neutral-27540339  https://dribbble.com/shots/27540339-Crypto-Markets-Explore-All-Tokens
+OK    neutral-27540348  https://dribbble.com/shots/27540348-Crypto-Portfolio-Overview-Dashboard
+OK    neutral-27609503  https://dribbble.com/shots/27609503-Aurora-Minimal-SaaS-Landing-Page-Dashboard-UI
+OK    neutral-27635806  https://dribbble.com/shots/27635806-Velluto-Manufacturing-Mobile-App-for-Order-Tracking-Quality
+OK    neutral-27660516  https://dribbble.com/shots/27660516-Dance-Studio-Management-Dashboard-with-Brutalist-UI
+OK    neutral-27713867  https://dribbble.com/shots/27713867-Wellness-habit-tracker-mobile-app
+OK    neutral-27753617  https://dribbble.com/shots/27753617-Home-Security-App-Motion-Concept
+OK    office-25748099  https://dribbble.com/shots/25748099-User-Management-Dashboard-Dark-Mode
+OK    office-26298693  https://dribbble.com/shots/26298693-WhatTask-AI-Virtual-Office-Management
+OK    os-16668198  https://dribbble.com/shots/16668198-HMI-Car-Dashboard-Cluster-UI-Design-Animation
+OK    os-17049961  https://dribbble.com/shots/17049961-TV-voice-operating-system
+OK    os-17715053  https://dribbble.com/shots/17715053-Voice-Launcher-UI-by-Milkinside
+OK    os-26722789  https://dribbble.com/shots/26722789-Voice-interaction-for-Natural-search-UI-by-Gleb-Kuznetsov
+OK    os-26845135  https://dribbble.com/shots/26845135-Cubes-OS-TV-Operating-System-SaaS-UI-Design
+OK    os-27186976  https://dribbble.com/shots/27186976-Agenix-AI-Multi-Agent-Workspace-Branding-UI-UX
+OK    os-27204296  https://dribbble.com/shots/27204296-B2B-eCommerce-Operating-System-SaaS-Landing-Page
+OK    os-27455588  https://dribbble.com/shots/27455588-Sephra-Brand-UI-Design
+OK    os-27472741  https://dribbble.com/shots/27472741-MEMENTO-AI-Memory-Operating-System
+OK    os-27640034  https://dribbble.com/shots/27640034-Clareo-Personal-Finance-Operating-System-App
+OK    os-27648490  https://dribbble.com/shots/27648490-Fluxa-AI-Marketing-Operating-System-Mobile-UI
+OK    os-27664257  https://dribbble.com/shots/27664257-Vela-Insurance-Operating-System-Dashboard
+OK    os-27743021  https://dribbble.com/shots/27743021-AI-Life-Management-Operating-System-Productivity-Dashboard-UI
+OK    os-3704963  https://dribbble.com/shots/3704963-Natural-OS-most-advanced-AI-operating-system
+OK    projects-15873588  https://dribbble.com/shots/15873588-Project-Management-Dashboard-desktop-view
+OK    projects-18753092  https://dribbble.com/shots/18753092-SaaS-Project-Management-Dashboard
+OK    projects-26147477  https://dribbble.com/shots/26147477-Taskora-Smart-Project-Management-Dashboard-UI
+OK    projects-26327399  https://dribbble.com/shots/26327399-Project-Management-Dashboard
+OK    projects-26532887  https://dribbble.com/shots/26532887-Taskly-Project-Management-Dashboard
+OK    projects-26611175  https://dribbble.com/shots/26611175-Project-Management-Dashboard
+OK    projects-26819791  https://dribbble.com/shots/26819791-Project-Management-Dashboard
+OK    projects-27054769  https://dribbble.com/shots/27054769-Synchro-Project-Management-Dashboard
+OK    projects-27107108  https://dribbble.com/shots/27107108-TaskFlow-Project-Management-Dashboard-SaaS-Web-App
+OK    projects-27318564  https://dribbble.com/shots/27318564-Project-Management-Dashboard
+OK    projects-27348658  https://dribbble.com/shots/27348658-SaaS-Project-Management-Dashboard-Design
+OK    projects-27373229  https://dribbble.com/shots/27373229-Zaga-Project-Management-Dashboard
+OK    projects-27529254  https://dribbble.com/shots/27529254-Project-Management-Dashboard-Design
+OK    projects-27574945  https://dribbble.com/shots/27574945-Studio-Agency-Project-Management-Dashboard
+OK    property-10207951  https://dribbble.com/shots/10207951--Sidebar-Property-Management-Dashboard
+OK    property-16199729  https://dribbble.com/shots/16199729-My-Properties-Page-Property-Management-Dashboard
+OK    property-17465031  https://dribbble.com/shots/17465031-Property-Management-Dashboard-Exploration
+OK    property-18964293  https://dribbble.com/shots/18964293-Latchel-Property-Management-Dashboard
+OK    property-22540989  https://dribbble.com/shots/22540989-Property-Management-Dashboard
+OK    property-24543134  https://dribbble.com/shots/24543134-Area-property-management-dashboard
+OK    property-24547382  https://dribbble.com/shots/24547382-Property-Management-Dashboard
+OK    property-24739192  https://dribbble.com/shots/24739192-Property-Management-Dashboard
+OK    property-24887085  https://dribbble.com/shots/24887085-Property-Management-Dashboard
+OK    property-24985609  https://dribbble.com/shots/24985609-Property-Management-Dashboard-UI-Kit
+OK    property-25757551  https://dribbble.com/shots/25757551-Smart-Property-Management-Dashboard
+OK    property-26056031  https://dribbble.com/shots/26056031-Property-Management-Dashboard
+OK    property-27679310  https://dribbble.com/shots/27679310-AI-Powered-Property-Management-Dashboard
+OK    property-27686808  https://dribbble.com/shots/27686808-AI-Powered-Unified-Inbox-Property-Management-Dashboard
+OK    property-27709053  https://dribbble.com/shots/27709053-Al-Waha-Luxury-Property-Management-Dashboard
+OK    property-27719708  https://dribbble.com/shots/27719708-Property-Management-Dashboard-UI-Real-Estate-SaaS-Platform
+OK    property-27728747  https://dribbble.com/shots/27728747-Real-Estate-Property-Management-Dashboard-UI
+OK    real-estate-20876539  https://dribbble.com/shots/20876539-Tabela-Modern-Real-Estate-Dashboard-UX-UI-Design
+OK    real-estate-23722745  https://dribbble.com/shots/23722745-Real-Estate-Dashboard-Design
+OK    real-estate-24024085  https://dribbble.com/shots/24024085-Real-Estate-Dashboard-Design-Concept
+OK    real-estate-24510391  https://dribbble.com/shots/24510391-RealtyHub-CRM-Real-Estate-Dashboard
+OK    real-estate-24768563  https://dribbble.com/shots/24768563-Arche-Real-Estate-Dashboard
+OK    real-estate-25035193  https://dribbble.com/shots/25035193-Nova-house-Real-Estate-Dashboard
+OK    real-estate-25261324  https://dribbble.com/shots/25261324-Nova-house-Real-Estate-Dashboard
+OK    real-estate-25368418  https://dribbble.com/shots/25368418--Real-Estate-Dashboard-Design-Concept
+OK    real-estate-25472601  https://dribbble.com/shots/25472601-Palco-CRM-Real-Estate-Dashboard
+OK    real-estate-25479178  https://dribbble.com/shots/25479178-RealE-360-CRM-Real-Estate-Dashboard
+OK    real-estate-25606416  https://dribbble.com/shots/25606416-Homiva-Real-Estate-Dashboard
+OK    real-estate-25943394  https://dribbble.com/shots/25943394-Lirensi-CRM-Real-Estate-Dashboard
+OK    real-estate-26251104  https://dribbble.com/shots/26251104-ARTE-Real-Estate-Dashboard
+OK    real-estate-26495519  https://dribbble.com/shots/26495519-Real-Estate-Dashboard-Property-Listing-Map-UI
+OK    real-estate-26500546  https://dribbble.com/shots/26500546-Real-Estate-Dashboard-Motion-Graphic-UI-UX-Design-Taqwah
+OK    real-estate-26522978  https://dribbble.com/shots/26522978-Smart-Real-Estate-Dashboard-UI
+OK    real-estate-26557848  https://dribbble.com/shots/26557848-Propify-Real-Estate-Dashboard-Web-App
+OK    real-estate-26761941  https://dribbble.com/shots/26761941-Onero-SaaS-Real-Estate-Dashboard-CRM
+OK    real-estate-26836156  https://dribbble.com/shots/26836156-Roemah-Real-Estate-Dashboard
+OK    real-estate-26986797  https://dribbble.com/shots/26986797-Real-Estate-Dashboard-UI
+OK    real-estate-27010086  https://dribbble.com/shots/27010086-Modern-Real-Estate-Dashboard
+OK    real-estate-27045949  https://dribbble.com/shots/27045949-Estateo-Real-Estate-Dashboard
+OK    real-estate-27233659  https://dribbble.com/shots/27233659-Real-Estate-Dashboard-UI
+OK    real-estate-27237891  https://dribbble.com/shots/27237891-Interactive-Real-Estate-Dashboard-Geospatial-Data-Visualization
+OK    real-estate-27345855  https://dribbble.com/shots/27345855-Property-Listing-Real-Estate-Dashboard-B2B-SaaS
+OK    real-estate-27345999  https://dribbble.com/shots/27345999-Real-Estate-Dashboard-Design
+OK    real-estate-27350201  https://dribbble.com/shots/27350201-Aurex-Living-Real-Estate-Dashboard-Design
+OK    real-estate-27467616  https://dribbble.com/shots/27467616-Real-Estate-Dashboard-Design
+OK    real-estate-27494496  https://dribbble.com/shots/27494496-Real-Estate-Dashboard-UI-Design-for-Real-Estate-LIVIO
+OK    real-estate-27548957  https://dribbble.com/shots/27548957-Smart-Real-Estate-Dashboard-UI
+OK    smart-home-19973319  https://dribbble.com/shots/19973319-Smart-home-dashboard-UI
+OK    smart-home-ui-27380264  https://dribbble.com/shots/27380264-Smart-Home-Device-Control-Mobile-UI
+OK    smart-home-ui-27387425  https://dribbble.com/shots/27387425-Smart-Home-Climate-Dashboard-Web-App-UI-UX-Design
+OK    smart-home-ui-27396296  https://dribbble.com/shots/27396296-Sunglass-Company-Icon-Set
+OK    smart-home-ui-27507497  https://dribbble.com/shots/27507497-Smart-Home-Solutions-Landing-Page-Home-Appliances-Website
+OK    smart-home-ui-27637495  https://dribbble.com/shots/27637495-Solar-Energy-Tracker-Smart-Battery-Management-App-UI-Design
+OK    smart-home-ui-27661908  https://dribbble.com/shots/27661908-Smart-Home-web-ui-design
+OK    smart-home-ui-27744316  https://dribbble.com/shots/27744316-Smart-Home-Audio-System-UI-UX-Design
+OK    smart-home-ui-27746499  https://dribbble.com/shots/27746499-Smart-Home-Temperature-Control-App-UI-UX-Design
+OK    smart-home-ui-27748391  https://dribbble.com/shots/27748391-Smart-Home-Product-Web-UI-Design
+OK    soft-ui-25511362  https://dribbble.com/shots/25511362-Skin-Care-Products-Web-Design
+OK    soft-ui-26344633  https://dribbble.com/shots/26344633-Soft-UI-for-a-Smarter-Life-Dashboard
+OK    soft-ui-27047468  https://dribbble.com/shots/27047468-Healthcare-Dashboard-Design
+OK    soft-ui-27135030  https://dribbble.com/shots/27135030-PopTutore
+OK    soft-ui-27135060  https://dribbble.com/shots/27135060-PopTutore
+OK    soft-ui-27168641  https://dribbble.com/shots/27168641-Fintech-Finance-Dashboard-Admin-Panel-UI
+OK    soft-ui-27271116  https://dribbble.com/shots/27271116-AI-Skincare-Companion-App-Design
+OK    soft-ui-27313958  https://dribbble.com/shots/27313958-Children-s-Study-App-UI-UX-Concept
+OK    soft-ui-27328716  https://dribbble.com/shots/27328716-Crypto-Trading-Dashboard
+OK    soft-ui-27356277  https://dribbble.com/shots/27356277-AI-Image-Generation-Dashboard-UI
+OK    soft-ui-27357480  https://dribbble.com/shots/27357480-Gamified-Kids-Routine-Reward-Mobile-App
+OK    soft-ui-27364533  https://dribbble.com/shots/27364533-Revive-AI-Mobile-App-UI-UX-SaaS-Dashboard-Design
+OK    soft-ui-27380123  https://dribbble.com/shots/27380123-AI-Chat-Widget-UI-SaaS-Assistant-Design
+OK    soft-ui-27383003  https://dribbble.com/shots/27383003-Transix-Logistic-Landing-Page-Page
+OK    soft-ui-27569602  https://dribbble.com/shots/27569602-Password-Reset-Screen-Minimal-SaaS-UI
+OK    soft-ui-27687005  https://dribbble.com/shots/27687005--Flowora
+OK    soft-ui-27693155  https://dribbble.com/shots/27693155-Timetracker-Dashboard
+OK    soft-ui-27746668  https://dribbble.com/shots/27746668-Paynex-Modern-Fintech-Banking-UI-Design
+OK    team-16584880  https://dribbble.com/shots/16584880-Team-Management-Dashboard
+OK    team-18670168  https://dribbble.com/shots/18670168-Kanban-Team-Management-Dashboard-Design
+OK    team-18835293  https://dribbble.com/shots/18835293-Team-Management-Dashboard-Design-Concept
+OK    team-19025615  https://dribbble.com/shots/19025615-Team-Management-Dashboard-Sidebar-UI-Kit-Components
+OK    team-19198544  https://dribbble.com/shots/19198544-Task-Collaboration-Team-Management-Dashboard-Design
+OK    team-19248211  https://dribbble.com/shots/19248211-Team-Management-Dashboard-Kanban-Task-Manager
+OK    team-19569553  https://dribbble.com/shots/19569553-Team-Management-Dashboard-Design-Concept
+OK    team-19803726  https://dribbble.com/shots/19803726-Sidebar-Microinteractions-for-Team-Management-Dashboard
+OK    team-23930147  https://dribbble.com/shots/23930147-Team-Management-Dashboard
+OK    team-23987834  https://dribbble.com/shots/23987834-Team-Management-Dashboard-Design-Concept
+OK    team-24673090  https://dribbble.com/shots/24673090-Team-Management-Dashboard-UI-Animation
+OK    team-27393172  https://dribbble.com/shots/27393172-Team-Management-Dashboard
+OK    team-27520118  https://dribbble.com/shots/27520118-AI-Services-CRM-B2B-Brand-Augment
+OK    team-27541064  https://dribbble.com/shots/27541064-SaaS-Team-Management-Dashboard-UI-UX-Design-QuickSuite
+OK    warehouse-24875015  https://dribbble.com/shots/24875015-Warehouse-Dashboard-Live-Map
+OK    warehouse-25174851  https://dribbble.com/shots/25174851-WareTrack-Mobile-App-SaaS-Warehouse-Dashboard
+OK    warehouse-25476204  https://dribbble.com/shots/25476204-Inventix-SaaS-Warehouse-Dashboard
+OK    warehouse-25487838  https://dribbble.com/shots/25487838-Inventix-Mobile-App-SaaS-Warehouse-Dashboard
+OK    warehouse-25720580  https://dribbble.com/shots/25720580-Warehouse-Dashboard-Design
+OK    warehouse-26100183  https://dribbble.com/shots/26100183-WareMind-Warehouse-Dashboard-with-AI-Insights
+OK    warehouse-26629064  https://dribbble.com/shots/26629064-Navexa-WMS-Warehouse-Dashboard-UX-UI-Design
+OK    warehouse-26887131  https://dribbble.com/shots/26887131-ERP-Dashboard-for-Warehouse-Portfolio-Management
+OK    warehouse-26956265  https://dribbble.com/shots/26956265-Horizon-Warehouse-Operations-Dashboard
+OK    warehouse-27098154  https://dribbble.com/shots/27098154-Flowdeck-AI-Warehouse-Management
+OK    warehouse-27139303  https://dribbble.com/shots/27139303-ERP-Dashboard-for-Warehouse-Portfolio-Management
+OK    warehouse-27187055  https://dribbble.com/shots/27187055-Warehouse-Logistics-Web-Design
+OK    warehouse-27384937  https://dribbble.com/shots/27384937-Inventix-SaaS-Warehouse-Dashboard
+OK    warehouse-27464601  https://dribbble.com/shots/27464601-Warehouse-Dashboard-UI-Design
+OK    workspace-26819213  https://dribbble.com/shots/26819213-Team-Workspace-Dashboard-File-Management-UI
+OK    workspace-27114365  https://dribbble.com/shots/27114365-Ovra-Productivity-Workspace-Dashboard-My-Task-Page
+OK    workspace-27653477  https://dribbble.com/shots/27653477-AI-Productivity-Workspace-Dashboard-Design
