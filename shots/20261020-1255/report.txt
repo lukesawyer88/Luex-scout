@@ -1,0 +1,24 @@
+OK    workspace  https://dribbble.com/search/workspace-dashboard  (9s)  title: Browse thousands of Workspace Dashboard images for design inspiration | Dribbble
+OK    office  https://dribbble.com/search/office-management-dashboard  (11s)  title: Browse thousands of Office Management Dashboard images for design inspiration | Dribbble
+OK    building  https://dribbble.com/search/building-management-dashboard  (10s)  title: Browse thousands of Building Management Dashboard images for design inspiration | Dribbble
+OK    fleet  https://dribbble.com/search/fleet-management-dashboard  (10s)  title: Browse thousands of Fleet Management Dashboard images for design inspiration | Dribbble
+OK    logistics  https://dribbble.com/search/logistics-dashboard  (10s)  title: Browse thousands of Logistics Dashboard images for design inspiration | Dribbble
+OK    warehouse  https://dribbble.com/search/warehouse-dashboard  (11s)  title: Browse thousands of Warehouse Dashboard images for design inspiration | Dribbble
+OK    construction  https://dribbble.com/search/construction-dashboard  (10s)  title: Browse thousands of Construction Dashboard images for design inspiration | Dribbble
+OK    maintenance  https://dribbble.com/search/maintenance-dashboard  (10s)  title: Browse thousands of Maintenance Dashboard images for design inspiration | Dribbble
+OK    hr  https://dribbble.com/search/hr-dashboard-ui  (10s)  title: Browse thousands of Hr Dashboard UI images for design inspiration | Dribbble
+OK    team  https://dribbble.com/search/team-management-dashboard  (10s)  title: Browse thousands of Team Management Dashboard images for design inspiration | Dribbble
+OK    projects  https://dribbble.com/search/project-management-dashboard  (11s)  title: Browse thousands of Project Management Dashboard images for design inspiration | Dribbble
+OK    booking  https://dribbble.com/search/booking-dashboard  (10s)  title: Browse thousands of Booking Dashboard images for design inspiration | Dribbble
+OK    finance  https://dribbble.com/search/finance-dashboard  (11s)  title: Browse thousands of Finance Dashboard images for design inspiration | Dribbble
+OK    crm  https://dribbble.com/search/crm-dashboard-ui  (11s)  title: Browse thousands of Crm Dashboard UI images for design inspiration | Dribbble
+OK    glass  https://dribbble.com/search/glassmorphism-dashboard  (10s)  title: Browse thousands of Glassmorphism Dashboard images for design inspiration | Dribbble
+OK    isometric  https://dribbble.com/search/3d-isometric-dashboard  (10s)  title: Browse thousands of 3D Isometric Dashboard images for design inspiration | Dribbble
+OK    map  https://dribbble.com/search/map-dashboard  (10s)  title: Browse thousands of Map Dashboard images for design inspiration | Dribbble
+OK    light  https://dribbble.com/search/dashboard-light  (10s)  title: Browse thousands of Dashboard Light images for design inspiration | Dribbble
+OK    elegant  https://dribbble.com/search/elegant-dashboard  (10s)  title: Browse thousands of Elegant Dashboard images for design inspiration | Dribbble
+OK    luxury  https://dribbble.com/search/luxury-dashboard  (10s)  title: Browse thousands of Luxury Dashboard images for design inspiration | Dribbble
+OK    apple  https://dribbble.com/search/apple-style-dashboard  (10s)  title: Browse thousands of Apple Style Dashboard images for design inspiration | Dribbble
+OK    ipad  https://dribbble.com/search/ipad-dashboard  (11s)  title: Browse thousands of Ipad Dashboard images for design inspiration | Dribbble
+OK    ai  https://dribbble.com/search/ai-dashboard-ui  (10s)  title: Browse thousands of Ai Dashboard UI images for design inspiration | Dribbble
+OK    os  https://dribbble.com/search/operating-system-ui  (10s)  title: Browse thousands of Operating System UI images for design inspiration | Dribbble
