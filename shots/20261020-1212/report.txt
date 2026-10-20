@@ -1,0 +1,16 @@
+OK    minimal-dashboard  https://dribbble.com/search/minimal-dashboard  (10s)  title: Browse thousands of Minimal Dashboard images for design inspiration | Dribbble
+OK    clean-saas  https://dribbble.com/search/clean-saas-dashboard  (9s)  title: Browse thousands of Clean Saas Dashboard images for design inspiration | Dribbble
+OK    premium-dashboard  https://dribbble.com/search/premium-dashboard  (8s)  title: Browse thousands of Premium Dashboard images for design inspiration | Dribbble
+OK    enterprise-dashboard  https://dribbble.com/search/enterprise-dashboard  (8s)  title: Browse thousands of Enterprise Dashboard images for design inspiration | Dribbble
+OK    minimalist-web-app  https://dribbble.com/search/minimalist-web-app  (8s)  title: Browse thousands of Minimalist Web App images for design inspiration | Dribbble
+OK    workspace-app  https://dribbble.com/search/workspace-app  (8s)  title: Browse thousands of Workspace App images for design inspiration | Dribbble
+OK    attio  https://attio.com  (19s)  title: Attio: The CRM for agentic revenue
+OK    mercury  https://mercury.com  (11s)  title: Online Business Banking For Startups, Small Businesses & Scaling Companies
+OK    ramp  https://ramp.com  (18s)  title: Ramp United Kingdom: Corporate Cards & Expense Management
+OK    rippling  https://www.rippling.com  (10s)  title: Rippling: Number 1-Rated Workforce Management System | HR, IT, Finance
+OK    deel  https://www.deel.com  (9s)  title: Deel | Global Payroll, Compliance, HR Solutions | HRIS
+OK    notion  https://www.notion.com/product  (8s)  title: The AI workspace that works for you. | Notion
+OK    linear-features  https://linear.app/features  (7s)  title: Features – Linear
+OK    pitch  https://www.pitch.com  (11s)  title: The AI presentation workspace
+OK    ashby  https://www.ashbyhq.com  (8s)  title: All-in-one Recruiting Software for Ambitious Teams | Ashby
+OK    brex  https://www.brex.com  (19s)  title: Brex: The Modern Finance Software Platform | Spend Smarter
