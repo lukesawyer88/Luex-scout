@@ -1,0 +1,4 @@
+OK    linear  https://linear.app  (10s)  title: Linear – The system for product development
+OK    stripe  https://stripe.com  (10s)  title: Stripe | Financial Infrastructure to Grow Your Revenue
+OK    safetyculture  https://safetyculture.com  (11s)  title: Mitti (by SafetyCulture) | Workplace Operations System
+OK    landbook-gallery  https://land-book.com  (5s)  title: Just a moment...
