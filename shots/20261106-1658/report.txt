@@ -1,0 +1,8 @@
+OK    n-neu  https://dribbble.com/search/shots/popular?q=neumorphism  (9s)  title: Browse thousands of Neumorphism images for design inspiration | Dribbble
+OK    n-soft  https://dribbble.com/search/shots/popular?q=soft%20ui  (7s)  title: Browse thousands of Soft UI images for design inspiration | Dribbble
+OK    n-controls  https://dribbble.com/search/shots/popular?q=neumorphic%20controls  (8s)  title: Browse thousands of Neumorphic Controls images for design inspiration | Dribbble
+OK    n-dash  https://dribbble.com/search/shots/popular?q=neumorphic%20dashboard  (8s)  title: Browse thousands of Neumorphic Dashboard images for design inspiration | Dribbble
+OK    n-thermo  https://dribbble.com/search/shots/popular?q=smart%20thermostat%20ui  (8s)  title: Browse thousands of Smart Thermostat UI images for design inspiration | Dribbble
+OK    n-mixer  https://dribbble.com/search/shots/popular?q=audio%20mixer%20ui  (8s)  title: Browse thousands of Audio Mixer UI images for design inspiration | Dribbble
+OK    n-dial  https://dribbble.com/search/shots/popular?q=dial%20ui  (8s)  title: Browse thousands of Dial UI images for design inspiration | Dribbble
+OK    n-slider  https://dribbble.com/search/shots/popular?q=slider%20ui%20skeuomorphic  (8s)  title: Browse thousands of Slider UI Skeuomorphic images for design inspiration | Dribbble
