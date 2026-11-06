@@ -1,25 +1,7 @@
-# Broad clean-premium search
-https://dribbble.com/search/workspace-dashboard workspace
-https://dribbble.com/search/office-management-dashboard office
-https://dribbble.com/search/building-management-dashboard building
-https://dribbble.com/search/fleet-management-dashboard fleet
-https://dribbble.com/search/logistics-dashboard logistics
-https://dribbble.com/search/warehouse-dashboard warehouse
-https://dribbble.com/search/construction-dashboard construction
-https://dribbble.com/search/maintenance-dashboard maintenance
-https://dribbble.com/search/hr-dashboard-ui hr
-https://dribbble.com/search/team-management-dashboard team
-https://dribbble.com/search/project-management-dashboard projects
-https://dribbble.com/search/booking-dashboard booking
-https://dribbble.com/search/finance-dashboard finance
-https://dribbble.com/search/crm-dashboard-ui crm
-https://dribbble.com/search/glassmorphism-dashboard glass
-https://dribbble.com/search/3d-isometric-dashboard isometric
-https://dribbble.com/search/map-dashboard map
-https://dribbble.com/search/dashboard-light light
-https://dribbble.com/search/elegant-dashboard elegant
-https://dribbble.com/search/luxury-dashboard luxury
-https://dribbble.com/search/apple-style-dashboard apple
-https://dribbble.com/search/ipad-dashboard ipad
-https://dribbble.com/search/ai-dashboard-ui ai
-https://dribbble.com/search/operating-system-ui os
+# Futuristic round, 6 Nov
+https://dribbble.com/search/shots/popular?q=futuristic%20dashboard fut-dash
+https://dribbble.com/search/shots/popular?q=sci-fi%20ui scifi
+https://dribbble.com/search/shots/popular?q=hud%20interface hud
+https://dribbble.com/search/shots/popular?q=spatial%20ui spatial
+https://dribbble.com/search/shots/popular?q=futuristic%20app futapp
+https://dribbble.com/search/shots/popular?q=command%20center%20ui command
