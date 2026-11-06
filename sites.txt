@@ -1,9 +1,9 @@
-# Realistic tactile round, 6 Nov
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20ui r-skeuo
-https://dribbble.com/search/shots/popular?q=skeuomorphism%20dashboard r-skeuodash
-https://dribbble.com/search/shots/popular?q=realistic%20ui%20controls r-controls
-https://dribbble.com/search/shots/popular?q=tactile%20interface r-tactile
-https://dribbble.com/search/shots/popular?q=knob%20ui r-knob
-https://dribbble.com/search/shots/popular?q=toggle%20switch%203d r-toggle
-https://dribbble.com/search/shots/popular?q=hardware%20interface r-hardware
-https://dribbble.com/search/shots/popular?q=neumorphism%20dashboard r-neu
+# Soft neumorphic round, 6 Nov
+https://dribbble.com/search/shots/popular?q=neumorphism n-neu
+https://dribbble.com/search/shots/popular?q=soft%20ui n-soft
+https://dribbble.com/search/shots/popular?q=neumorphic%20controls n-controls
+https://dribbble.com/search/shots/popular?q=neumorphic%20dashboard n-dash
+https://dribbble.com/search/shots/popular?q=smart%20thermostat%20ui n-thermo
+https://dribbble.com/search/shots/popular?q=audio%20mixer%20ui n-mixer
+https://dribbble.com/search/shots/popular?q=dial%20ui n-dial
+https://dribbble.com/search/shots/popular?q=slider%20ui%20skeuomorphic n-slider
