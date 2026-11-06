@@ -1,0 +1,10 @@
+OK    a-input  https://dribbble.com/search/shots/popular?q=skeuomorphic%20input  (12s)  title: Browse thousands of Skeuomorphic Input images for design inspiration | Dribbble
+OK    a-search  https://dribbble.com/search/shots/popular?q=skeuomorphic%20search%20bar  (10s)  title: Browse thousands of Skeuomorphic Search Bar images for design inspiration | Dribbble
+OK    a-sidebar  https://dribbble.com/search/shots/popular?q=skeuomorphic%20sidebar  (9s)  title: Browse thousands of Skeuomorphic Sidebar images for design inspiration | Dribbble
+OK    a-tabs  https://dribbble.com/search/shots/popular?q=skeuomorphic%20tabs  (9s)  title: Browse thousands of Skeuomorphic Tabs images for design inspiration | Dribbble
+OK    a-check  https://dribbble.com/search/shots/popular?q=skeuomorphic%20checkbox  (9s)  title: Browse thousands of Skeuomorphic Checkbox images for design inspiration | Dribbble
+OK    a-progress  https://dribbble.com/search/shots/popular?q=skeuomorphic%20progress%20bar  (10s)  title: Browse thousands of Skeuomorphic Progress Bar images for design inspiration | Dribbble
+OK    a-cal  https://dribbble.com/search/shots/popular?q=neumorphic%20calendar  (10s)  title: Browse thousands of Neumorphic Calendar images for design inspiration | Dribbble
+OK    a-table  https://dribbble.com/search/shots/popular?q=neumorphic%20table  (9s)  title: Browse thousands of Neumorphic Table images for design inspiration | Dribbble
+OK    a-notif  https://dribbble.com/search/shots/popular?q=skeuomorphic%20notification  (9s)  title: Browse thousands of Skeuomorphic Notification images for design inspiration | Dribbble
+OK    a-drop  https://dribbble.com/search/shots/popular?q=skeuomorphic%20dropdown  (9s)  title: Browse thousands of Skeuomorphic Dropdown images for design inspiration | Dribbble
