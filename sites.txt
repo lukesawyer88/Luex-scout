@@ -1,7 +1,8 @@
-# Futuristic round, 6 Nov
-https://dribbble.com/search/shots/popular?q=futuristic%20dashboard fut-dash
-https://dribbble.com/search/shots/popular?q=sci-fi%20ui scifi
-https://dribbble.com/search/shots/popular?q=hud%20interface hud
-https://dribbble.com/search/shots/popular?q=spatial%20ui spatial
-https://dribbble.com/search/shots/popular?q=futuristic%20app futapp
-https://dribbble.com/search/shots/popular?q=command%20center%20ui command
+# Desktop futuristic round, 6 Nov
+https://dribbble.com/search/shots/popular/web-design?q=futuristic%20interface d-futint
+https://dribbble.com/search/shots/popular/product-design?q=operating%20system d-os
+https://dribbble.com/search/shots/popular/product-design?q=hmi d-hmi
+https://dribbble.com/search/shots/popular/product-design?q=control%20panel d-control
+https://dribbble.com/search/shots/popular/product-design?q=data%20visualization%20dark d-dataviz
+https://dribbble.com/search/shots/popular/product-design?q=ai%20interface d-ai
+https://dribbble.com/search/shots/popular/product-design?q=monitoring%20dashboard d-monitor
