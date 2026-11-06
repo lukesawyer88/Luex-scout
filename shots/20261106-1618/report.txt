@@ -1,0 +1,7 @@
+OK    d-futint  https://dribbble.com/search/shots/popular/web-design?q=futuristic%20interface  (12s)  title: Browse thousands of Futuristic Interface images for design inspiration | Dribbble
+OK    d-os  https://dribbble.com/search/shots/popular/product-design?q=operating%20system  (10s)  title: Browse thousands of Operating System images for design inspiration | Dribbble
+OK    d-hmi  https://dribbble.com/search/shots/popular/product-design?q=hmi  (10s)  title: Browse thousands of Hmi images for design inspiration | Dribbble
+OK    d-control  https://dribbble.com/search/shots/popular/product-design?q=control%20panel  (10s)  title: Browse thousands of Control Panel images for design inspiration | Dribbble
+OK    d-dataviz  https://dribbble.com/search/shots/popular/product-design?q=data%20visualization%20dark  (10s)  title: Browse thousands of Data Visualization Dark images for design inspiration | Dribbble
+OK    d-ai  https://dribbble.com/search/shots/popular/product-design?q=ai%20interface  (10s)  title: Browse thousands of Ai Interface images for design inspiration | Dribbble
+OK    d-monitor  https://dribbble.com/search/shots/popular/product-design?q=monitoring%20dashboard  (10s)  title: Browse thousands of Monitoring Dashboard images for design inspiration | Dribbble
