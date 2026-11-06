@@ -1,9 +1,9 @@
-# Soft tactile round 2, 6 Nov
-https://dribbble.com/search/shots/popular?q=braun%20ui m-braun
-https://dribbble.com/search/shots/popular?q=dieter%20rams m-rams
-https://dribbble.com/search/shots/popular?q=metronome m-metro
-https://dribbble.com/search/shots/popular?q=physical%20controls m-physical
-https://dribbble.com/search/shots/popular?q=smart%20home%20controls%20neumorphic m-home
-https://dribbble.com/search/shots/popular?q=radio%20ui m-radio
-https://dribbble.com/search/shots/popular?q=industrial%20design%20interface m-industrial
-https://dribbble.com/search/shots/popular?q=soft%203d%20ui m-soft3d
+# Parts round, 6 Nov
+https://dribbble.com/search/shots/popular?q=neumorphic%20ui%20kit p-neukit
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20ui%20kit p-skeukit
+https://dribbble.com/search/shots/popular?q=ui%20components%203d p-comp3d
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20buttons p-buttons
+https://dribbble.com/search/shots/popular?q=realistic%20ui%20elements p-elements
+https://dribbble.com/search/shots/popular?q=tactile%20ui%20kit p-tactkit
+https://dribbble.com/search/shots/popular?q=neumorphic%20card p-card
+https://dribbble.com/search/shots/popular?q=skeuomorphism%20components p-skeucomp
