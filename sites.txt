@@ -1,15 +1,15 @@
-# Big soft round, 6 Nov
-https://dribbble.com/search/shots/popular?q=neumorphism%20ui b-neuui
-https://dribbble.com/search/shots/popular?q=neumorphic%20design b-neudes
-https://dribbble.com/search/shots/popular?q=soft%20ui%20design b-softdes
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20app b-skeuapp
-https://dribbble.com/search/shots/popular?q=soft%203d%20icons b-icons
-https://dribbble.com/search/shots/popular?q=glass%203d%20ui b-glass
-https://dribbble.com/search/shots/popular?q=chrome%20ui b-chrome
-https://dribbble.com/search/shots/popular?q=neumorphic%20smart%20home b-home
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20toggle b-toggle
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20slider b-slider
-https://dribbble.com/search/shots/popular?q=neumorphic%20button b-button
-https://dribbble.com/search/shots/popular?q=neumorphism%20dark b-dark
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20knob b-knob
-https://dribbble.com/search/shots/popular?q=soft%20ui%20dark b-softdark
+# Big soft round 2, 6 Nov
+https://dribbble.com/search/shots/popular?q=neumorphism%20icons c-neuicons
+https://dribbble.com/search/shots/popular?q=soft%20ui%20kit c-softkit
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20ui%20design c-skeudes
+https://dribbble.com/search/shots/popular?q=3d%20icons%20white c-whiteicons
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20calendar c-cal
+https://dribbble.com/search/shots/popular?q=neumorphic%20calculator c-calc
+https://dribbble.com/search/shots/popular?q=neumorphic%20player c-player
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20remote c-remote
+https://dribbble.com/search/shots/popular?q=glassmorphism%203d c-glassm
+https://dribbble.com/search/shots/popular?q=neumorphic%20thermostat c-thermo
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20interface c-skeuint
+https://dribbble.com/search/shots/popular?q=tactile%20buttons c-tactbtn
+https://dribbble.com/search/shots/popular?q=retro%20skeuomorphic c-retro
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20widget c-widget
