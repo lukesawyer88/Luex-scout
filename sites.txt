@@ -1,9 +1,9 @@
-# Parts round, 6 Nov
-https://dribbble.com/search/shots/popular?q=neumorphic%20ui%20kit p-neukit
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20ui%20kit p-skeukit
-https://dribbble.com/search/shots/popular?q=ui%20components%203d p-comp3d
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20buttons p-buttons
-https://dribbble.com/search/shots/popular?q=realistic%20ui%20elements p-elements
-https://dribbble.com/search/shots/popular?q=tactile%20ui%20kit p-tactkit
-https://dribbble.com/search/shots/popular?q=neumorphic%20card p-card
-https://dribbble.com/search/shots/popular?q=skeuomorphism%20components p-skeucomp
+# Realistic parts round, 6 Nov
+https://dribbble.com/search/shots/popular?q=realistic%20ui q-real
+https://dribbble.com/search/shots/popular?q=hyperrealistic%20ui q-hyper
+https://dribbble.com/search/shots/popular?q=3d%20rendered%20interface q-render
+https://dribbble.com/search/shots/popular?q=realistic%20button q-button
+https://dribbble.com/search/shots/popular?q=realistic%20switch q-switch
+https://dribbble.com/search/shots/popular?q=metal%20ui q-metal
+https://dribbble.com/search/shots/popular?q=photorealistic%20ui q-photo
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20dashboard%20realistic q-skeu
