@@ -1,11 +1,11 @@
-# App parts round, 6 Nov
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20input a-input
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20search%20bar a-search
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20sidebar a-sidebar
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20tabs a-tabs
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20checkbox a-check
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20progress%20bar a-progress
-https://dribbble.com/search/shots/popular?q=neumorphic%20calendar a-cal
-https://dribbble.com/search/shots/popular?q=neumorphic%20table a-table
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20notification a-notif
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20dropdown a-drop
+# Crisp soft white round, 6 Nov
+https://dribbble.com/search/shots/popular?q=neumorphism%20light w-neulight
+https://dribbble.com/search/shots/popular?q=neumorphic%20toggle w-toggle
+https://dribbble.com/search/shots/popular?q=3d%20button%20render w-3dbutton
+https://dribbble.com/search/shots/popular?q=clay%20ui w-clay
+https://dribbble.com/search/shots/popular?q=soft%203d%20interface w-soft3d
+https://dribbble.com/search/shots/popular?q=minimal%203d%20ui w-min3d
+https://dribbble.com/search/shots/popular?q=white%20ui%203d w-white3d
+https://dribbble.com/search/shots/popular?q=neumorphic%20app w-neuapp
+https://dribbble.com/search/shots/popular?q=glossy%20button w-glossy
+https://dribbble.com/search/shots/popular?q=soft%20ui%20elements w-softel
