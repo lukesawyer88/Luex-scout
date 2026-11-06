@@ -1,0 +1,8 @@
+OK    r-skeuo  https://dribbble.com/search/shots/popular?q=skeuomorphic%20ui  (9s)  title: Browse thousands of Skeuomorphic UI images for design inspiration | Dribbble
+OK    r-skeuodash  https://dribbble.com/search/shots/popular?q=skeuomorphism%20dashboard  (9s)  title: Browse thousands of Skeuomorphism Dashboard images for design inspiration | Dribbble
+OK    r-controls  https://dribbble.com/search/shots/popular?q=realistic%20ui%20controls  (9s)  title: Browse thousands of Realistic UI Controls images for design inspiration | Dribbble
+OK    r-tactile  https://dribbble.com/search/shots/popular?q=tactile%20interface  (9s)  title: Browse thousands of Tactile Interface images for design inspiration | Dribbble
+OK    r-knob  https://dribbble.com/search/shots/popular?q=knob%20ui  (8s)  title: Browse thousands of Knob UI images for design inspiration | Dribbble
+OK    r-toggle  https://dribbble.com/search/shots/popular?q=toggle%20switch%203d  (9s)  title: Browse thousands of Toggle Switch 3D images for design inspiration | Dribbble
+OK    r-hardware  https://dribbble.com/search/shots/popular?q=hardware%20interface  (8s)  title: Browse thousands of Hardware Interface images for design inspiration | Dribbble
+OK    r-neu  https://dribbble.com/search/shots/popular?q=neumorphism%20dashboard  (9s)  title: Browse thousands of Neumorphism Dashboard images for design inspiration | Dribbble
