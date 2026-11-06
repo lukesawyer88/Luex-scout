@@ -1,0 +1,6 @@
+OK    fut-dash  https://dribbble.com/search/shots/popular?q=futuristic%20dashboard  (12s)  title: Browse thousands of Futuristic Dashboard images for design inspiration | Dribbble
+OK    scifi  https://dribbble.com/search/shots/popular?q=sci-fi%20ui  (8s)  title: Browse thousands of Sci Fi UI images for design inspiration | Dribbble
+OK    hud  https://dribbble.com/search/shots/popular?q=hud%20interface  (9s)  title: Browse thousands of Hud Interface images for design inspiration | Dribbble
+OK    spatial  https://dribbble.com/search/shots/popular?q=spatial%20ui  (9s)  title: Browse thousands of Spatial UI images for design inspiration | Dribbble
+OK    futapp  https://dribbble.com/search/shots/popular?q=futuristic%20app  (8s)  title: Browse thousands of Futuristic App images for design inspiration | Dribbble
+OK    command  https://dribbble.com/search/shots/popular?q=command%20center%20ui  (8s)  title: Browse thousands of Command Center UI images for design inspiration | Dribbble
