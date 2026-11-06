@@ -1,8 +1,9 @@
-# Desktop futuristic round, 6 Nov
-https://dribbble.com/search/shots/popular/web-design?q=futuristic%20interface d-futint
-https://dribbble.com/search/shots/popular/product-design?q=operating%20system d-os
-https://dribbble.com/search/shots/popular/product-design?q=hmi d-hmi
-https://dribbble.com/search/shots/popular/product-design?q=control%20panel d-control
-https://dribbble.com/search/shots/popular/product-design?q=data%20visualization%20dark d-dataviz
-https://dribbble.com/search/shots/popular/product-design?q=ai%20interface d-ai
-https://dribbble.com/search/shots/popular/product-design?q=monitoring%20dashboard d-monitor
+# Realistic tactile round, 6 Nov
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20ui r-skeuo
+https://dribbble.com/search/shots/popular?q=skeuomorphism%20dashboard r-skeuodash
+https://dribbble.com/search/shots/popular?q=realistic%20ui%20controls r-controls
+https://dribbble.com/search/shots/popular?q=tactile%20interface r-tactile
+https://dribbble.com/search/shots/popular?q=knob%20ui r-knob
+https://dribbble.com/search/shots/popular?q=toggle%20switch%203d r-toggle
+https://dribbble.com/search/shots/popular?q=hardware%20interface r-hardware
+https://dribbble.com/search/shots/popular?q=neumorphism%20dashboard r-neu
