@@ -1,11 +1,15 @@
-# Crisp soft white round, 6 Nov
-https://dribbble.com/search/shots/popular?q=neumorphism%20light w-neulight
-https://dribbble.com/search/shots/popular?q=neumorphic%20toggle w-toggle
-https://dribbble.com/search/shots/popular?q=3d%20button%20render w-3dbutton
-https://dribbble.com/search/shots/popular?q=clay%20ui w-clay
-https://dribbble.com/search/shots/popular?q=soft%203d%20interface w-soft3d
-https://dribbble.com/search/shots/popular?q=minimal%203d%20ui w-min3d
-https://dribbble.com/search/shots/popular?q=white%20ui%203d w-white3d
-https://dribbble.com/search/shots/popular?q=neumorphic%20app w-neuapp
-https://dribbble.com/search/shots/popular?q=glossy%20button w-glossy
-https://dribbble.com/search/shots/popular?q=soft%20ui%20elements w-softel
+# Big soft round, 6 Nov
+https://dribbble.com/search/shots/popular?q=neumorphism%20ui b-neuui
+https://dribbble.com/search/shots/popular?q=neumorphic%20design b-neudes
+https://dribbble.com/search/shots/popular?q=soft%20ui%20design b-softdes
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20app b-skeuapp
+https://dribbble.com/search/shots/popular?q=soft%203d%20icons b-icons
+https://dribbble.com/search/shots/popular?q=glass%203d%20ui b-glass
+https://dribbble.com/search/shots/popular?q=chrome%20ui b-chrome
+https://dribbble.com/search/shots/popular?q=neumorphic%20smart%20home b-home
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20toggle b-toggle
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20slider b-slider
+https://dribbble.com/search/shots/popular?q=neumorphic%20button b-button
+https://dribbble.com/search/shots/popular?q=neumorphism%20dark b-dark
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20knob b-knob
+https://dribbble.com/search/shots/popular?q=soft%20ui%20dark b-softdark
