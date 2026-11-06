@@ -1,0 +1,76 @@
+FAIL  a-drop-1  https://dribbble.com/shots/329599-Plastic-Feel  TimeoutError
+FAIL  a-drop-5  https://dribbble.com/shots/10826325-Uber-Dark-UI-Kit  TimeoutError
+FAIL  a-drop-6  https://dribbble.com/shots/15103144-Clean-UI-Kit-Figma-Auto-Layout-and-Variants  TimeoutError
+FAIL  a-drop-7  https://dribbble.com/shots/23829461-Quick-post-editor  TimeoutError
+FAIL  a-drop-8  https://dribbble.com/shots/9248026-Jangry-App  TimeoutError
+FAIL  a-notif-4  https://dribbble.com/shots/13812293-Neumorphism-SmartHome  TimeoutError
+FAIL  a-notif-5  https://dribbble.com/shots/25211979-Glowy-icons  TimeoutError
+FAIL  a-notif-6  https://dribbble.com/shots/998152-Settings-2x  TimeoutError
+FAIL  a-notif-7  https://dribbble.com/shots/9710471-Doobie-Dribble-Inspired-Invite  TimeoutError
+FAIL  a-notif-8  https://dribbble.com/shots/26834509-Mobile-Payment-App-UI-Redesign  TimeoutError
+OK    a-cal-1  https://dribbble.com/shots/14410946-TimeTo-neumorphic-calendar-and-alarm-app
+OK    a-cal-2  https://dribbble.com/shots/27123733-Modern-Task-Management-App-UI
+OK    a-cal-3  https://dribbble.com/shots/26640066-E-commerce-Dashboard-Design-calendar
+OK    a-cal-4  https://dribbble.com/shots/27185269-AirQuality-App-Neumorphic-Concept-UI-Design
+OK    a-cal-5  https://dribbble.com/shots/11932863-Neumorphic-Shop-Kit
+OK    a-cal-6  https://dribbble.com/shots/11386501-Period-calendar-concept
+OK    a-cal-7  https://dribbble.com/shots/25896567--ProjectFlow-Sleek-Neumorphic-Project-Management-Dashboard-UI
+OK    a-cal-8  https://dribbble.com/shots/9834365-Neumorphism-UI-Elements
+OK    a-check-1  https://dribbble.com/shots/16465630-Free-Skeuomorphic-components-for-Figma-Dark-theme
+OK    a-check-3  https://dribbble.com/shots/25132718--Rewinding-to-the-past
+OK    a-check-4  https://dribbble.com/shots/22370480--Real-Estate-Filter-Elements
+OK    a-check-5  https://dribbble.com/shots/8869880-Skeuomorphic-Music-Player-Dark-Theme
+OK    a-check-6  https://dribbble.com/shots/25617803-3D-illustrations-and-skeuomorphic-icons
+OK    a-check-7  https://dribbble.com/shots/22390089-Checkbox
+OK    a-check-8  https://dribbble.com/shots/3749485-Checkbox-transition
+OK    a-input-1  https://dribbble.com/shots/26126514-Skeuomorphic-Input-Motion-01
+OK    a-input-2  https://dribbble.com/shots/11110017-Mobile-view-sign-in-page
+OK    a-input-3  https://dribbble.com/shots/9977484-Intuitive-credit-checkout
+OK    a-input-4  https://dribbble.com/shots/27566031-Website-Design-for-Industrial-Designer-Mirko-Romanelli
+OK    a-input-5  https://dribbble.com/shots/26103290-Skeuomorphic-toggle-switch
+OK    a-input-6  https://dribbble.com/shots/16076869-Skeuomorphic-Nokia-7610
+OK    a-input-7  https://dribbble.com/shots/22824380-Skeuomorphic-Dark-Buttons
+OK    a-input-8  https://dribbble.com/shots/16220177-Skeuomorphic-Camera-Illustration
+OK    a-notif-1  https://dribbble.com/shots/23181294-Notification-panel
+OK    a-notif-2  https://dribbble.com/shots/23134985-Notification-Cards
+OK    a-notif-3  https://dribbble.com/shots/1148230-Google-Notifications
+OK    a-progress-1  https://dribbble.com/shots/27817710-Skeuomorphic-File-Upload-UI-Leather-Brushed-Steel
+OK    a-progress-2  https://dribbble.com/shots/12265283-Neumorphism-in-3D
+OK    a-progress-3  https://dribbble.com/shots/8137871-Music-Player
+OK    a-progress-4  https://dribbble.com/shots/27391518-Countdown-Timer-Daily-UI-014
+OK    a-progress-5  https://dribbble.com/shots/22925418-Progress-Bar
+OK    a-progress-6  https://dribbble.com/shots/26486683-Progress-bar
+OK    a-progress-7  https://dribbble.com/shots/22343339-Progress-bar-specification
+OK    a-progress-8  https://dribbble.com/shots/1614680-Warframe-Main-Menu-Progress-Bar
+OK    a-search-1  https://dribbble.com/shots/26081305-No-projects-found-Untitled-UI
+OK    a-search-2  https://dribbble.com/shots/9979428-Components-of-E-Commerce-App-II
+OK    a-search-3  https://dribbble.com/shots/27389041-Glassmorphism-Search-Bar-UI-Component
+OK    a-search-4  https://dribbble.com/shots/27293695-Flight-booking-Search-bar-design
+OK    a-search-5  https://dribbble.com/shots/27585580-Superbar-AI-Search-Bar-Interaction-Design-Motion
+OK    a-search-6  https://dribbble.com/shots/25465165-Search-Bar-Interaction-Animation
+OK    a-search-7  https://dribbble.com/shots/24607072-Search-Bar-Dashboard-UI-Design-for-SaaS-Web-App-Interfaces
+OK    a-search-8  https://dribbble.com/shots/2092541-Search-Bar-Animation
+OK    a-sidebar-1  https://dribbble.com/shots/15065995-Neumorphic-UI-UX-GUI-KIT-Shopping-Elements
+OK    a-sidebar-2  https://dribbble.com/shots/15065990-Neumorphic-UI-UX-GUI-KIT-Banking-Elements
+OK    a-sidebar-3  https://dribbble.com/shots/15161967-Neumorphic-Element-Mobile-App-UI-Kit
+OK    a-sidebar-4  https://dribbble.com/shots/21973938-WeStud-Dashboard-sidebar-navigation-for-the-education-platform
+OK    a-sidebar-5  https://dribbble.com/shots/27230034-Sidebar-nav-Untitled-UI
+OK    a-sidebar-6  https://dribbble.com/shots/26211061-Sidebar-navigation-menu-bar-expansion-animation
+OK    a-sidebar-7  https://dribbble.com/shots/27096320-Sales-Dashboard-Sidebar-UI
+OK    a-sidebar-8  https://dribbble.com/shots/26899749-Sidebar-Navigation-Tree
+OK    a-table-1  https://dribbble.com/shots/14535706-Data-Table-Neumorphic-Design
+OK    a-table-2  https://dribbble.com/shots/27365518-BetPlay-Pro-Multi-Sport-Betting-Dashboard-UI-Exploration
+OK    a-table-3  https://dribbble.com/shots/15846837-Data-Table-UI-Dark
+OK    a-table-4  https://dribbble.com/shots/15846868-Data-Table-UI-Light
+OK    a-table-5  https://dribbble.com/shots/14028722-Periodic-Table-Dark
+OK    a-table-6  https://dribbble.com/shots/14030615-When-design-meets-science
+OK    a-table-7  https://dribbble.com/shots/14535584-Project-Status-Neumorphic-UI
+OK    a-table-8  https://dribbble.com/shots/26575504-Tablet-App-Payment
+OK    a-tabs-1  https://dribbble.com/shots/9193808-Skeuomorphic-Tab-Bar
+OK    a-tabs-2  https://dribbble.com/shots/24072566-My-Portfolio-Website-Mobile-Updated
+OK    a-tabs-3  https://dribbble.com/shots/23424412-Vinyl-Record-Store-Mobile-App
+OK    a-tabs-4  https://dribbble.com/shots/21043966-System-UI-Elements
+OK    a-tabs-5  https://dribbble.com/shots/783960-iPad-Chart
+OK    a-tabs-6  https://dribbble.com/shots/9977120-Components-of-E-Commerce-App-I
+OK    a-tabs-7  https://dribbble.com/shots/14154703-Stock-exchange-game
+OK    a-tabs-8  https://dribbble.com/shots/3061884-Retro-Thermostat
