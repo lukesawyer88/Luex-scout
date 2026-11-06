@@ -1,0 +1,8 @@
+OK    q-real  https://dribbble.com/search/shots/popular?q=realistic%20ui  (9s)  title: Browse thousands of Realistic UI images for design inspiration | Dribbble
+OK    q-hyper  https://dribbble.com/search/shots/popular?q=hyperrealistic%20ui  (10s)  title: Browse thousands of Hyperrealistic UI images for design inspiration | Dribbble
+OK    q-render  https://dribbble.com/search/shots/popular?q=3d%20rendered%20interface  (10s)  title: Browse thousands of 3D Rendered Interface images for design inspiration | Dribbble
+OK    q-button  https://dribbble.com/search/shots/popular?q=realistic%20button  (11s)  title: Browse thousands of Realistic Button images for design inspiration | Dribbble
+OK    q-switch  https://dribbble.com/search/shots/popular?q=realistic%20switch  (10s)  title: Browse thousands of Realistic Switch images for design inspiration | Dribbble
+OK    q-metal  https://dribbble.com/search/shots/popular?q=metal%20ui  (10s)  title: Browse thousands of Metal UI images for design inspiration | Dribbble
+OK    q-photo  https://dribbble.com/search/shots/popular?q=photorealistic%20ui  (11s)  title: Browse thousands of Photorealistic UI images for design inspiration | Dribbble
+OK    q-skeu  https://dribbble.com/search/shots/popular?q=skeuomorphic%20dashboard%20realistic  (10s)  title: Browse thousands of Skeuomorphic Dashboard Realistic images for design inspiration | Dribbble
