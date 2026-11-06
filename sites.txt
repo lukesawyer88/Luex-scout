@@ -1,9 +1,9 @@
-# Soft neumorphic round, 6 Nov
-https://dribbble.com/search/shots/popular?q=neumorphism n-neu
-https://dribbble.com/search/shots/popular?q=soft%20ui n-soft
-https://dribbble.com/search/shots/popular?q=neumorphic%20controls n-controls
-https://dribbble.com/search/shots/popular?q=neumorphic%20dashboard n-dash
-https://dribbble.com/search/shots/popular?q=smart%20thermostat%20ui n-thermo
-https://dribbble.com/search/shots/popular?q=audio%20mixer%20ui n-mixer
-https://dribbble.com/search/shots/popular?q=dial%20ui n-dial
-https://dribbble.com/search/shots/popular?q=slider%20ui%20skeuomorphic n-slider
+# Soft tactile round 2, 6 Nov
+https://dribbble.com/search/shots/popular?q=braun%20ui m-braun
+https://dribbble.com/search/shots/popular?q=dieter%20rams m-rams
+https://dribbble.com/search/shots/popular?q=metronome m-metro
+https://dribbble.com/search/shots/popular?q=physical%20controls m-physical
+https://dribbble.com/search/shots/popular?q=smart%20home%20controls%20neumorphic m-home
+https://dribbble.com/search/shots/popular?q=radio%20ui m-radio
+https://dribbble.com/search/shots/popular?q=industrial%20design%20interface m-industrial
+https://dribbble.com/search/shots/popular?q=soft%203d%20ui m-soft3d
