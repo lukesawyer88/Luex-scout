@@ -1,9 +1,11 @@
-# Realistic parts round, 6 Nov
-https://dribbble.com/search/shots/popular?q=realistic%20ui q-real
-https://dribbble.com/search/shots/popular?q=hyperrealistic%20ui q-hyper
-https://dribbble.com/search/shots/popular?q=3d%20rendered%20interface q-render
-https://dribbble.com/search/shots/popular?q=realistic%20button q-button
-https://dribbble.com/search/shots/popular?q=realistic%20switch q-switch
-https://dribbble.com/search/shots/popular?q=metal%20ui q-metal
-https://dribbble.com/search/shots/popular?q=photorealistic%20ui q-photo
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20dashboard%20realistic q-skeu
+# App parts round, 6 Nov
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20input a-input
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20search%20bar a-search
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20sidebar a-sidebar
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20tabs a-tabs
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20checkbox a-check
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20progress%20bar a-progress
+https://dribbble.com/search/shots/popular?q=neumorphic%20calendar a-cal
+https://dribbble.com/search/shots/popular?q=neumorphic%20table a-table
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20notification a-notif
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20dropdown a-drop
