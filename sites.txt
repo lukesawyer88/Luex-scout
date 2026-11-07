@@ -1,15 +1,11 @@
-# Big soft round 2, 6 Nov
-https://dribbble.com/search/shots/popular?q=neumorphism%20icons c-neuicons
-https://dribbble.com/search/shots/popular?q=soft%20ui%20kit c-softkit
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20ui%20design c-skeudes
-https://dribbble.com/search/shots/popular?q=3d%20icons%20white c-whiteicons
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20calendar c-cal
-https://dribbble.com/search/shots/popular?q=neumorphic%20calculator c-calc
-https://dribbble.com/search/shots/popular?q=neumorphic%20player c-player
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20remote c-remote
-https://dribbble.com/search/shots/popular?q=glassmorphism%203d c-glassm
-https://dribbble.com/search/shots/popular?q=neumorphic%20thermostat c-thermo
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20interface c-skeuint
-https://dribbble.com/search/shots/popular?q=tactile%20buttons c-tactbtn
-https://dribbble.com/search/shots/popular?q=retro%20skeuomorphic c-retro
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20widget c-widget
+# Desktop 3D pages round, 7 Nov
+https://dribbble.com/search/shots/popular/web-design?q=3d%20dashboard e-3ddash
+https://dribbble.com/search/shots/popular/product-design?q=3d%20web%20app e-3dapp
+https://dribbble.com/search/shots/popular/web-design?q=spline%20ui e-spline
+https://dribbble.com/search/shots/popular/product-design?q=3d%20saas%20dashboard e-3dsaas
+https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20dashboard%20desktop e-neudesk
+https://dribbble.com/search/shots/popular/product-design?q=skeuomorphic%20dashboard e-skeudash
+https://dribbble.com/search/shots/popular/product-design?q=3d%20admin%20panel e-3dadmin
+https://dribbble.com/search/shots/popular/product-design?q=soft%203d%20dashboard e-soft3d
+https://dribbble.com/search/shots/popular/product-design?q=tactile%20dashboard e-tactile
+https://dribbble.com/search/shots/popular/product-design?q=fleet%20management%20dashboard e-fleet
