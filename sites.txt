@@ -1,11 +1,13 @@
-# Desktop 3D pages round, 7 Nov
-https://dribbble.com/search/shots/popular/web-design?q=3d%20dashboard e-3ddash
-https://dribbble.com/search/shots/popular/product-design?q=3d%20web%20app e-3dapp
-https://dribbble.com/search/shots/popular/web-design?q=spline%20ui e-spline
-https://dribbble.com/search/shots/popular/product-design?q=3d%20saas%20dashboard e-3dsaas
-https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20dashboard%20desktop e-neudesk
-https://dribbble.com/search/shots/popular/product-design?q=skeuomorphic%20dashboard e-skeudash
-https://dribbble.com/search/shots/popular/product-design?q=3d%20admin%20panel e-3dadmin
-https://dribbble.com/search/shots/popular/product-design?q=soft%203d%20dashboard e-soft3d
-https://dribbble.com/search/shots/popular/product-design?q=tactile%20dashboard e-tactile
-https://dribbble.com/search/shots/popular/product-design?q=fleet%20management%20dashboard e-fleet
+# Soft desktop pages round, 7 Nov
+https://dribbble.com/search/shots/popular/web-design?q=neumorphism n2-webneu
+https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20web%20app n2-neuweb
+https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20admin n2-neuadmin
+https://dribbble.com/search/shots/popular/product-design?q=soft%20ui%20dashboard n2-softdash
+https://dribbble.com/search/shots/popular/web-design?q=soft%20ui n2-softweb
+https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20desktop n2-neudesk
+https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20crm n2-neucrm
+https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20saas n2-neusaas
+https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20analytics n2-neuana
+https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20smart%20home%20dashboard n2-neuhome
+https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20finance%20dashboard n2-neufin
+https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20light%20dashboard n2-neulight
