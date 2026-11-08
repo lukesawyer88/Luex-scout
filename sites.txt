@@ -1,13 +1,7 @@
-# Soft desktop pages round, 7 Nov
-https://dribbble.com/search/shots/popular/web-design?q=neumorphism n2-webneu
-https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20web%20app n2-neuweb
-https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20admin n2-neuadmin
-https://dribbble.com/search/shots/popular/product-design?q=soft%20ui%20dashboard n2-softdash
-https://dribbble.com/search/shots/popular/web-design?q=soft%20ui n2-softweb
-https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20desktop n2-neudesk
-https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20crm n2-neucrm
-https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20saas n2-neusaas
-https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20analytics n2-neuana
-https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20smart%20home%20dashboard n2-neuhome
-https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20finance%20dashboard n2-neufin
-https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20light%20dashboard n2-neulight
+# Nav button round, 8 Nov
+https://dribbble.com/search/shots/popular/product-design?q=dark%20neumorphism%20button nb-darkneu
+https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20icon%20button nb-iconbtn
+https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20sidebar nb-sidebar
+https://dribbble.com/search/shots/popular/product-design?q=skeuomorphic%20button nb-skeubtn
+https://dribbble.com/search/shots/popular/product-design?q=tactile%20button%20ui nb-tactile
+https://dribbble.com/search/shots/popular/product-design?q=dark%20soft%20ui%20navigation nb-darknav
