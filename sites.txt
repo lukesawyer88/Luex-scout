@@ -1,6 +1,6 @@
-https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20shadow%20values vx-shadowvals
-https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20css vx-css
-https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20shadow%20settings vx-settings
-https://dribbble.com/search/shots/popular/product-design?q=soft%20ui%20shadow%20guide vx-guide
-https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20tutorial vx-tutorial
-https://dribbble.com/search/shots/popular/product-design?q=box%20shadow%20button vx-boxshadow
+https://dribbble.com/search/shots/popular/product-design?q=neumorphism w-neu
+https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20dark w-neudark
+https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20icons w-neuicons
+https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20keyboard w-neukey
+https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20toggle w-neutog
+https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20components w-neucomp
