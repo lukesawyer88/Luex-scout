@@ -1,6 +1,6 @@
-https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20button sq-neubtn
-https://dribbble.com/search/shots/popular/product-design?q=soft%20ui%20buttons sq-softui
-https://dribbble.com/search/shots/popular/product-design?q=skeuomorphic%20buttons sq-skeu
-https://dribbble.com/search/shots/popular/product-design?q=button%20components%20dark sq-darkbtn
-https://dribbble.com/search/shots/popular/product-design?q=icon%20button%20ui%20kit sq-iconkit
-https://dribbble.com/search/shots/popular/product-design?q=tactile%20ui sq-tactile
+https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20shadow%20values vx-shadowvals
+https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20css vx-css
+https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20shadow%20settings vx-settings
+https://dribbble.com/search/shots/popular/product-design?q=soft%20ui%20shadow%20guide vx-guide
+https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20tutorial vx-tutorial
+https://dribbble.com/search/shots/popular/product-design?q=box%20shadow%20button vx-boxshadow
