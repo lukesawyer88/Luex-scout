@@ -1,0 +1,260 @@
+FAIL  wneucomp-24  https://dribbble.com/shots/17161601-Neumorphic-Medical-Elements-Mobile-App-UI-Kit  TimeoutError
+FAIL  wneucomp-25  https://dribbble.com/shots/16954525-Neumorphic-Spotify  TimeoutError
+FAIL  wneucomp-26  https://dribbble.com/shots/15352255-Free-neumorphism-ui-kIt  TimeoutError
+FAIL  wneucomp-27  https://dribbble.com/shots/11121140-DailyUI-4-Calculator-UI-Design  TimeoutError
+FAIL  wneucomp-28  https://dribbble.com/shots/10519895-Prosthetics-Operating-System  TimeoutError
+FAIL  wneucomp-29  https://dribbble.com/shots/16945548-Alarm-screen-2  TimeoutError
+FAIL  wneucomp-30  https://dribbble.com/shots/27780477-Mobile-AI-infrastructure  TimeoutError
+FAIL  wneucomp-31  https://dribbble.com/shots/16448618-Daily-UI-007-Design-a-Settings-Page  TimeoutError
+FAIL  wneucomp-32  https://dribbble.com/shots/10412978-DailyUI-001-Sign-Up-Page  TimeoutError
+FAIL  wneucomp-33  https://dribbble.com/shots/16945557-Alarm-screen  TimeoutError
+FAIL  wneucomp-34  https://dribbble.com/shots/27509009-Language-Learning-Progress-App-Duolingo  TimeoutError
+FAIL  wneucomp-35  https://dribbble.com/shots/27340427-Fitness-App-UI-Step-Tracker-Dashboard-Daily-Streak-Activit  TimeoutError
+FAIL  wneucomp-36  https://dribbble.com/shots/24038736-Daily-UI-On-Off-Switch  TimeoutError
+FAIL  wneucomp-37  https://dribbble.com/shots/21969611-Brand-Identity-Web-Design-for-an-AI-directory-platform  TimeoutError
+FAIL  wneucomp-38  https://dribbble.com/shots/17261639-Daily-UI-007-Settings  TimeoutError
+FAIL  wneucomp-39  https://dribbble.com/shots/21226479-Neumorphic-UI-Kit-for-Figma-free  TimeoutError
+FAIL  wneucomp-40  https://dribbble.com/shots/11998941-Toggle-Button-Exploration-Neumorphism  TimeoutError
+FAIL  wneudark-27  https://dribbble.com/shots/27218483-Crypto-Trading-Landing-Page  TimeoutError
+FAIL  wneudark-28  https://dribbble.com/shots/26621311-Profile-page-UI-UX-Design-Concept  TimeoutError
+FAIL  wneudark-29  https://dribbble.com/shots/27686354-Persian-Movie-Series-App  TimeoutError
+FAIL  wneudark-30  https://dribbble.com/shots/27045576-Movie-App-Neumorphic-UI-Light-Dark-Mode  TimeoutError
+FAIL  wneudark-31  https://dribbble.com/shots/26474292-AI-Powered-Learning-Mentor-Mobile-App-Profile-Page-UI-UX-Design  TimeoutError
+FAIL  wneudark-32  https://dribbble.com/shots/27033925-Music-Player-App-UI-Dark-Neumorphic-Concept  TimeoutError
+FAIL  wneudark-33  https://dribbble.com/shots/17632378-Social-Media-Management-Dashboard  TimeoutError
+FAIL  wneudark-34  https://dribbble.com/shots/25752286-UX-Design-for-Data-Monitoring-Merchant-Heatmaps  TimeoutError
+FAIL  wneudark-35  https://dribbble.com/shots/26353635-Daily-UI-015-On-Off-Switch  TimeoutError
+FAIL  wneudark-36  https://dribbble.com/shots/25758139-Intuitive-Products-Services-Configuration-UI  TimeoutError
+FAIL  wneudark-37  https://dribbble.com/shots/25763323-Empowering-merchants-with-seamless-outlet-management  TimeoutError
+FAIL  wneudark-38  https://dribbble.com/shots/26768349-Digital-Agency-UI-Neumorphism-in-Light-Dark-Themes  TimeoutError
+FAIL  wneudark-39  https://dribbble.com/shots/9166092-Google-Analytic-DARK-UI-Neumorphism  TimeoutError
+FAIL  wneudark-40  https://dribbble.com/shots/24426202-Neumorphism-UI-Kit-Dark-Theme  TimeoutError
+FAIL  wneukey-29  https://dribbble.com/shots/14380433-Neumorphic-Smart-Washing-Machine-Panel  TimeoutError
+FAIL  wneukey-30  https://dribbble.com/shots/15359416-MechaCalc-Calculator-App  TimeoutError
+FAIL  wneukey-31  https://dribbble.com/shots/27565882-Website-Design-for-AJP-Jiu-Jitsu-Tournament-Platform  TimeoutError
+FAIL  wneukey-32  https://dribbble.com/shots/12030153-Playstation-5-Store-app-concept-design  TimeoutError
+FAIL  wneukey-33  https://dribbble.com/shots/10680728-Dating-App-neumorphic-UI-Design  TimeoutError
+FAIL  wneukey-34  https://dribbble.com/shots/16432506-KampusX-Mobile-University-Mobile-App  TimeoutError
+FAIL  wneukey-35  https://dribbble.com/shots/16438980-KampusX-Mobile-University-Mobile-App-Tweaked  TimeoutError
+FAIL  wneukey-36  https://dribbble.com/shots/14824564-Glassmorphism-Notifications  TimeoutError
+FAIL  wneukey-37  https://dribbble.com/shots/10445509-Onesaz-web-design  TimeoutError
+FAIL  wneukey-38  https://dribbble.com/shots/14816792-Glassmorphism-Notifications  TimeoutError
+FAIL  wneukey-39  https://dribbble.com/shots/14824576-Glassmorphism-Notifications  TimeoutError
+FAIL  wneukey-40  https://dribbble.com/shots/23741491-Daily-UI-Challenge-28-SMS-Code-Verification-Guest-Login  TimeoutError
+FAIL  wneukey-41  https://dribbble.com/shots/21872754-Skeumorphism  TimeoutError
+FAIL  wneukey-42  https://dribbble.com/shots/21730632-Fire-TV-Remote-App  TimeoutError
+FAIL  wneukey-43  https://dribbble.com/shots/10196988-USER-INTERFACE-DESIGN-IZ-ONE-BLOOM-IZ  TimeoutError
+OK    wneu-1  https://dribbble.com/shots/11202391-Fitness-neumorphism
+OK    wneu-10  https://dribbble.com/shots/19706092-Neumorphism-3d-Casino-roulette
+OK    wneu-11  https://dribbble.com/shots/27577988-BUTTON-NEUMORPHISM
+OK    wneu-12  https://dribbble.com/shots/24976644-Online-Poker-3D-Neumorphism
+OK    wneu-13  https://dribbble.com/shots/27201057-Smart-Lighting-App-UI-Design-Neumorphism-IoT-Dashboard-UX
+OK    wneu-14  https://dribbble.com/shots/9834365-Neumorphism-UI-Elements
+OK    wneu-15  https://dribbble.com/shots/9915063-Neumorphism
+OK    wneu-16  https://dribbble.com/shots/14960803-Hydration-App-Beyond-Neumorphism
+OK    wneu-17  https://dribbble.com/shots/11368106-BMI-Calculator-App-Neumorphism
+OK    wneu-18  https://dribbble.com/shots/25088184-Neumorphism-Text-Editor
+OK    wneu-19  https://dribbble.com/shots/10075215-Fintech-x-Neumorphism
+OK    wneu-2  https://dribbble.com/shots/27580256-WEBDESIGN-NEUMORPHISM
+OK    wneu-20  https://dribbble.com/shots/27475542-Portfolio-Concept-Dark-Neumorphism-Fluid-Gradients
+OK    wneu-21  https://dribbble.com/shots/9651616-Loop-Neumorphism-Ui
+OK    wneu-22  https://dribbble.com/shots/25989383-Neumorphism-Button
+OK    wneu-23  https://dribbble.com/shots/13322022-Credit-card-checkout-in-Neumorphism
+OK    wneu-24  https://dribbble.com/shots/27120014-Neumorphism-Design-Agency-Website-Website-UI-UX-design
+OK    wneu-25  https://dribbble.com/shots/9976407-Instagram-Redesign-Concept-Neumorphism
+OK    wneu-26  https://dribbble.com/shots/26726313-Mileage-Tracking-and-Speed-Logging-App-Neumorphism-Style
+OK    wneu-27  https://dribbble.com/shots/9684036-Task-Manager-Concept-Neumorphism
+OK    wneu-28  https://dribbble.com/shots/27268437-Gaining-Depth-with-Neumorphism-Calculator-Micro-interaction
+OK    wneu-29  https://dribbble.com/shots/27239697-Superconscious-AI-Powered-Self-Growth-App
+OK    wneu-3  https://dribbble.com/shots/22865016-Dashboard-Neumorphism-UI-for-SaaS-Product
+OK    wneu-30  https://dribbble.com/shots/10563161-Neumorphism
+OK    wneu-31  https://dribbble.com/shots/14224503-Profile-and-messages-neumorphism
+OK    wneu-32  https://dribbble.com/shots/9390903-Nike-Shoes-E-Commerce-Neumorphism
+OK    wneu-33  https://dribbble.com/shots/14529540-Music-player-Neumorphism
+OK    wneu-34  https://dribbble.com/shots/23947979-Neumorphism-Tesla-App-Futuristic-App-Design-Using-Figma
+OK    wneu-35  https://dribbble.com/shots/12265283-Neumorphism-in-3D
+OK    wneu-36  https://dribbble.com/shots/27314845-VITIS-BRUTALISM-X-NEUMORPHISM
+OK    wneu-37  https://dribbble.com/shots/9912959-Neumorphism-Creation
+OK    wneu-38  https://dribbble.com/shots/22079436-Neumorphism-Animated-PowerPoint-Presentation
+OK    wneu-39  https://dribbble.com/shots/27733513-Mental-Health-Mobile-App
+OK    wneu-4  https://dribbble.com/shots/10057655-Neumorphism-in-user-interfaces
+OK    wneu-40  https://dribbble.com/shots/10108195-Pastel-Neumorphism
+OK    wneu-41  https://dribbble.com/shots/14359572-UI-Kit-neumorphism-style
+OK    wneu-42  https://dribbble.com/shots/27636313-Neumorphism-UI-Components-Exploration
+OK    wneu-43  https://dribbble.com/shots/9236283-Sleep-Cycle-App-Neumorphism-Redesign
+OK    wneu-44  https://dribbble.com/shots/10071992-Neumorphism
+OK    wneu-5  https://dribbble.com/shots/10565080-Adidas-Neumorphism-Landing-Page
+OK    wneu-6  https://dribbble.com/shots/14161168-Cloud-Storage-App-Beyond-Neumorphism
+OK    wneu-7  https://dribbble.com/shots/15321987-Weather-App-Night-Beyond-Neumorphism
+OK    wneu-8  https://dribbble.com/shots/27274551-Soft-AI-Dashboard-Neumorphism-Pastel-UI
+OK    wneu-9  https://dribbble.com/shots/13263467-Camera-iOS-icon-skeuomorphism-neumorphism
+OK    wneucomp-1  https://dribbble.com/shots/9071547-Neumorphism-Components
+OK    wneucomp-10  https://dribbble.com/shots/27438302-WorkFlow-Workforce-Approval-Mobile-App-UI-UX-Case-Study
+OK    wneucomp-11  https://dribbble.com/shots/27438739-CheckoutX-Modern-Mobile-Checkout-Experience-UI-UX-Case-Study
+OK    wneucomp-12  https://dribbble.com/shots/9444054-Neumorphism-Skeuomorphism-Design-components
+OK    wneucomp-13  https://dribbble.com/shots/21197763-Neumorphism-signup-login-component
+OK    wneucomp-14  https://dribbble.com/shots/23244446-Dark-Neumorphic-UI-Components
+OK    wneucomp-15  https://dribbble.com/shots/17523600-Calendar-component-study-in-neumorphism
+OK    wneucomp-16  https://dribbble.com/shots/27303786-AI-Enhanced-E-commerce-Data-Driven-Platform
+OK    wneucomp-17  https://dribbble.com/shots/17161610-Neumorphic-Music-Elements-Mobile-App-UI-Kit
+OK    wneucomp-18  https://dribbble.com/shots/17161607-Neumorphic-Fitness-Elements-Mobile-App-UI-Kit
+OK    wneucomp-19  https://dribbble.com/shots/15065995-Neumorphic-UI-UX-GUI-KIT-Shopping-Elements
+OK    wneucomp-2  https://dribbble.com/shots/9554765-Audiobook-application
+OK    wneucomp-20  https://dribbble.com/shots/15065990-Neumorphic-UI-UX-GUI-KIT-Banking-Elements
+OK    wneucomp-21  https://dribbble.com/shots/27750217-Main-Page
+OK    wneucomp-22  https://dribbble.com/shots/14324569-Neumorphism-Ui-Kit
+OK    wneucomp-23  https://dribbble.com/shots/17161612-Neumorphic-Analysis-Elements-Mobile-App-UI-Kit
+OK    wneucomp-3  https://dribbble.com/shots/27843737-Neumorphism-UI-Components
+OK    wneucomp-4  https://dribbble.com/shots/27636313-Neumorphism-UI-Components-Exploration
+OK    wneucomp-41  https://dribbble.com/shots/14069126-Card-manager-Mobile-UI-concept
+OK    wneucomp-42  https://dribbble.com/shots/27389041-Glassmorphism-Search-Bar-UI-Component
+OK    wneucomp-43  https://dribbble.com/shots/24010154-Financial-management-UI-components
+OK    wneucomp-44  https://dribbble.com/shots/27727788-UI-component-designs
+OK    wneucomp-5  https://dribbble.com/shots/21643146-Neumorphism-design-Components
+OK    wneucomp-6  https://dribbble.com/shots/11651003-Neumorphism-Dark-components
+OK    wneucomp-7  https://dribbble.com/shots/14664939-Neumorphism-Web-Components
+OK    wneucomp-8  https://dribbble.com/shots/10158556-Neumorphism-form-components
+OK    wneucomp-9  https://dribbble.com/shots/27728107-Pet-Care-Mobile-App-Modern-UI-UX-Design
+OK    wneudark-1  https://dribbble.com/shots/11116184-Date-Picker-Neumorphism-Dark
+OK    wneudark-10  https://dribbble.com/shots/26676943-AI-Podcast-App-Design-Screen
+OK    wneudark-11  https://dribbble.com/shots/23464742-Daily-UI-Challenge-2-Music-App-screen
+OK    wneudark-12  https://dribbble.com/shots/20272609-Mobile-design-Team-management-app
+OK    wneudark-13  https://dribbble.com/shots/25772154-Aether-Read-Explore-Inspire
+OK    wneudark-14  https://dribbble.com/shots/14155265-Alarm-Clock-App-Neumorphism-UI-Dark-Light
+OK    wneudark-15  https://dribbble.com/shots/27475542-Portfolio-Concept-Dark-Neumorphism-Fluid-Gradients
+OK    wneudark-16  https://dribbble.com/shots/26855644-Tesla-App-Dark-Neumorphism-UI-Concept
+OK    wneudark-17  https://dribbble.com/shots/26949530--Tesla-Car-Control-App-UI-Dark-Neumorphism
+OK    wneudark-18  https://dribbble.com/shots/23860485-Dark-Neumorphism-Music-Player-App-UI-Design
+OK    wneudark-19  https://dribbble.com/shots/15323266-events-network-platform-concept-desktop-dark-neumorphism
+OK    wneudark-2  https://dribbble.com/shots/11106378-Numpad-Neumorphism-Dark
+OK    wneudark-20  https://dribbble.com/shots/13991161-Dark-Neumorphism-design-1
+OK    wneudark-21  https://dribbble.com/shots/23550410-Tesla-Dark-Neumorphism
+OK    wneudark-22  https://dribbble.com/shots/10513370-Neumorph-moon
+OK    wneudark-23  https://dribbble.com/shots/26994091-Dark-Neumorphic-Calculator-Design-Exploration
+OK    wneudark-24  https://dribbble.com/shots/10211196-Apple-Watch-Meets-Neumorphism-x-Retro-iPod-Shuffle-Vibes
+OK    wneudark-25  https://dribbble.com/shots/25978393-Dating-AI-analysis-app
+OK    wneudark-26  https://dribbble.com/shots/10768091-DJ-Controller-Mobile-App
+OK    wneudark-3  https://dribbble.com/shots/14703164-Data-Visualization-Dashboard-Neumorphism-Dark
+OK    wneudark-4  https://dribbble.com/shots/10723967-Neumorphism-Dark-UI-Trend-2020
+OK    wneudark-41  https://dribbble.com/shots/26253503-GYM-Fitness-Website-Book-Your-GYM-Slot
+OK    wneudark-42  https://dribbble.com/shots/26240755-GYM-Fitness-Website-Moden-Design
+OK    wneudark-5  https://dribbble.com/shots/15559325-Neumorphism-Dark-Mode
+OK    wneudark-6  https://dribbble.com/shots/12221815-UI-App-Neumorphism-Dark-Mode
+OK    wneudark-7  https://dribbble.com/shots/18314884-Electronic-ecommerce-app-glassmorphism-neumorphism-Dark-UI
+OK    wneudark-8  https://dribbble.com/shots/11808760-Music-Player-Neumorphism-Dark-Mode
+OK    wneudark-9  https://dribbble.com/shots/27753363-UI-Styles
+OK    wneuicons-1  https://dribbble.com/shots/23703686-Shield-Neumorphic-Icon-Design
+OK    wneuicons-10  https://dribbble.com/shots/27083237-Design-System-Button-Components-Modern-UI-Component-Library
+OK    wneuicons-11  https://dribbble.com/shots/20314717-Neumorphic-Audio-Plugin
+OK    wneuicons-12  https://dribbble.com/shots/21408863-Neumorphic-Dark-Volume-Knobs
+OK    wneuicons-13  https://dribbble.com/shots/10725922-Neumorphic-Components
+OK    wneuicons-14  https://dribbble.com/shots/11387263-Web-Icons
+OK    wneuicons-15  https://dribbble.com/shots/27474392-Soft-Neumorphic
+OK    wneuicons-16  https://dribbble.com/shots/16883518-Neumorphic-Heart
+OK    wneuicons-17  https://dribbble.com/shots/11384384-Home-Decoration-Line-Icons
+OK    wneuicons-18  https://dribbble.com/shots/26052107-Morphon-Icons-Free-Pack
+OK    wneuicons-19  https://dribbble.com/shots/17571487-Neumorphic-Glassmorphic-Mix-Music-Player
+OK    wneuicons-2  https://dribbble.com/shots/27187380-Neumorphic-UI-Icon-Set-Modern-App-Icon-Design
+OK    wneuicons-20  https://dribbble.com/shots/12078572-Smart-home-neumorphic-mobile-app
+OK    wneuicons-21  https://dribbble.com/shots/10629106-Neumorphism-Icon-Set
+OK    wneuicons-22  https://dribbble.com/shots/10031936-Google-Maps-Icon-concept-2-0
+OK    wneuicons-23  https://dribbble.com/shots/11156865-Neumorphic-App-Kit
+OK    wneuicons-24  https://dribbble.com/shots/11473239-Neumorphism-icons
+OK    wneuicons-25  https://dribbble.com/shots/25198128-Neumorphic
+OK    wneuicons-26  https://dribbble.com/shots/10969197-Drum-machine-button-icon
+OK    wneuicons-27  https://dribbble.com/shots/11932863-Neumorphic-Shop-Kit
+OK    wneuicons-28  https://dribbble.com/shots/14663075-Soft-Icons-iOS-14-Icon-Pack
+OK    wneuicons-29  https://dribbble.com/shots/17161610-Neumorphic-Music-Elements-Mobile-App-UI-Kit
+OK    wneuicons-3  https://dribbble.com/shots/21746681-Neumorphic-Microsoft-Office-Icons
+OK    wneuicons-30  https://dribbble.com/shots/14760432-Soft-Glass-Icon-Set
+OK    wneuicons-31  https://dribbble.com/shots/21301616-Neumorphic-AI-Music-Generator-App
+OK    wneuicons-32  https://dribbble.com/shots/14738573-Mac-Dock-Mockup-FREE
+OK    wneuicons-33  https://dribbble.com/shots/25785407-3D-Bookmark
+OK    wneuicons-34  https://dribbble.com/shots/25895544-3D-Dark-Orange-Switch
+OK    wneuicons-35  https://dribbble.com/shots/15122585-Keep-calm-and-backup-your-files
+OK    wneuicons-36  https://dribbble.com/shots/23435614-Glass-UI-Kit
+OK    wneuicons-37  https://dribbble.com/shots/19453000-3D-Glass-Switch
+OK    wneuicons-38  https://dribbble.com/shots/16562606-3D-Orange-Switch
+OK    wneuicons-39  https://dribbble.com/shots/14172039-3D-Red-Switch
+OK    wneuicons-4  https://dribbble.com/shots/27469807-Healthcare-Dashboard-Design
+OK    wneuicons-40  https://dribbble.com/shots/21622733-Immersive-3D-Graph
+OK    wneuicons-41  https://dribbble.com/shots/10060408-Google-Search-Page-Redesign-Concept-2-0
+OK    wneuicons-42  https://dribbble.com/shots/14359572-UI-Kit-neumorphism-style
+OK    wneuicons-5  https://dribbble.com/shots/27874423-Quick-Action-Components
+OK    wneuicons-6  https://dribbble.com/shots/23717866-Icons-for-Content-Design
+OK    wneuicons-7  https://dribbble.com/shots/22079436-Neumorphism-Animated-PowerPoint-Presentation
+OK    wneuicons-8  https://dribbble.com/shots/27417522-Fitness-Tracker-Dashboard-Cards-UI-Design
+OK    wneuicons-9  https://dribbble.com/shots/27294061-Darklytic-Dark-Mode-Toggle-Switch-Builder-UI
+OK    wneukey-1  https://dribbble.com/shots/13953783-Neumorphism-Keyboard-Design-using-only-HTML-CSS
+OK    wneukey-10  https://dribbble.com/shots/9708796-Neumorphism-iPhone-Dial-for-FUN-Light-Version
+OK    wneukey-11  https://dribbble.com/shots/24527696-Keyboard
+OK    wneukey-12  https://dribbble.com/shots/20762085-Podcast-Landing-Page-in-Neumorphism
+OK    wneukey-13  https://dribbble.com/shots/27239697-Superconscious-AI-Powered-Self-Growth-App
+OK    wneukey-14  https://dribbble.com/shots/17694666-How-to-do-accessible-neumorphism
+OK    wneukey-15  https://dribbble.com/shots/20771970-Responsive-Neumorphism-Mobile-Podcast-Landing-Page
+OK    wneukey-16  https://dribbble.com/shots/20771542-Neumorphism-Podcast-Landing-Page-Tablet-Version
+OK    wneukey-17  https://dribbble.com/shots/20774595-Stereo-Keyboard-Interface-Design
+OK    wneukey-18  https://dribbble.com/shots/10109330-Neumorphic-keyboard
+OK    wneukey-19  https://dribbble.com/shots/20830166-Build-1-0-Day-10-OP-1-field-keyboard-UI
+OK    wneukey-2  https://dribbble.com/shots/14208637-Neumorphism-Test-III-iOS-Keyboard
+OK    wneukey-20  https://dribbble.com/shots/10769979-Gear-Control-App-Neumorphism-Concept
+OK    wneukey-21  https://dribbble.com/shots/26742281-Website-for-an-Incident-Management-Platform
+OK    wneukey-22  https://dribbble.com/shots/14839758-Soft-Neumorphism-Ui
+OK    wneukey-23  https://dribbble.com/shots/11531056-Puma-Shoes-online-Store-neumorphism
+OK    wneukey-24  https://dribbble.com/shots/15851280-Minimalistic-Clock-Neumorphism
+OK    wneukey-25  https://dribbble.com/shots/9788454-Butterfly-Keyboard-Neumorphic
+OK    wneukey-26  https://dribbble.com/shots/10077056-Valentine-s-Keyboard
+OK    wneukey-27  https://dribbble.com/shots/14824590-Glassmorphism-Notifications
+OK    wneukey-28  https://dribbble.com/shots/26467403-Music-App-neumorphic-UI-UX-Design
+OK    wneukey-3  https://dribbble.com/shots/10569952-Neuomorphic-App-Icon
+OK    wneukey-4  https://dribbble.com/shots/10069312-Booking-App-Ui
+OK    wneukey-44  https://dribbble.com/shots/16647902-Finance-App-Concept-UI-Shot
+OK    wneukey-45  https://dribbble.com/shots/14391364-Neumorphic-Smart-Washing-Machine-Panel
+OK    wneukey-46  https://dribbble.com/shots/17331100--Neumorphic-Figma-App
+OK    wneukey-5  https://dribbble.com/shots/27716792-Cubee-Solar-Energy-App-Redesign-Brand-Identity
+OK    wneukey-6  https://dribbble.com/shots/14809470-neumorphic-Keyboard
+OK    wneukey-7  https://dribbble.com/shots/9286016-Samsung-Call-Screen-Neumorphism-Redisgn
+OK    wneukey-8  https://dribbble.com/shots/24444963-Neumorphism-Kit
+OK    wneukey-9  https://dribbble.com/shots/14208642-Neumorphism-Test-IV-Chat
+OK    wneutog-1  https://dribbble.com/shots/9950997-Neumorphic-Toggle
+OK    wneutog-10  https://dribbble.com/shots/27783357-Neumorphic-language-Selector-toggle
+OK    wneutog-11  https://dribbble.com/shots/26049911-Digital-Banking-Card-Landing-Page
+OK    wneutog-12  https://dribbble.com/shots/27447765-Toggle-Interaction-Experiment
+OK    wneutog-13  https://dribbble.com/shots/26190338-Crypto-App-Design-UI-Trading-Mobile-App-Concept
+OK    wneutog-14  https://dribbble.com/shots/19278384-On-Off-Switch-Daily-UI-015
+OK    wneutog-15  https://dribbble.com/shots/27643480-Smart-Home-Energy-Device-Management-App
+OK    wneutog-16  https://dribbble.com/shots/27015483-Clock-Alarm-Sunrise-Sunset-UI-Concept
+OK    wneutog-17  https://dribbble.com/shots/27254418-Clean-Pricing-Plans-App-Design
+OK    wneutog-18  https://dribbble.com/shots/11629433-Radio-Player-App-Neumorphic-concept
+OK    wneutog-19  https://dribbble.com/shots/27294061-Darklytic-Dark-Mode-Toggle-Switch-Builder-UI
+OK    wneutog-2  https://dribbble.com/shots/18152810-clay-neumorphic-toggle-switch
+OK    wneutog-20  https://dribbble.com/shots/27395534-Smart-Home-Toggle-Neumorphism-UI
+OK    wneutog-21  https://dribbble.com/shots/10285876-Neumorphism-Toggle-Switch
+OK    wneutog-22  https://dribbble.com/shots/26265823-Neumorphic-Smart-Capsule-UI-Soft-Touch-Control-Panel
+OK    wneutog-23  https://dribbble.com/shots/14247726-List-Grid-View-Toggle
+OK    wneutog-24  https://dribbble.com/shots/21813899-Animated-Toggle-Button
+OK    wneutog-25  https://dribbble.com/shots/9762987-Toggle-3d
+OK    wneutog-26  https://dribbble.com/shots/21266855-Daily-Design-Code-5-Grainy-Neumorphism-Toggle-Button
+OK    wneutog-27  https://dribbble.com/shots/11998941-Toggle-Button-Exploration-Neumorphism
+OK    wneutog-28  https://dribbble.com/shots/11459660-Neumorphic-UI-Elements-exploration
+OK    wneutog-29  https://dribbble.com/shots/22818626-Neumorphic-Alarm
+OK    wneutog-3  https://dribbble.com/shots/10723182-Neumorphic-Toggle-Switch
+OK    wneutog-30  https://dribbble.com/shots/19910958-Toggle
+OK    wneutog-31  https://dribbble.com/shots/12121338-Toggle-button
+OK    wneutog-32  https://dribbble.com/shots/11647552-Toggle-light-ON-OFF
+OK    wneutog-33  https://dribbble.com/shots/9675720-Just-exploring-some-Neumorphic-UI-elements
+OK    wneutog-34  https://dribbble.com/shots/14730973-Spotify-Neumorphic-Cards
+OK    wneutog-35  https://dribbble.com/shots/11459039-Neumorphic-Elements
+OK    wneutog-36  https://dribbble.com/shots/11048939-Neumorphic-UI-Elements
+OK    wneutog-37  https://dribbble.com/shots/10567371-Daily-UI-015-On-Off-Switch
+OK    wneutog-38  https://dribbble.com/shots/10833136-Uber-Light-UI-Kit
+OK    wneutog-39  https://dribbble.com/shots/9935709--Banking-App
+OK    wneutog-4  https://dribbble.com/shots/9939659-Neumorphic-Toggle
+OK    wneutog-40  https://dribbble.com/shots/25259156-Willkommen-im-Spieleparadies-Teil-3-meines-App-Projekts
+OK    wneutog-41  https://dribbble.com/shots/8806635-neumorphism-experiment
+OK    wneutog-42  https://dribbble.com/shots/12015381-Neumorphism
+OK    wneutog-5  https://dribbble.com/shots/23211106-Neumorphic-Theme-Toggle-Switch
+OK    wneutog-6  https://dribbble.com/shots/27042077-QuantumSend-Secure-Fintech-App-UI
+OK    wneutog-7  https://dribbble.com/shots/10750258-Neumorphism-Toggle
+OK    wneutog-8  https://dribbble.com/shots/23354104-Toggle-buttons
+OK    wneutog-9  https://dribbble.com/shots/15019319-Neumorphic-Flip-Toggle
