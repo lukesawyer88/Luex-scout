@@ -1,7 +1,6 @@
-# Nav button round, 8 Nov
-https://dribbble.com/search/shots/popular/product-design?q=dark%20neumorphism%20button nb-darkneu
-https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20icon%20button nb-iconbtn
-https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20sidebar nb-sidebar
-https://dribbble.com/search/shots/popular/product-design?q=skeuomorphic%20button nb-skeubtn
-https://dribbble.com/search/shots/popular/product-design?q=tactile%20button%20ui nb-tactile
-https://dribbble.com/search/shots/popular/product-design?q=dark%20soft%20ui%20navigation nb-darknav
+https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20button sq-neubtn
+https://dribbble.com/search/shots/popular/product-design?q=soft%20ui%20buttons sq-softui
+https://dribbble.com/search/shots/popular/product-design?q=skeuomorphic%20buttons sq-skeu
+https://dribbble.com/search/shots/popular/product-design?q=button%20components%20dark sq-darkbtn
+https://dribbble.com/search/shots/popular/product-design?q=icon%20button%20ui%20kit sq-iconkit
+https://dribbble.com/search/shots/popular/product-design?q=tactile%20ui sq-tactile
