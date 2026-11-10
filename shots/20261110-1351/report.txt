@@ -1,0 +1,10 @@
+OK    q-bigsur  https://dribbble.com/search/big-sur-icon  (11s)  title: Browse thousands of Big Sur Icon images for design inspiration | Dribbble
+OK    q-macos  https://dribbble.com/search/macos-icon  (8s)  title: Browse thousands of Macos Icon images for design inspiration | Dribbble
+OK    q-3dapp  https://dribbble.com/search/3d-app-icon  (8s)  title: Browse thousands of 3D App Icon images for design inspiration | Dribbble
+OK    q-ios3d  https://dribbble.com/search/ios-app-icon-3d  (8s)  title: Browse thousands of Ios App Icon 3D images for design inspiration | Dribbble
+OK    q-squircle  https://dribbble.com/search/squircle-icon  (8s)  title: Browse thousands of Squircle Icon images for design inspiration | Dribbble
+OK    q-render  https://dribbble.com/search/app-icon-render  (9s)  title: Browse thousands of App Icon Render images for design inspiration | Dribbble
+OK    q-neu  https://dribbble.com/search/neumorphic-app-icon  (8s)  title: Browse thousands of Neumorphic App Icon images for design inspiration | Dribbble
+OK    q-clay  https://dribbble.com/search/claymorphism-icon  (8s)  title: Browse thousands of Claymorphism Icon images for design inspiration | Dribbble
+OK    q-glass  https://dribbble.com/search/glass-app-icon  (8s)  title: Browse thousands of Glass App Icon images for design inspiration | Dribbble
+OK    q-rsq  https://dribbble.com/search/3d-rounded-square-button  (8s)  title: Browse thousands of 3D Rounded Square Button images for design inspiration | Dribbble
