@@ -1,0 +1,92 @@
+FAIL  z-073  https://dribbble.com/shots/27584502-MONOX-AI-Finance-Assistent  TimeoutError
+FAIL  z-074  https://dribbble.com/shots/27533886-Sidebar-Widgets-Nav-MenitoQ-Gadgets-Marketplace  TimeoutError
+FAIL  z-075  https://dribbble.com/shots/27418916-EXPERI-MENTAL-Finance-for-People-Who-Don-t-Trust-Finance  TimeoutError
+FAIL  z-076  https://dribbble.com/shots/27655991-Interactive-Digitial-wallet-interaction-design  TimeoutError
+FAIL  z-077  https://dribbble.com/shots/27725291-GPU-3D-Product-Design-Interactive-Hardware-Concept  TimeoutError
+FAIL  z-078  https://dribbble.com/shots/27737922-Orbit-One-Edge-AI-Computing-Hub-Hardware-Design  TimeoutError
+FAIL  z-079  https://dribbble.com/shots/27724298-SDN-FlowEdge-Pocket-3-Product-Showcase  TimeoutError
+FAIL  z-080  https://dribbble.com/shots/26716814-Watchface-design-and-Box-concept  TimeoutError
+FAIL  z-081  https://dribbble.com/shots/24803693-Visualizing-Python-3D-Illustration-of-a-Coding-Powerhouse  TimeoutError
+FAIL  z-082  https://dribbble.com/shots/27006261-Tin-Shing-Metal-Hardware-Store  TimeoutError
+FAIL  z-083  https://dribbble.com/shots/23495840--ard-Visual-Design-for-Crypto-Hardware-Wallet  TimeoutError
+FAIL  z-084  https://dribbble.com/shots/22572586-Skeumorphic-Groovebox-Concept  TimeoutError
+FAIL  z-085  https://dribbble.com/shots/26258627-Minimal-3D-UI-Nine-years-animation  TimeoutError
+FAIL  z-086  https://dribbble.com/shots/27534971-Face-Cream-Product-Visualization-Blender-Cycles  TimeoutError
+FAIL  z-087  https://dribbble.com/shots/27365336-Racket-Dynamics-3D-Tennis-Animation  TimeoutError
+FAIL  z-088  https://dribbble.com/shots/27767348-Aurora-Skincare-Botanical-3D-Product-Visualization  TimeoutError
+FAIL  z-089  https://dribbble.com/shots/27365281-Futuristic-Cyan-Sneakers  TimeoutError
+FAIL  z-090  https://dribbble.com/shots/27153146-DENVER-PERFUME-3D-VISUALIZATION  TimeoutError
+OK    z-001  https://dribbble.com/shots/25220071-Minimal-Pendrive-3d-Illustration-animation
+OK    z-002  https://dribbble.com/shots/27714846-Pharmaceutical-Supplement-Bottle-Label-Design-3D-Render
+OK    z-003  https://dribbble.com/shots/27647419-Supplement-Pouch-Design-Front-Back-3D-Pouch-Render
+OK    z-004  https://dribbble.com/shots/23766883-ilcons-3D-icons
+OK    z-005  https://dribbble.com/shots/25921542-3d-icon-set-food-and-drink
+OK    z-006  https://dribbble.com/shots/26481769-2D-3D-Icon-Illustrations
+OK    z-007  https://dribbble.com/shots/27506891-Fanatics-Collect-3D-Icon-System
+OK    z-008  https://dribbble.com/shots/27138952-Ai-Image-Generator-App
+OK    z-009  https://dribbble.com/shots/27260918-3D-Natural-Stones
+OK    z-010  https://dribbble.com/shots/775475-iPhone-5-3D-Models-Giveaway
+OK    z-011  https://dribbble.com/shots/27276649-Avatar-Builder-App-Design-AI-3D-Customization
+OK    z-012  https://dribbble.com/shots/27790399-Senro-PRO-AR-Glasses-3D-Product-Animation
+OK    z-013  https://dribbble.com/shots/27663233-Reelcraft-Video-Editing-App-UI
+OK    z-014  https://dribbble.com/shots/27795665-Gaming-Hardware-Shopping-App-Modern-Mobile-UI-UX
+OK    z-015  https://dribbble.com/shots/27587378-FLUXA-Kinetic-Smart-Ring-Companion-Productivity-Tracking-App
+OK    z-016  https://dribbble.com/shots/27793403-Smart-Glasses-Shopping-App-Modern-Wearable-Tech-UI-UX
+OK    z-017  https://dribbble.com/shots/27241043-Luxury-Furniture-Ecommerce
+OK    z-018  https://dribbble.com/shots/27119213-Hair-Dryer-Product-App
+OK    z-019  https://dribbble.com/shots/26086155-Circular-Animation-CG-Render-Concept-Button-UI-UX-Physical
+OK    z-020  https://dribbble.com/shots/26086344-Circular-Animation-CG-Render-Concept-Button-UI-UX-Physical
+OK    z-021  https://dribbble.com/shots/27461497-Palm-Payment-Terminal-Industrial-Design
+OK    z-022  https://dribbble.com/shots/27320809-SUPER-SPACE
+OK    z-023  https://dribbble.com/shots/24164094--Case-Study-Luxwin-Renewable-energies-company
+OK    z-024  https://dribbble.com/shots/26958506-Isometric-Harmony-Smart-City-Visualization
+OK    z-025  https://dribbble.com/shots/27446574-IRONGRADE-Certified-by-Design
+OK    z-026  https://dribbble.com/shots/27320685-Green-Energy-Marketplace-UI-UX-Design-Wind-Solar-Platform
+OK    z-027  https://dribbble.com/shots/27765495-Solidus-Our-Team-Page
+OK    z-028  https://dribbble.com/shots/27690505-Solidus-Construction-Work-Detail-Page
+OK    z-029  https://dribbble.com/shots/7043973-Pikachu-keycap
+OK    z-030  https://dribbble.com/shots/27728053-3D-Wireless-Keyboard-Product-Render
+OK    z-031  https://dribbble.com/shots/19185589-Playstation-Keycaps
+OK    z-032  https://dribbble.com/shots/7049173-Pokemon-Keycaps
+OK    z-033  https://dribbble.com/shots/26148139-3D-Keyboard-Keys-Spline-Illustration
+OK    z-034  https://dribbble.com/shots/15720227-Frost-Keycaps
+OK    z-035  https://dribbble.com/shots/19114500-Keycap-Collection-1
+OK    z-036  https://dribbble.com/shots/26034231-Next-Gen-AI-Assistant-App
+OK    z-037  https://dribbble.com/shots/9392136-Charlotte-Art-Exhibition
+OK    z-038  https://dribbble.com/shots/14957087-Bank-of-Tarka
+OK    z-039  https://dribbble.com/shots/6987081-Kinetic-Poster
+OK    z-040  https://dribbble.com/shots/20110689-Dream-Home-3DIllustration
+OK    z-041  https://dribbble.com/shots/20841373-Si-Oyen-3DIllustration
+OK    z-042  https://dribbble.com/shots/5645974-BATB-11-Concept
+OK    z-043  https://dribbble.com/shots/6839574-Real-Story-Homepage-Animation
+OK    z-044  https://dribbble.com/shots/7058462-Tom-Ford-Web-Concept
+OK    z-045  https://dribbble.com/shots/26209135-Foileather-Material-Exploration
+OK    z-046  https://dribbble.com/shots/27314284-AirPods-Pro-3D-Render
+OK    z-047  https://dribbble.com/shots/27299605-3D-Marble-Material
+OK    z-048  https://dribbble.com/shots/27682531-Ferrari-F80-CGI-Automotive-Animation-Genius-Studio
+OK    z-049  https://dribbble.com/shots/27822798-A-cinematic-automotive-CGI
+OK    z-050  https://dribbble.com/shots/27354455-BMW-M5-Dark-Garage-CGI-Concept
+OK    z-051  https://dribbble.com/shots/27352789-Nike-Air-Jordan-CGI-Concept
+OK    z-052  https://dribbble.com/shots/26903991-Crypto-Token-Transfer-Motion-Exploration
+OK    z-053  https://dribbble.com/shots/4520202-Pen-App-Icon
+OK    z-054  https://dribbble.com/shots/14381910-Chess-Icon
+OK    z-055  https://dribbble.com/shots/26074932-Classic-Nautical-Compus-Icon-Vintage-Style-3D-Design
+OK    z-056  https://dribbble.com/shots/27779633-Car-Insurance-Driving-Tracker-App
+OK    z-057  https://dribbble.com/shots/1558373-Tennis-Ball-Icon
+OK    z-058  https://dribbble.com/shots/690207-V-Lens-Lens-Icon
+OK    z-059  https://dribbble.com/shots/979690-Basketball-iOS-Icon-Making-Of
+OK    z-060  https://dribbble.com/shots/27779599-AI-Interior-Design-Platform-Modern-E-Commerce-UI-UX
+OK    z-061  https://dribbble.com/shots/23745685-Hands-holding-mobile-phone-SIM-card
+OK    z-062  https://dribbble.com/shots/25057388-3D-Game-Device-Mockup
+OK    z-063  https://dribbble.com/shots/15082972-Smart-Home-Device-Concept
+OK    z-064  https://dribbble.com/shots/26584232-Scanex-Scanning-Device-Concept
+OK    z-065  https://dribbble.com/shots/25000717-Device-concept
+OK    z-066  https://dribbble.com/shots/26599016-Walkman-Pulse-Modular-Device-Concept
+OK    z-067  https://dribbble.com/shots/26851372-iPhone-17-Pro-Mockup
+OK    z-068  https://dribbble.com/shots/23230323-3D-Youtube-Device
+OK    z-069  https://dribbble.com/shots/27858357-BEAM-Field-Navigation-Instrument
+OK    z-070  https://dribbble.com/shots/27539690-KOVA-Premium-Kettlebell-Product-Page
+OK    z-071  https://dribbble.com/shots/27539815-KOVA-Premium-Kettlebell-Product-Page
+OK    z-072  https://dribbble.com/shots/26797886-Nutrifac-Modern-Nutrition-Scanner-3D-Animation
+OK    z-091  https://dribbble.com/shots/27691170-DE-OX-Visualization-product-Motion-graphics-Blender-CGI
+OK    z-092  https://dribbble.com/shots/27725843-CRAPPY-DICE-Tabletop-Game
