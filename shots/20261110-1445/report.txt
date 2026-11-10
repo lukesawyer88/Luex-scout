@@ -1,0 +1,10 @@
+OK    p-minwhite  https://dribbble.com/search/minimal-app-icon-white  (10s)  title: Browse thousands of Minimal App Icon White images for design inspiration | Dribbble
+OK    p-premium  https://dribbble.com/search/premium-app-icon  (10s)  title: Browse thousands of Premium App Icon images for design inspiration | Dribbble
+OK    p-mono  https://dribbble.com/search/monochrome-app-icon  (11s)  title: Browse thousands of Monochrome App Icon images for design inspiration | Dribbble
+OK    p-black  https://dribbble.com/search/black-app-icon-3d  (11s)  title: Browse thousands of Black App Icon 3D images for design inspiration | Dribbble
+OK    p-matte  https://dribbble.com/search/matte-app-icon  (11s)  title: Browse thousands of Matte App Icon images for design inspiration | Dribbble
+OK    p-ceramic  https://dribbble.com/search/ceramic-icon-3d  (11s)  title: Browse thousands of Ceramic Icon 3D images for design inspiration | Dribbble
+OK    p-frost  https://dribbble.com/search/frosted-glass-icon  (10s)  title: Browse thousands of Frosted Glass Icon images for design inspiration | Dribbble
+OK    p-vision  https://dribbble.com/search/visionos-icon  (11s)  title: Browse thousands of Visionos Icon images for design inspiration | Dribbble
+OK    p-3dwhite  https://dribbble.com/search/icon-3d-white-minimal  (10s)  title: Browse thousands of Icon 3D White Minimal images for design inspiration | Dribbble
+OK    p-soft  https://dribbble.com/search/soft-ui-icon  (11s)  title: Browse thousands of Soft UI Icon images for design inspiration | Dribbble
