@@ -1,6 +1,10 @@
-https://dribbble.com/search/shots/popular/product-design?q=neumorphism w-neu
-https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20dark w-neudark
-https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20icons w-neuicons
-https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20keyboard w-neukey
-https://dribbble.com/search/shots/popular/product-design?q=neumorphic%20toggle w-neutog
-https://dribbble.com/search/shots/popular/product-design?q=neumorphism%20components w-neucomp
+https://dribbble.com/search/shots/popular?q=3d%20button b-3dbtn
+https://dribbble.com/search/shots/popular?q=skeuomorphic%20button b-skeu
+https://dribbble.com/search/shots/popular?q=3d%20toggle%20switch b-toggle
+https://dribbble.com/search/shots/popular?q=3d%20ui%20elements%20white b-white
+https://dribbble.com/search/shots/popular?q=tactile%20ui%20buttons b-tactile
+https://dribbble.com/search/shots/popular?q=3d%20keycap b-keycap
+https://dribbble.com/search/shots/popular?q=skeuomorphism%20ui%20kit b-kit
+https://dribbble.com/search/shots/popular?q=clay%203d%20ui%20card b-clay
+https://dribbble.com/search/shots/popular?q=soft%20ui%20cream%20button b-cream
+https://dribbble.com/search/shots/popular?q=3d%20knob%20dial%20ui b-knob
