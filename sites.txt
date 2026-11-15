@@ -1,15 +1,17 @@
-# Buttons, pills and boxes round 2 - 15 Nov
-https://dribbble.com/search/chrome-button d-chrome
-https://dribbble.com/search/retro-ui-buttons d-retro
-https://dribbble.com/search/analog-ui d-analog
-https://dribbble.com/search/knob-ui d-knob
-https://dribbble.com/search/dieter-rams-ui d-rams
-https://dribbble.com/search/teenage-engineering-ui d-teenage
-https://dribbble.com/search/jelly-button d-jelly
-https://dribbble.com/search/gradient-button d-gradient
-https://dribbble.com/search/3d-card-ui d-card3d
-https://dribbble.com/search/3d-widget d-widget
-https://dribbble.com/search/pressed-button d-pressed
-https://dribbble.com/search/paper-ui d-paper
-https://dribbble.com/search/brutalist-button d-brutal
-https://dribbble.com/search/inflated-button d-inflated
+# Rendered physical controls round 3 - 15 Nov
+https://dribbble.com/cerpow f-voicu
+https://dribbble.com/Webshocker f-webshocker
+https://dribbble.com/ai f-iker
+https://dribbble.com/oguzyagiz f-oguz
+https://dribbble.com/alex_arutuynov f-arutuynov
+https://dribbble.com/glebich f-gleb
+https://dribbble.com/creativemints f-mints
+https://dribbble.com/2SPARK f-2spark
+https://dribbble.com/search/cgi-button f-cgibtn
+https://dribbble.com/search/3d-ui-render f-uirender
+https://dribbble.com/search/realistic-switch f-realswitch
+https://dribbble.com/search/c4d-button f-c4d
+https://dribbble.com/search/metal-button-3d f-metal
+https://dribbble.com/search/ceramic-button f-ceramic
+https://dribbble.com/search/3d-ui-elements-render f-elements
+https://dribbble.com/search/tactile-switch f-tacswitch
