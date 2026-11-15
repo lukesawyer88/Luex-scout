@@ -1,12 +1,13 @@
-https://dribbble.com/search/photorealistic-3d-icon w-photoreal
-https://dribbble.com/search/realistic-3d-render-buttons w-realbtn
-https://dribbble.com/search/product-render-buttons w-product
-https://dribbble.com/search/industrial-design-render-controls w-industrial
-https://dribbble.com/search/keycap-render w-keycap
-https://dribbble.com/search/octane-render-ui w-octane
-https://dribbble.com/search/cgi-material-exploration w-cgi
-https://dribbble.com/search/realistic-app-icon-render w-realicon
-https://dribbble.com/search/3d-device-concept-render w-device
-https://dribbble.com/search/macro-render-buttons w-macro
-https://dribbble.com/search/hardware-concept-3d w-hardware
-https://dribbble.com/search/blender-product-visualization-buttons w-blender
+# Buttons, pills and boxes - 15 Nov
+https://dribbble.com/search/skeuomorphic-button b-skeubtn
+https://dribbble.com/search/neumorphic-button b-neubtn
+https://dribbble.com/search/toggle-switch-3d b-toggle
+https://dribbble.com/search/tactile-ui b-tactile
+https://dribbble.com/search/embossed-ui b-emboss
+https://dribbble.com/search/button-states b-states
+https://dribbble.com/search/segmented-control b-segment
+https://dribbble.com/search/glass-button b-glassbtn
+https://dribbble.com/search/physical-button-ui b-physical
+https://dribbble.com/search/soft-ui-card b-softcard
+https://dribbble.com/search/slider-ui-3d b-slider
+https://dribbble.com/search/clay-button b-clay
