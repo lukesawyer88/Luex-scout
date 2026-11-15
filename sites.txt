@@ -1,13 +1,15 @@
-# Buttons, pills and boxes - 15 Nov
-https://dribbble.com/search/skeuomorphic-button b-skeubtn
-https://dribbble.com/search/neumorphic-button b-neubtn
-https://dribbble.com/search/toggle-switch-3d b-toggle
-https://dribbble.com/search/tactile-ui b-tactile
-https://dribbble.com/search/embossed-ui b-emboss
-https://dribbble.com/search/button-states b-states
-https://dribbble.com/search/segmented-control b-segment
-https://dribbble.com/search/glass-button b-glassbtn
-https://dribbble.com/search/physical-button-ui b-physical
-https://dribbble.com/search/soft-ui-card b-softcard
-https://dribbble.com/search/slider-ui-3d b-slider
-https://dribbble.com/search/clay-button b-clay
+# Buttons, pills and boxes round 2 - 15 Nov
+https://dribbble.com/search/chrome-button d-chrome
+https://dribbble.com/search/retro-ui-buttons d-retro
+https://dribbble.com/search/analog-ui d-analog
+https://dribbble.com/search/knob-ui d-knob
+https://dribbble.com/search/dieter-rams-ui d-rams
+https://dribbble.com/search/teenage-engineering-ui d-teenage
+https://dribbble.com/search/jelly-button d-jelly
+https://dribbble.com/search/gradient-button d-gradient
+https://dribbble.com/search/3d-card-ui d-card3d
+https://dribbble.com/search/3d-widget d-widget
+https://dribbble.com/search/pressed-button d-pressed
+https://dribbble.com/search/paper-ui d-paper
+https://dribbble.com/search/brutalist-button d-brutal
+https://dribbble.com/search/inflated-button d-inflated
