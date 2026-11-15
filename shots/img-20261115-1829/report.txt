@@ -1,0 +1,98 @@
+FAIL  e-071  https://dribbble.com/shots/26391018-Forget-another-mobile-app-UI-lives-everywhere  TimeoutError
+FAIL  e-072  https://dribbble.com/shots/27713883-Toolbar-Canvas-UI-tool-for-AI-Applications  TimeoutError
+FAIL  e-073  https://dribbble.com/shots/25702544-Quote-Card-UI-Designs  TimeoutError
+FAIL  e-074  https://dribbble.com/shots/15389515-Layout-Exploration-Rams  TimeoutError
+FAIL  e-075  https://dribbble.com/shots/26363150-Touch2Tech-Playground  TimeoutError
+FAIL  e-076  https://dribbble.com/shots/12095855-Braun-BN0171-02  TimeoutError
+FAIL  e-077  https://dribbble.com/shots/14671607-Rioll-Makers-blog  TimeoutError
+FAIL  e-078  https://dribbble.com/shots/1310876-Retro-UI-Kit  TimeoutError
+FAIL  e-079  https://dribbble.com/shots/27631306-Retro-Buttons  TimeoutError
+FAIL  e-080  https://dribbble.com/shots/27517296-Retro-Pixel-Web3-Website-Meme-Crypto-UI  TimeoutError
+FAIL  e-081  https://dribbble.com/shots/27590236-Stranger-Things-Retro-Sci-Fi-Web-Experience-Concept-Design  TimeoutError
+FAIL  e-082  https://dribbble.com/shots/27521575-Crypto-Mining-Website-8-Bit-Pixel-Web-Design  TimeoutError
+FAIL  e-083  https://dribbble.com/shots/27858152-Mobile-App-Design-Services-Halo-Lab  TimeoutError
+FAIL  e-084  https://dribbble.com/shots/25871213-Web3-UI-Old-School-Retro-Futurism-with-a-Meme-Twist  TimeoutError
+FAIL  e-085  https://dribbble.com/shots/9592604-NORAD  TimeoutError
+FAIL  e-086  https://dribbble.com/shots/27690136-Display-UI-for-onboarding  TimeoutError
+FAIL  e-087  https://dribbble.com/shots/25396213-EP-133-K-O-II-teenage-engineering  TimeoutError
+FAIL  e-088  https://dribbble.com/shots/25582200-iPhone-Corner-Dial  TimeoutError
+FAIL  e-089  https://dribbble.com/shots/24707650-Budget-Saving-Widget  TimeoutError
+FAIL  e-090  https://dribbble.com/shots/20895692-Monoform-Concept-pt-3  TimeoutError
+FAIL  e-091  https://dribbble.com/shots/25861133-Lemonaide-AI-Midi-generator-App  TimeoutError
+OK    e-001  https://dribbble.com/shots/27695680-Analog-Timer-UI
+OK    e-002  https://dribbble.com/shots/26302360--Landing-Page-for-Retro-Radio-Brand
+OK    e-003  https://dribbble.com/shots/27733345-Soul-Rotation-Vinyl-Record-Music-Broadcast-Brand-Identity
+OK    e-004  https://dribbble.com/shots/27729990-Midnight-Hour-Casefiles-True-Crime-Podcast-Brand-Identity
+OK    e-005  https://dribbble.com/shots/27167996-Music-Player-App-Retro-Warm-Vinyl-Aesthetic
+OK    e-006  https://dribbble.com/shots/27140689-E-Commerce-Mobile-App-Analog-Edition
+OK    e-007  https://dribbble.com/shots/27589607-Analog-Dreams-Retro-Futuristic-Audio-Interface-Exploration
+OK    e-008  https://dribbble.com/shots/18914789-Brutalist-Button-Concept
+OK    e-009  https://dribbble.com/shots/27623323-SPHINX-Luxury-Health-Tech-Brutalist-Identity-by-Up-Brands
+OK    e-010  https://dribbble.com/shots/27818319-96-Abstract-Brutalist-Y2K-Geometric-Shapes-Collection
+OK    e-011  https://dribbble.com/shots/27288596-RunZap-Brutalist-Footer-Brand-Identity-Finale
+OK    e-012  https://dribbble.com/shots/27479582-Mapka-App-Neo-Brutalist-Design-System
+OK    e-013  https://dribbble.com/shots/10098746-Orange-brutalist-instagram-stories-template
+OK    e-014  https://dribbble.com/shots/21008862-Brutalist-Icon-Experiments
+OK    e-015  https://dribbble.com/shots/27061593-Link-ai-Multi-Page-Real-Estate-Website
+OK    e-016  https://dribbble.com/shots/27463617-Crypto-Wallet-Dashboard-3D-illustrations
+OK    e-017  https://dribbble.com/shots/27241410-Lumix-AI-Assistant-App-Smart-Tasks-Subscription-UI
+OK    e-018  https://dribbble.com/shots/27170918-Product-Card-Web-UI-Dark-Mode-3D
+OK    e-019  https://dribbble.com/shots/27193728-Telecom-API-Product-Card-Web-UI-Dark-Mode-3D
+OK    e-020  https://dribbble.com/shots/27342013-Product-Card-Design-Web-UI-3D-Illustration-Dark-Mode
+OK    e-021  https://dribbble.com/shots/27521673-Crypto-Wallet-Feature-Cards-Animation
+OK    e-022  https://dribbble.com/shots/26396048-Chrome-Button-Figma
+OK    e-023  https://dribbble.com/shots/25029926-Chrome-metallic-button-UI
+OK    e-024  https://dribbble.com/shots/26754154-Start-Button-UI
+OK    e-025  https://dribbble.com/shots/17130088-Commently-is-ready-to-download
+OK    e-026  https://dribbble.com/shots/26112757-Frosted-Chrome-CTA-Buy-Tickets-Button-UI
+OK    e-027  https://dribbble.com/shots/27606510-GACHA-Web3-Crypto-Scratch-Cards-iGaming-Web-Design
+OK    e-028  https://dribbble.com/shots/20357125-Brutalism-Online-Shopping-Delivery-Tracking-Tool-Dashboard-UI
+OK    e-029  https://dribbble.com/shots/22994253-Gradient-Button-Interaction
+OK    e-030  https://dribbble.com/shots/26676725-Gradient-button
+OK    e-031  https://dribbble.com/shots/25935498-Smooth-Gradient-Button-UI
+OK    e-032  https://dribbble.com/shots/24810035-Gradient-button
+OK    e-033  https://dribbble.com/shots/2915281-Freebie-Gradient-Button
+OK    e-034  https://dribbble.com/shots/5138856-Gradient-Buttons-Collection
+OK    e-035  https://dribbble.com/shots/25321871-Gradient-buttons-in-Figma
+OK    e-036  https://dribbble.com/shots/4787532-Autonomous-driving-button-for-HMI
+OK    e-037  https://dribbble.com/shots/26300694-Venom-Button-UI-UX-Design-Exploration-for-Web-Services
+OK    e-038  https://dribbble.com/shots/23968742-AI-voice-Button-design
+OK    e-039  https://dribbble.com/shots/27366443-ButtonedUp-Posters
+OK    e-040  https://dribbble.com/shots/25809362-Dog-Play-Button
+OK    e-041  https://dribbble.com/shots/25204294-Venom-Button-UI-UX-Design
+OK    e-042  https://dribbble.com/shots/3945978-Alignment-button
+OK    e-043  https://dribbble.com/shots/3545476-Search-Bar-Jelly-Button-Concept
+OK    e-044  https://dribbble.com/shots/3621730-Hiring-app-Jelly-Button-interaction
+OK    e-045  https://dribbble.com/shots/17905209-Jelly-button
+OK    e-046  https://dribbble.com/shots/3635142--Jelly-Buttons-Animation
+OK    e-047  https://dribbble.com/shots/3142078-Jelly-Buttons-Animation
+OK    e-048  https://dribbble.com/shots/27442644-Eldercare-App-UI-Wellness-Mood-Medication-Reminder-Cards
+OK    e-049  https://dribbble.com/shots/6209185-BIG-Jelly-Button
+OK    e-050  https://dribbble.com/shots/25996198-Mega-UI-v1-Graphic-User-Interface
+OK    e-051  https://dribbble.com/shots/21191133-A-Brief-Study-of-Knobs
+OK    e-052  https://dribbble.com/shots/27069514-UI-Experiment
+OK    e-053  https://dribbble.com/shots/26734841-deBleed-UI
+OK    e-054  https://dribbble.com/shots/16965998-UI-Explorations-ver-2-0
+OK    e-055  https://dribbble.com/shots/27881240-Smart-Home-Energy-App-AI-Powered-Device-Control-UI-UX-Nebs
+OK    e-056  https://dribbble.com/shots/25329708-Figma-Keyboard-Concept-Material-UI-Study
+OK    e-057  https://dribbble.com/shots/27499308-Paper-Ink-UI
+OK    e-058  https://dribbble.com/shots/27644022-Mobile-App-UX-Sketching-Health-Tracker-UI-Concept
+OK    e-059  https://dribbble.com/shots/27417227-Heilth-Healthcare-Hub-Landing-Page
+OK    e-060  https://dribbble.com/shots/27260829-Daily-UI-024-Boarding-Pass-Travel-App
+OK    e-061  https://dribbble.com/shots/27743281-Inkly-Where-Timeless-Writing-Meets-Artificial-Intelligence
+OK    e-062  https://dribbble.com/shots/27658519-Casino-Rock-Paper-Scissors-VIP-Club-UI
+OK    e-063  https://dribbble.com/shots/27500411-Pattern-Design-Colorful-Indian-Inspired-Vector-Illustration
+OK    e-064  https://dribbble.com/shots/17268026-Design-Tip-Perfect-Colors-for-the-Button-States
+OK    e-065  https://dribbble.com/shots/25466929-3D-Button-with-old-school-90s-feel-Hover-and-Click-Animation
+OK    e-066  https://dribbble.com/shots/5488326-Real-Estate-CRM-platform
+OK    e-067  https://dribbble.com/shots/21022928-Button-States-When-to-Use-Them
+OK    e-068  https://dribbble.com/shots/5511801-Ghost-app
+OK    e-069  https://dribbble.com/shots/6077567-Like-Button-Pressed
+OK    e-070  https://dribbble.com/shots/53376-Pressed-Power-Button
+OK    e-092  https://dribbble.com/shots/25383774-Get-in-touch-3D-widget-animation
+OK    e-093  https://dribbble.com/shots/13970973-3D-widgets
+OK    e-094  https://dribbble.com/shots/15380412-HR-management-System-Dashboard-Widget
+OK    e-095  https://dribbble.com/shots/18780717-WatchOS-Concept
+OK    e-096  https://dribbble.com/shots/27863463-Finance-AI-Features-Smart-Analytics-Hero-UI
+OK    e-097  https://dribbble.com/shots/14024399-Weather-App-Mobile-UI
+OK    e-098  https://dribbble.com/shots/27835553-Maker-Workshop-3D-Printing-Widgets
