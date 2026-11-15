@@ -1,0 +1,112 @@
+FAIL  g-067  https://dribbble.com/shots/27812548-Crypto-Staking-Illustration  TimeoutError
+FAIL  g-068  https://dribbble.com/shots/27647675-Limit-Order  TimeoutError
+FAIL  g-069  https://dribbble.com/shots/27587001-Animated-3D-Logo  TimeoutError
+FAIL  g-070  https://dribbble.com/shots/27572660-Crypto-Trading-Dashboard  TimeoutError
+FAIL  g-071  https://dribbble.com/shots/27511889-AI-Sphere  TimeoutError
+FAIL  g-072  https://dribbble.com/shots/27441537-Ethereum-Widget  TimeoutError
+FAIL  g-073  https://dribbble.com/shots/24858631-Simple-banking-app-UI-by-Milkinside  TimeoutError
+FAIL  g-074  https://dribbble.com/shots/24307274-Joystick  TimeoutError
+FAIL  g-075  https://dribbble.com/shots/12119475-Unlock-button  TimeoutError
+FAIL  g-076  https://dribbble.com/shots/2726057-Back-to-3d-Switch  TimeoutError
+FAIL  g-077  https://dribbble.com/shots/22025294-Imagica-Node-3d-for-video-demo  TimeoutError
+FAIL  g-078  https://dribbble.com/shots/26996346-Smart-Ceramic-Tea-Shop-Mobile-App-UI  TimeoutError
+FAIL  g-079  https://dribbble.com/shots/10490739-black-ceramic-button  TimeoutError
+FAIL  g-080  https://dribbble.com/shots/21992537-UI-kit  TimeoutError
+FAIL  g-081  https://dribbble.com/shots/10490755-black-ceramic-button  TimeoutError
+FAIL  g-082  https://dribbble.com/shots/17679013-Clay-Ceramic-Shop-Landing  TimeoutError
+FAIL  g-083  https://dribbble.com/shots/5422335-Handmadefox  TimeoutError
+FAIL  g-084  https://dribbble.com/shots/23230238-3D-Hard-Surface-Practice  TimeoutError
+FAIL  g-085  https://dribbble.com/shots/27891015-Crevo-Waves-CGI-Studio-Brand-Identity-and-Website  TimeoutError
+FAIL  g-086  https://dribbble.com/shots/27879771-Retail-Box-Packaging-Design-3D-Consumer-Electronics-Mockup  TimeoutError
+FAIL  g-087  https://dribbble.com/shots/6829067-Arcade-Button  TimeoutError
+OK    g-001  https://dribbble.com/shots/27205115--Power-Widget
+OK    g-002  https://dribbble.com/shots/27153068-SoundMint-App-UI
+OK    g-003  https://dribbble.com/shots/27083128-3D-Compressor
+OK    g-004  https://dribbble.com/shots/27040101-Wood-Toggle
+OK    g-005  https://dribbble.com/shots/27015718--Skate-Wheel-Icon
+OK    g-006  https://dribbble.com/shots/27013062-Figma-Audio-Player
+OK    g-007  https://dribbble.com/shots/26908083-Soap-Button
+OK    g-008  https://dribbble.com/shots/26887943-Jelly-Squish
+OK    g-009  https://dribbble.com/shots/26883034-A-bit-Jelly-Inside
+OK    g-010  https://dribbble.com/shots/26813104-With-Love
+OK    g-011  https://dribbble.com/shots/26798785-iPhone-MagSafe
+OK    g-012  https://dribbble.com/shots/26794140-Jelly-Switch
+OK    g-013  https://dribbble.com/shots/26674290-Red-Button
+OK    g-014  https://dribbble.com/shots/26468255-Figma-Card-Textures
+OK    g-015  https://dribbble.com/shots/26361457--Glass-button
+OK    g-016  https://dribbble.com/shots/26207808--Dark-Bookmarks
+OK    g-017  https://dribbble.com/shots/26162325-Dark-Widgets-UI-Kit
+OK    g-018  https://dribbble.com/shots/26110186-Slide-up-button
+OK    g-019  https://dribbble.com/shots/26013196-Dark-Dashboard-Cards
+OK    g-020  https://dribbble.com/shots/25863839-Pop-Site-Logo
+OK    g-021  https://dribbble.com/shots/25689724-Timeloop-Logo
+OK    g-022  https://dribbble.com/shots/25657065-3D-Jungle-Shop
+OK    g-023  https://dribbble.com/shots/25305488-Dribbble-Slider
+OK    g-024  https://dribbble.com/shots/24696309-Radio-FM
+OK    g-025  https://dribbble.com/shots/24406279-Let-s-Fly-Landing-Page
+OK    g-026  https://dribbble.com/shots/24067227--Paper-Menu
+OK    g-027  https://dribbble.com/shots/23954233-Revox-Vocal-Audio-Plugin
+OK    g-028  https://dribbble.com/shots/23528020-Glass-Audio-Player
+OK    g-029  https://dribbble.com/shots/23150474-3D-Coin-Spinner
+OK    g-030  https://dribbble.com/shots/22872687-Mute-Switch-Dongle
+OK    g-031  https://dribbble.com/shots/27760030-SG-Connect
+OK    g-032  https://dribbble.com/shots/27443972-NYX-2-close-up
+OK    g-033  https://dribbble.com/shots/27438330-NYX-2
+OK    g-034  https://dribbble.com/shots/27433153-NYX-1-website-cover
+OK    g-035  https://dribbble.com/shots/27421635-3d-UI-V2
+OK    g-036  https://dribbble.com/shots/27385713-Euchre-App-Icon
+OK    g-037  https://dribbble.com/shots/27353543-Boots-Website-visuals
+OK    g-038  https://dribbble.com/shots/27161753-3D-Product-Animation-for-Bioclinx
+OK    g-039  https://dribbble.com/shots/26913626-Disrupted-Form
+OK    g-040  https://dribbble.com/shots/26848880-Abstract-Backgrounds
+OK    g-041  https://dribbble.com/shots/26814197-8
+OK    g-042  https://dribbble.com/shots/26768718-Tobspr-Games-3D-Cover-Animation
+OK    g-043  https://dribbble.com/shots/26613925-Circle-to-Square-Chess-Online-store
+OK    g-044  https://dribbble.com/shots/26534363-Smart-Grid-Connect-animation
+OK    g-045  https://dribbble.com/shots/26179094-Upload-Folder-Animation
+OK    g-046  https://dribbble.com/shots/26179068-Squircle-Button-Generator
+OK    g-047  https://dribbble.com/shots/23441010--Button-Hover-Animation-CSS
+OK    g-048  https://dribbble.com/shots/23382936-Range-Slider-w-animated-icons
+OK    g-049  https://dribbble.com/shots/22857181-Tab-bar-animation
+OK    g-050  https://dribbble.com/shots/21180767--High-Five-Button
+OK    g-051  https://dribbble.com/shots/21075089-Onboarding-submit-animation
+OK    g-052  https://dribbble.com/shots/21074724-Onboarding-for-column-com
+OK    g-053  https://dribbble.com/shots/20982047--Button-Hover-Animation
+OK    g-054  https://dribbble.com/shots/20651610-Animated-tab-bar-icons
+OK    g-055  https://dribbble.com/shots/20101647-Fancy-Button
+OK    g-056  https://dribbble.com/shots/20065200-Tab-Bar-Animation
+OK    g-057  https://dribbble.com/shots/19929862-Card-hover-effect
+OK    g-058  https://dribbble.com/shots/19912038-Logo-spinner-animation
+OK    g-059  https://dribbble.com/shots/27852226-Personal-Memory-graph-for-agentic-AI
+OK    g-060  https://dribbble.com/shots/27852292-Lead-Bank-design-by-Milkinside
+OK    g-061  https://dribbble.com/shots/27852093-Intellegence-symbol-by-milkinside
+OK    g-062  https://dribbble.com/shots/27838068-Fashion-flow-for-generative-AI-OS
+OK    g-063  https://dribbble.com/shots/27838039-Natural-OS-widgets-for-Home-Screen
+OK    g-064  https://dribbble.com/shots/27838036-Goal-Generative-UI-app-for-iOS
+OK    g-065  https://dribbble.com/shots/27721239-Rocky-slider-for-One-life-app
+OK    g-066  https://dribbble.com/shots/27690156-Natural-Phone-AI-Home-Screen
+OK    g-088  https://dribbble.com/shots/27062079-Frosted-Glass-UI-Elements-3D-Render
+OK    g-089  https://dribbble.com/shots/3738192-Jelly-Graph
+OK    g-090  https://dribbble.com/shots/26671823-Neo-Forms-Abstract-3D-Elements
+OK    g-091  https://dribbble.com/shots/26963498-5-Glass-Chrome-3D-Icons-Pack
+OK    g-092  https://dribbble.com/shots/27065405-Isometric-Frosted-Glass-UI-Elements-3D-Render
+OK    g-093  https://dribbble.com/shots/25475718-Chromatic-Button
+OK    g-094  https://dribbble.com/shots/26733816-My-workflow
+OK    g-095  https://dribbble.com/shots/26677196-Regulated
+OK    g-096  https://dribbble.com/shots/26635763-Slidelocked
+OK    g-097  https://dribbble.com/shots/7102501--Mong-Capital-Advisory
+OK    g-098  https://dribbble.com/shots/707685-Button
+OK    g-099  https://dribbble.com/shots/536690-ON-OFF-Toggle-Switches
+OK    g-100  https://dribbble.com/shots/23821123-Skeuomorphic-switcher
+OK    g-101  https://dribbble.com/shots/1026523-Hittin-Switches
+OK    g-102  https://dribbble.com/shots/3379435-Nintendo-Switch-Vectorial-concept-design
+OK    g-103  https://dribbble.com/shots/18176038-Membrane-Switch-Constructions
+OK    g-104  https://dribbble.com/shots/2395424-Interactive-controls
+OK    g-105  https://dribbble.com/shots/27207810-iOS-switch
+OK    g-106  https://dribbble.com/shots/27854175-Proof-of-Grind-Tactile-Receipt-Register
+OK    g-107  https://dribbble.com/shots/27244375-Micro-mobility-On-Off-Switch
+OK    g-108  https://dribbble.com/shots/24635120-Switch-Creativity-Reload-Animation
+OK    g-109  https://dribbble.com/shots/27887576-Render-Brand-Concept
+OK    g-110  https://dribbble.com/shots/27297189-3D-UI-Design
+OK    g-111  https://dribbble.com/shots/25879504-Copium-2025-3D-Render
+OK    g-112  https://dribbble.com/shots/27534858-Open-Case-Animation-3D-CG-Gaming-Interface
