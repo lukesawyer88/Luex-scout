@@ -1,0 +1,14 @@
+OK    d-chrome  https://dribbble.com/search/chrome-button  (12s)  title: Browse thousands of Chrome Button images for design inspiration | Dribbble
+OK    d-retro  https://dribbble.com/search/retro-ui-buttons  (11s)  title: Browse thousands of Retro UI Buttons images for design inspiration | Dribbble
+OK    d-analog  https://dribbble.com/search/analog-ui  (10s)  title: Browse thousands of Analog UI images for design inspiration | Dribbble
+OK    d-knob  https://dribbble.com/search/knob-ui  (10s)  title: Browse thousands of Knob UI images for design inspiration | Dribbble
+OK    d-rams  https://dribbble.com/search/dieter-rams-ui  (10s)  title: Browse thousands of Dieter Rams UI images for design inspiration | Dribbble
+OK    d-teenage  https://dribbble.com/search/teenage-engineering-ui  (10s)  title: Browse thousands of Teenage Engineering UI images for design inspiration | Dribbble
+OK    d-jelly  https://dribbble.com/search/jelly-button  (10s)  title: Browse thousands of Jelly Button images for design inspiration | Dribbble
+OK    d-gradient  https://dribbble.com/search/gradient-button  (11s)  title: Browse thousands of Gradient Button images for design inspiration | Dribbble
+OK    d-card3d  https://dribbble.com/search/3d-card-ui  (11s)  title: Browse thousands of 3D Card UI images for design inspiration | Dribbble
+OK    d-widget  https://dribbble.com/search/3d-widget  (10s)  title: Browse thousands of 3D Widget images for design inspiration | Dribbble
+OK    d-pressed  https://dribbble.com/search/pressed-button  (10s)  title: Browse thousands of Pressed Button images for design inspiration | Dribbble
+OK    d-paper  https://dribbble.com/search/paper-ui  (10s)  title: Browse thousands of Paper UI images for design inspiration | Dribbble
+OK    d-brutal  https://dribbble.com/search/brutalist-button  (10s)  title: Browse thousands of Brutalist Button images for design inspiration | Dribbble
+OK    d-inflated  https://dribbble.com/search/inflated-button  (10s)  title: Browse thousands of Inflated Button images for design inspiration | Dribbble
