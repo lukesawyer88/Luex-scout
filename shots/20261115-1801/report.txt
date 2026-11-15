@@ -1,0 +1,12 @@
+OK    b-skeubtn  https://dribbble.com/search/skeuomorphic-button  (13s)  title: Browse thousands of Skeuomorphic Button images for design inspiration | Dribbble
+OK    b-neubtn  https://dribbble.com/search/neumorphic-button  (11s)  title: Browse thousands of Neumorphic Button images for design inspiration | Dribbble
+OK    b-toggle  https://dribbble.com/search/toggle-switch-3d  (11s)  title: Browse thousands of Toggle Switch 3D images for design inspiration | Dribbble
+OK    b-tactile  https://dribbble.com/search/tactile-ui  (10s)  title: Browse thousands of Tactile UI images for design inspiration | Dribbble
+OK    b-emboss  https://dribbble.com/search/embossed-ui  (11s)  title: Browse thousands of Embossed UI images for design inspiration | Dribbble
+OK    b-states  https://dribbble.com/search/button-states  (10s)  title: Browse thousands of Button States images for design inspiration | Dribbble
+OK    b-segment  https://dribbble.com/search/segmented-control  (10s)  title: Browse thousands of Segmented Control images for design inspiration | Dribbble
+OK    b-glassbtn  https://dribbble.com/search/glass-button  (10s)  title: Browse thousands of Glass Button images for design inspiration | Dribbble
+OK    b-physical  https://dribbble.com/search/physical-button-ui  (11s)  title: Browse thousands of Physical Button UI images for design inspiration | Dribbble
+OK    b-softcard  https://dribbble.com/search/soft-ui-card  (11s)  title: Browse thousands of Soft UI Card images for design inspiration | Dribbble
+OK    b-slider  https://dribbble.com/search/slider-ui-3d  (11s)  title: Browse thousands of Slider UI 3D images for design inspiration | Dribbble
+OK    b-clay  https://dribbble.com/search/clay-button  (11s)  title: Browse thousands of Clay Button images for design inspiration | Dribbble
