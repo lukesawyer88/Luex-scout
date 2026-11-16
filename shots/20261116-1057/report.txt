@@ -1,0 +1,12 @@
+OK    u-sqbtn  https://dribbble.com/search/square-button  (10s)  title: Browse thousands of Square Button images for design inspiration | Dribbble
+OK    u-sqbtns  https://dribbble.com/search/square-buttons-ui  (9s)  title: Browse thousands of Square Buttons UI images for design inspiration | Dribbble
+OK    u-neuicons  https://dribbble.com/search/neumorphic-icons  (9s)  title: Browse thousands of Neumorphic Icons images for design inspiration | Dribbble
+OK    u-skeuicon  https://dribbble.com/search/skeuomorphic-icon-button  (9s)  title: Browse thousands of Skeuomorphic Icon Button images for design inspiration | Dribbble
+OK    u-3dtile  https://dribbble.com/search/3d-tile  (9s)  title: Browse thousands of 3D Tile images for design inspiration | Dribbble
+OK    u-glasstile  https://dribbble.com/search/glass-tile-ui  (9s)  title: Browse thousands of Glass Tile UI images for design inspiration | Dribbble
+OK    u-keypad  https://dribbble.com/search/keypad-ui  (9s)  title: Browse thousands of Keypad UI images for design inspiration | Dribbble
+OK    u-launchpad  https://dribbble.com/search/launchpad-buttons  (9s)  title: Browse thousands of Launchpad Buttons images for design inspiration | Dribbble
+OK    u-emboss  https://dribbble.com/search/embossed-button  (9s)  title: Browse thousands of Embossed Button images for design inspiration | Dribbble
+OK    u-rubber  https://dribbble.com/search/rubber-button  (9s)  title: Browse thousands of Rubber Button images for design inspiration | Dribbble
+OK    u-tileicons  https://dribbble.com/search/tile-icons  (9s)  title: Browse thousands of Tile Icons images for design inspiration | Dribbble
+OK    u-calc  https://dribbble.com/search/calculator-skeuomorphic  (9s)  title: Browse thousands of Calculator Skeuomorphic images for design inspiration | Dribbble
