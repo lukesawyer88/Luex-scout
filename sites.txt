@@ -1,15 +1,13 @@
-# Square tiles round - 16 Nov (Dribbble + Behance)
-https://dribbble.com/search/shots/popular?q=neumorphic%20square%20tiles t-d-neu
-https://dribbble.com/search/shots/popular?q=skeuomorphic%20square%20button t-d-skeu
-https://dribbble.com/search/shots/popular?q=3d%20square%20tile%20ui t-d-3dtile
-https://dribbble.com/search/shots/popular?q=glass%20square%20tiles%20ui t-d-glass
-https://dribbble.com/search/shots/popular?q=square%20button%20render t-d-render
-https://dribbble.com/search/shots/popular?q=tactile%20tiles%20ui t-d-tactile
-https://dribbble.com/search/shots/popular?q=embossed%20square%20button t-d-emboss
-https://www.behance.net/search/projects/neumorphic%20square%20buttons t-b-neu
-https://www.behance.net/search/projects/skeuomorphic%20buttons%20ui t-b-skeu
-https://www.behance.net/search/projects/3d%20square%20buttons%20ui t-b-3dbtn
-https://www.behance.net/search/projects/glass%20tiles%20ui%20icons t-b-glass
-https://www.behance.net/search/projects/3d%20app%20icons%20render t-b-appicon
-https://www.behance.net/search/projects/tactile%20ui%20buttons t-b-tactile
-https://www.behance.net/search/projects/3d%20ui%20elements%20buttons t-b-elements
+# Square tiles round 2 - 16 Nov (Dribbble literal searches)
+https://dribbble.com/search/square-button u-sqbtn
+https://dribbble.com/search/square-buttons-ui u-sqbtns
+https://dribbble.com/search/neumorphic-icons u-neuicons
+https://dribbble.com/search/skeuomorphic-icon-button u-skeuicon
+https://dribbble.com/search/3d-tile u-3dtile
+https://dribbble.com/search/glass-tile-ui u-glasstile
+https://dribbble.com/search/keypad-ui u-keypad
+https://dribbble.com/search/launchpad-buttons u-launchpad
+https://dribbble.com/search/embossed-button u-emboss
+https://dribbble.com/search/rubber-button u-rubber
+https://dribbble.com/search/tile-icons u-tileicons
+https://dribbble.com/search/calculator-skeuomorphic u-calc
