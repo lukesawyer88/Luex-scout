@@ -27,9 +27,15 @@ async def worker(ctx, queue, target, report):
 
 async def main(list_file, out_dir):
     entries = []
+    lists = []
     for line in Path(list_file).read_text().splitlines():
         line = line.strip()
         if not line or line.startswith("#"):
+            continue
+        if line.startswith("LIST "):
+            # LIST <listing url> <label prefix> <how many>: take the first shots shown on a tag or search page
+            _, lurl, prefix, n = line.split()
+            lists.append((lurl, prefix, int(n)))
             continue
         parts = line.split(maxsplit=1)
         entries.append((parts[0], parts[1] if len(parts) > 1 else re.sub(r"\W+", "-", parts[0])[-60:]))
@@ -43,6 +49,28 @@ async def main(list_file, out_dir):
         browser = await p.chromium.launch()
         ctx = await browser.new_context(user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                                                     "(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"))
+        seen = {e[0] for e in entries}
+        for lurl, prefix, n in lists:
+            page = await ctx.new_page()
+            try:
+                await page.goto(lurl, wait_until="domcontentloaded", timeout=30000)
+                await page.wait_for_timeout(2500)
+                hrefs = await page.eval_on_selector_all('a[href*="/shots/"]', "els => els.map(e => e.href)")
+                got = 0
+                for h in hrefs:
+                    h = h.split("?")[0]
+                    if not re.search(r"/shots/\d+-", h) or h in seen:
+                        continue
+                    seen.add(h)
+                    got += 1
+                    queue.put_nowait((h, f"{prefix}-{got:02d}"))
+                    if got >= n:
+                        break
+                report.append(f"LIST  {prefix}  {lurl}  {got} shots")
+            except Exception as e:
+                report.append(f"FAIL  {prefix}  {lurl}  {type(e).__name__}")
+            await page.close()
+            await asyncio.sleep(1.5)
         await asyncio.gather(*(worker(ctx, queue, target, report) for _ in range(3)))
         await browser.close()
     (target / "report.txt").write_text("\n".join(sorted(report)) + "\n")

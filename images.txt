@@ -1,46 +1,10 @@
-https://dribbble.com/shots/27817983-Flux-Finance-Landing-Page k-01
-https://dribbble.com/shots/27788985-Wealth-Management-Landing-Page k-02
-https://dribbble.com/shots/27766041-Sibu-s-Tribe-Winery k-03
-https://dribbble.com/shots/27718174-Ondro-Workspace-Landing-Page k-04
-https://dribbble.com/shots/27704119-Havenly-Real-Estate-Landing-Page k-05
-https://dribbble.com/shots/27671689-Looking-Beyond k-06
-https://dribbble.com/shots/27852446-Orbit-AI-Website k-07
-https://dribbble.com/shots/27847532-Meridian-AI-Website k-08
-https://dribbble.com/shots/27868622-Codex-AI-Website k-09
-https://dribbble.com/shots/27842658-Agency-Landing-Page-Animations k-10
-https://dribbble.com/shots/27798812-Rook-AI-Workflow-Platform k-11
-https://dribbble.com/shots/27781187-Nodal-Product-Intelligence-Platform k-12
-https://dribbble.com/shots/27785458-AI-Aesthetic-Platform k-13
-https://dribbble.com/shots/19627954-S-Studio-Website k-14
-https://dribbble.com/shots/14832489-Bioshe-Website k-15
-https://dribbble.com/shots/19608224-Flow-Team-Website k-16
-https://dribbble.com/shots/15196455-Bullox-Website k-17
-https://dribbble.com/shots/24377206-21DOP-Website k-18
-https://dribbble.com/shots/22943355-Bubdle-Website k-19
-https://dribbble.com/shots/21202956-Helixen-Website k-20
-https://dribbble.com/shots/14643934-Minimal-Hero-Header-Concept k-21
-https://dribbble.com/shots/15382662-Landing-Page-Hero k-22
-https://dribbble.com/shots/12062606-Hero-section-concept-for-Construction-company k-23
-https://dribbble.com/shots/6560809-Construction-Site-Hero-Section-UI k-24
-https://dribbble.com/shots/15981020--Exploration-Hero-Section-of-House-Builder-website k-25
-https://dribbble.com/shots/9434499-Architecture-Website-Hero-Section k-26
-https://dribbble.com/shots/5605053-Construction-Company-Website k-27
-https://dribbble.com/shots/11420597-Architecture-Hero-Website-Design-Concept k-28
-https://dribbble.com/shots/25772169-Architecture-website-hero-section-design-exploration k-29
-https://dribbble.com/shots/5327928-Architecture-Firm-Moderno-Hero k-30
-https://dribbble.com/shots/15641910-Smart-Home-App-Hero-Section-Animation k-31
-https://dribbble.com/shots/17288603-Smart-Home-Landing-Page k-32
-https://dribbble.com/shots/16695171-Smart-Home-Hero-Section k-33
-https://dribbble.com/shots/21158379-Smart-Home-Landing-Page k-34
-https://dribbble.com/shots/14972633-Landing-Page-Hero k-35
-https://dribbble.com/shots/25657777-Eco-Farming-Website-Hero-Section k-36
-https://dribbble.com/shots/22394463-DUETTO-Electric-Vehicle-Landing-Page k-37
-https://dribbble.com/shots/20869727-ELECTRE-Smart-Electric-Supercar-Landing-Page-Animation k-38
-https://dribbble.com/shots/23438357-Electric-Vehicle-Landing-Page k-39
-https://dribbble.com/shots/25307468-Electric-Car-Website-Landing-Page k-40
-https://dribbble.com/shots/27010634-AI-Image-Generation-Creative-App-UI k-41
-https://dribbble.com/shots/27009255-Military-Aircraft-UI-Aviation-Interface-Design k-42
-https://dribbble.com/shots/26973715-Aviation-Dashboard-UI-Flight-Control-Web-Interface k-43
-https://dribbble.com/shots/18423803-Landing-Page-Design k-44
-https://dribbble.com/shots/24812037-Web3-Platform-Landing-Page k-45
-https://dribbble.com/shots/22122326-Pet-Care-Landing-Page k-46
+LIST https://dribbble.com/tags/saas-landing-page sl 8
+LIST https://dribbble.com/tags/saas_website sw 8
+LIST https://dribbble.com/tags/management_website mw 7
+LIST https://dribbble.com/tags/crm-landing-page crm 7
+LIST https://dribbble.com/tags/bento-grid bento 6
+LIST https://dribbble.com/tags/hr_website hr 6
+LIST https://dribbble.com/tags/b2b_landing_page_design b2b 7
+LIST https://dribbble.com/tags/clean-landing-page clean 6
+LIST https://dribbble.com/search/product-page-saas pp 8
+LIST https://dribbble.com/tags/business_management bm 6
