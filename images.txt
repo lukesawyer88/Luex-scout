@@ -1,12 +1,12 @@
-LIST https://dribbble.com/search/web-app-home-page-large-typography-minimal a 7
-LIST https://dribbble.com/search/client-portal-web-app-clean b 6
-LIST https://dribbble.com/search/host-dashboard-today-web c 6
-LIST https://dribbble.com/search/booking-web-app-desktop-minimal d 6
-LIST https://dribbble.com/search/neobank-web-app-home-minimal e 6
-LIST https://dribbble.com/search/settings-page-minimal-web-app f 5
-LIST https://dribbble.com/search/onboarding-web-app-minimal-desktop g 6
-LIST https://dribbble.com/search/editorial-web-app-ui h 6
-LIST https://dribbble.com/search/spacious-web-app-ui-white i 6
-LIST https://dribbble.com/search/property-management-web-app-clean j 6
-LIST https://dribbble.com/search/workspace-home-web-app-greeting k 6
-LIST https://dribbble.com/search/minimal-saas-web-app-whitespace l 6
+https://en.wikipedia.org/wiki/Ha%27penny_Bridge hapenny
+https://en.wikipedia.org/wiki/Samuel_Beckett_Bridge beckett
+https://en.wikipedia.org/wiki/The_Custom_House customhouse
+https://en.wikipedia.org/wiki/River_Liffey liffey
+https://en.wikipedia.org/wiki/Dublin_quays quays
+https://en.wikipedia.org/wiki/O%27Connell_Bridge oconnell
+https://en.wikipedia.org/wiki/Convention_Centre_Dublin convention
+https://en.wikipedia.org/wiki/Dublin_Docklands docklands
+https://en.wikipedia.org/wiki/Grattan_Bridge grattan
+https://en.wikipedia.org/wiki/Sean_O%27Casey_Bridge ocasey
+https://en.wikipedia.org/wiki/Four_Courts fourcourts
+https://en.wikipedia.org/wiki/Poolbeg_Generating_Station poolbeg
