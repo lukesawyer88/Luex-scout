@@ -1,0 +1,84 @@
+FAIL  a-01  https://dribbble.com/shots/26774316-Responsive-Real-Estate-Website-UI-UX-Modern-Minimal-Design  TimeoutError
+FAIL  a-02  https://dribbble.com/shots/27497778-Marketing-Operations-Agency-Landing-Page-Design  TimeoutError
+FAIL  a-03  https://dribbble.com/shots/27133010-Modern-Luxury-Homes-Contemporary-Architecture-Web-Design  TimeoutError
+FAIL  a-04  https://dribbble.com/shots/25975496-Web-Design-Art-Museum  TimeoutError
+FAIL  a-05  https://dribbble.com/shots/26296255-Laundry-App-Landing-Premium-Wardrobe-Care-UI  TimeoutError
+FAIL  a-06  https://dribbble.com/shots/27560761-Landing-Page-for-a-Market-Research-SaaS  TimeoutError
+FAIL  a-07  https://dribbble.com/shots/27621786-Modernist-web-design  TimeoutError
+FAIL  b-01  https://dribbble.com/shots/27760134-Lazy-Portal-Client-portal-Login-Page  TimeoutError
+FAIL  b-02  https://dribbble.com/shots/23536614-Dashboard-Design  TimeoutError
+FAIL  b-03  https://dribbble.com/shots/26750670-CorrectRefund-Modern-Tax-Accounting-Dashboard  TimeoutError
+FAIL  b-04  https://dribbble.com/shots/26764487-CorrectRefund-Smart-CRM-for-Tax-Accounting-Professionals  TimeoutError
+FAIL  b-05  https://dribbble.com/shots/5919253-R-Arrow-Wordmark-Exploration  TimeoutError
+FAIL  b-06  https://dribbble.com/shots/27093533-Ai-Agent-for-LawFirm-UiUx-Design-and-Development-Web-App  TimeoutError
+FAIL  c-01  https://dribbble.com/shots/27876783-Sentra-AI-Security-Incident-Dashboard  TimeoutError
+FAIL  c-02  https://dribbble.com/shots/21162450-Web-App-like-GitHub-Dashboard  TimeoutError
+LIST  a  https://dribbble.com/search/web-app-home-page-large-typography-minimal  7 shots
+LIST  b  https://dribbble.com/search/client-portal-web-app-clean  6 shots
+LIST  c  https://dribbble.com/search/host-dashboard-today-web  6 shots
+LIST  d  https://dribbble.com/search/booking-web-app-desktop-minimal  6 shots
+LIST  e  https://dribbble.com/search/neobank-web-app-home-minimal  6 shots
+LIST  f  https://dribbble.com/search/settings-page-minimal-web-app  5 shots
+LIST  g  https://dribbble.com/search/onboarding-web-app-minimal-desktop  6 shots
+LIST  h  https://dribbble.com/search/editorial-web-app-ui  6 shots
+LIST  i  https://dribbble.com/search/spacious-web-app-ui-white  6 shots
+LIST  j  https://dribbble.com/search/property-management-web-app-clean  6 shots
+LIST  k  https://dribbble.com/search/workspace-home-web-app-greeting  6 shots
+LIST  l  https://dribbble.com/search/minimal-saas-web-app-whitespace  6 shots
+OK    c-03  https://dribbble.com/shots/26524958-Hosting-Dashboard
+OK    c-04  https://dribbble.com/shots/26874364-Secha-Domains-Dashboard
+OK    c-05  https://dribbble.com/shots/27054801-Doma-Domain-Finder-Dashboard
+OK    c-06  https://dribbble.com/shots/21892853-Server-Hosting-Web-Dashboard
+OK    d-01  https://dribbble.com/shots/5528777-DEC-18-Slick-Calendar-Screens
+OK    d-02  https://dribbble.com/shots/17752443-Reader-s-Community-Web-App
+OK    d-03  https://dribbble.com/shots/7315449-PRO18-Tickets
+OK    d-04  https://dribbble.com/shots/19536566-Book-Store-Desktop-App
+OK    d-05  https://dribbble.com/shots/27712728-Expense-Tracker-Mobile-App
+OK    d-06  https://dribbble.com/shots/7284137-PRO18-Booking-process
+OK    e-01  https://dribbble.com/shots/26905131-Fintech-Web-App-Payoneer-Redesign-Concept
+OK    e-02  https://dribbble.com/shots/27182585-Crypto-Portfolio-Dashboard-Web-App-UI
+OK    e-03  https://dribbble.com/shots/26724325-Payoneer-App-Web-Redesign
+OK    e-04  https://dribbble.com/shots/27140228-Crypto-Trading-Platform-Sign-Up-Flow
+OK    e-05  https://dribbble.com/shots/26525896-Landing-Page-Design-for-Digital-Banking-Neobank-Brands
+OK    e-06  https://dribbble.com/shots/26578157-Personal-Banking-Dashboard-UI
+OK    f-01  https://dribbble.com/shots/17732858-Billing-settings-Untitled-UI
+OK    f-02  https://dribbble.com/shots/22456569-Integrations-settings-page-Untitled-UI
+OK    f-03  https://dribbble.com/shots/24903622-Dashboard-Settings
+OK    f-04  https://dribbble.com/shots/27330765-Billing-Subscription-Settings-Healthcare-SaaS-UI
+OK    f-05  https://dribbble.com/shots/16855975-Notifications-settings-page-Untitled-UI
+OK    g-01  https://dribbble.com/shots/24320223-slothUI-Design-System-for-Lazy-Gen-Z-Onboarding-Screen-UIUX
+OK    g-02  https://dribbble.com/shots/4274480-eero-Subscription-Workflow
+OK    g-03  https://dribbble.com/shots/15573169-Signup-and-onboarding
+OK    g-04  https://dribbble.com/shots/24400663-New-Dashboard-for-Uscreen
+OK    g-05  https://dribbble.com/shots/21147116-Create-Account-Screen
+OK    g-06  https://dribbble.com/shots/24363942-Select-a-new-number
+OK    h-01  https://dribbble.com/shots/27706588-Codecraft-Modern-News-Editorial-Platform-Design
+OK    h-02  https://dribbble.com/shots/27715677-Stillpage-AI-Writing-Workspace-Landing-Page
+OK    h-03  https://dribbble.com/shots/25748424-Fashion-Services-and-Marketplace-Dashboard
+OK    h-04  https://dribbble.com/shots/27380550-Patient-Health-OS
+OK    h-05  https://dribbble.com/shots/27368498-Mintly-Crypto-Portfolio-Platform
+OK    h-06  https://dribbble.com/shots/26704131-Biotech-Beauty-Editorial-Skincare-Landing-Page-Design
+OK    i-01  https://dribbble.com/shots/27338281-Focus-on-Four-Minimalist-App
+OK    i-02  https://dribbble.com/shots/26559238-Conversational-Chatbot-UI-Web-App
+OK    i-03  https://dribbble.com/shots/26732172-Tasks-Mini-Widget
+OK    i-04  https://dribbble.com/shots/27699870-AI-Mobile-App-UX-UI-Design
+OK    i-05  https://dribbble.com/shots/27320549-Call-Transcription
+OK    i-06  https://dribbble.com/shots/27591547-Threads-Community-Page-Ui
+OK    j-01  https://dribbble.com/shots/18964293-Latchel-Property-Management-Dashboard
+OK    j-02  https://dribbble.com/shots/16199729-My-Properties-Page-Property-Management-Dashboard
+OK    j-03  https://dribbble.com/shots/27840268-View-housing-units
+OK    j-04  https://dribbble.com/shots/27529453-Property-Management-Dashboard-SaaS-UI-UX-Design
+OK    j-05  https://dribbble.com/shots/26076668-Property-Management-web-app
+OK    j-06  https://dribbble.com/shots/27780697-ASK-AI-AI-Assistant-for-Property-Management-SaaS
+OK    k-01  https://dribbble.com/shots/27709104-E-Invoicing-Dashboard-Accounting-SaaS-Web-App-for-Qatar
+OK    k-02  https://dribbble.com/shots/26702934-Orriso-Dashboard-AI-Workspace-SaaS
+OK    k-03  https://dribbble.com/shots/26166556-Team-Communication-Management-Dashboard
+OK    k-04  https://dribbble.com/shots/25775994-Spacetihq-Dashboard-Office-Workspace-Optimization
+OK    k-05  https://dribbble.com/shots/27417903-Task-Management-Dashboard-Dark-Version
+OK    k-06  https://dribbble.com/shots/26845760-Smart-Home-Web-App-Interactive-Control-Panel
+OK    l-01  https://dribbble.com/shots/25050969-Holi-Goals-Dashboard
+OK    l-02  https://dribbble.com/shots/25270938-Kanban-Board
+OK    l-03  https://dribbble.com/shots/19145199-Project-Management-Landing-Page
+OK    l-04  https://dribbble.com/shots/27146942-E-commerce-Dashboard-UI-Design-Admin-Panel-Analytics-Web-App
+OK    l-05  https://dribbble.com/shots/27287149-Quantro-SaaS-License-Management-Dashboard
+OK    l-06  https://dribbble.com/shots/27382459-Cryonix-CRM-SaaS-Landing-Page-Design
