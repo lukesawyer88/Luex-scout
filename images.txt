@@ -1,6 +1,14 @@
-https://en.wikipedia.org/wiki/Ha%27penny_Bridge hapenny
-https://en.wikipedia.org/wiki/River_Liffey liffey
-https://en.wikipedia.org/wiki/O%27Connell_Bridge oconnell
-https://en.wikipedia.org/wiki/Grattan_Bridge grattan
-https://en.wikipedia.org/wiki/The_Custom_House customhouse
-https://en.wikipedia.org/wiki/Four_Courts fourcourts
+LIST https://dribbble.com/search/minimal-product-landing-page-hero-clean a 9
+LIST https://dribbble.com/search/illustration-landscape-hero-website b 9
+LIST https://dribbble.com/search/engraving-illustration-website-hero c 8
+LIST https://dribbble.com/search/3d-object-hero-section-light-minimal d 9
+LIST https://dribbble.com/search/car-website-concept-clean-white e 8
+LIST https://dribbble.com/search/headphones-landing-page-minimal f 7
+LIST https://dribbble.com/search/saas-hero-section-light-technical g 9
+LIST https://dribbble.com/search/hero-section-big-typography-behind-product h 8
+LIST https://dribbble.com/search/calm-nature-hero-section-saas i 8
+LIST https://dribbble.com/search/smart-device-landing-page-white j 8
+LIST https://dribbble.com/search/fintech-hero-section-3d-light-grey k 8
+LIST https://dribbble.com/search/watch-product-website-hero-minimal l 7
+LIST https://dribbble.com/search/hero-section-floating-cards-product m 8
+LIST https://dribbble.com/search/monochrome-landing-page-hero-illustration n 8
