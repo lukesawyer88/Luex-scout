@@ -1,0 +1,105 @@
+FAIL  a-01  https://dribbble.com/shots/26813302-Personal-Progress-Platform-Hero-Section  TimeoutError
+FAIL  a-02  https://dribbble.com/shots/25118628-Tebra-New-Homepage-Design-for-Enhanced-Conversion  TimeoutError
+FAIL  a-03  https://dribbble.com/shots/25055337-Sign-Vault-Home-Page  TimeoutError
+FAIL  a-04  https://dribbble.com/shots/26944347-Schedio-SaaS-Landing-Page-UI-Exploration  TimeoutError
+FAIL  a-05  https://dribbble.com/shots/27661000-Solar-Energy-landing-page  TimeoutError
+FAIL  a-06  https://dribbble.com/shots/23026016-Trello-landing-page  TimeoutError
+FAIL  i-08  https://dribbble.com/shots/27677020-Smart-Workflow-AI-Automation-Landing-Page  TimeoutError
+FAIL  j-01  https://dribbble.com/shots/27138729-Modern-Wireless-Earbuds-Landing-Page-Design  TimeoutError
+FAIL  j-02  https://dribbble.com/shots/4763019-Landing-Page-Sony-Smart-Speaker  TimeoutError
+FAIL  j-03  https://dribbble.com/shots/27507497-Smart-Home-Solutions-Landing-Page-Home-Appliances-Website  TimeoutError
+FAIL  j-04  https://dribbble.com/shots/27053460-AI-Smart-Home-IoT-Landing-Page  TimeoutError
+FAIL  j-05  https://dribbble.com/shots/26399578-Smart-Grocery-App-Landing-Page  TimeoutError
+FAIL  j-06  https://dribbble.com/shots/27808288-AI-Smart-Vacuum-Modern-Smart-Home-Web-UI-UX  TimeoutError
+FAIL  j-07  https://dribbble.com/shots/27750029-Cardwave-Digital-Banking-Landing-Page  TimeoutError
+FAIL  j-08  https://dribbble.com/shots/27397758-Smart-Mobility-Landing-Page-UI-UX-EV-Urban-Transport-Website  TimeoutError
+FAIL  k-01  https://dribbble.com/shots/26656519-Landing-page-safe-3d-animation-icons  TimeoutError
+FAIL  k-02  https://dribbble.com/shots/27357103-Vortex-FX-Tokenomics-landing-page-web-design-3D-animation  TimeoutError
+FAIL  k-03  https://dribbble.com/shots/27297604-Betcloud-bento-grid-Landing-page-3D-animation-web-design-icons  TimeoutError
+FAIL  k-04  https://dribbble.com/shots/27637635-Newly-landing-page-web-design-3d-animation  TimeoutError
+FAIL  k-05  https://dribbble.com/shots/26895524-Safix-web3-Landing-page-web-design-3D-animation  TimeoutError
+FAIL  k-06  https://dribbble.com/shots/26114387-Crypto-Exchange-Landing-page-hero-section-3D-animation  TimeoutError
+LIST  a  https://dribbble.com/search/minimal-product-landing-page-hero-clean  9 shots
+LIST  b  https://dribbble.com/search/illustration-landscape-hero-website  9 shots
+LIST  c  https://dribbble.com/search/engraving-illustration-website-hero  8 shots
+LIST  d  https://dribbble.com/search/3d-object-hero-section-light-minimal  9 shots
+LIST  e  https://dribbble.com/search/car-website-concept-clean-white  8 shots
+LIST  f  https://dribbble.com/search/headphones-landing-page-minimal  7 shots
+LIST  g  https://dribbble.com/search/saas-hero-section-light-technical  9 shots
+LIST  h  https://dribbble.com/search/hero-section-big-typography-behind-product  8 shots
+LIST  i  https://dribbble.com/search/calm-nature-hero-section-saas  8 shots
+LIST  j  https://dribbble.com/search/smart-device-landing-page-white  8 shots
+LIST  k  https://dribbble.com/search/fintech-hero-section-3d-light-grey  8 shots
+LIST  l  https://dribbble.com/search/watch-product-website-hero-minimal  0 shots
+LIST  m  https://dribbble.com/search/hero-section-floating-cards-product  0 shots
+LIST  n  https://dribbble.com/search/monochrome-landing-page-hero-illustration  0 shots
+OK    a-07  https://dribbble.com/shots/23769753-Supermi-Hero-Section-01
+OK    a-08  https://dribbble.com/shots/27463782-Aura-AI-Hero-Section
+OK    a-09  https://dribbble.com/shots/25533242-Hiver-Hero-WWW
+OK    b-01  https://dribbble.com/shots/27802627-elsewhere-web-design
+OK    b-02  https://dribbble.com/shots/23103035-Owlbok-Hero-Illustartion
+OK    b-03  https://dribbble.com/shots/27435455-Cover-Illustration-for-The-Lancet-Infectious-Diseases
+OK    b-04  https://dribbble.com/shots/27808093-Nature-Travel-Landing-Page-UI-Autumn-Cabin-Illustration
+OK    b-05  https://dribbble.com/shots/27534313-Biological-Aging-Editorial-conceptual-Illustration-Al-Majalla
+OK    b-06  https://dribbble.com/shots/11034710-Landscaping-Landing-Page
+OK    b-07  https://dribbble.com/shots/27876073-Understorey-Gardens-drawn-to-grow-into
+OK    b-08  https://dribbble.com/shots/21366985-Camping-Website-Landing-Page
+OK    b-09  https://dribbble.com/shots/22477836-A-Modern-Line-Art-And-Color-Website-Hero-Vector-Design
+OK    c-01  https://dribbble.com/shots/27297696-Fine-Dining-Website-French-Restaurant-Branding-UI-UX-Design
+OK    c-02  https://dribbble.com/shots/27413339-Bocuse-Luxury-French-Restaurant-Website-Design-Dubai
+OK    c-03  https://dribbble.com/shots/24127094-Looper-Website-design-for-the-aviation-procurement-platform
+OK    c-04  https://dribbble.com/shots/27214788-Keyvo-Website
+OK    c-05  https://dribbble.com/shots/26476697-San-Jorge-Illustration
+OK    c-06  https://dribbble.com/shots/27010904-Culvert-Homepage-Hero-Animation
+OK    c-07  https://dribbble.com/shots/27531270-Illustrations-for-REDACTED
+OK    c-08  https://dribbble.com/shots/27786823-Northline-Modern-Financial-Intelligence-Website
+OK    d-01  https://dribbble.com/shots/27388696-Orbsite-Hero-Section-3D-Animation
+OK    d-02  https://dribbble.com/shots/27147983-Fintech-Website-Hero
+OK    d-03  https://dribbble.com/shots/27711079-Velora-Web3-Landing-Page-3D-Motion-Concept
+OK    d-04  https://dribbble.com/shots/25361625-Minimal-Hero-section-for-Framer-built-with-Frameblox-UI-kit
+OK    d-05  https://dribbble.com/shots/26365613-Light-Wave-3D-Animation
+OK    d-06  https://dribbble.com/shots/27442644-Eldercare-App-UI-Wellness-Mood-Medication-Reminder-Cards
+OK    d-07  https://dribbble.com/shots/27244390-Robinhood-Landing-page-hero-section-web-design-3d-animation
+OK    d-08  https://dribbble.com/shots/27884350-Cirru
+OK    d-09  https://dribbble.com/shots/26385758-Website-3D-Hero-Section-Animation-for-E-Learning-Experiences
+OK    e-01  https://dribbble.com/shots/26299789-Car-Rental-Website-UI-Design-Concept
+OK    e-02  https://dribbble.com/shots/27763841-Premium-Car-Detailing-Website-Design
+OK    e-03  https://dribbble.com/shots/6441774--43-Shots-for-Practice
+OK    e-04  https://dribbble.com/shots/22324034-Lamborghini-Aventador-Landing-Page-Concept
+OK    e-05  https://dribbble.com/shots/21147434-Lamborghini-Countach-Website-Design
+OK    e-06  https://dribbble.com/shots/21186807-Car-Advertisement-Detail-Page
+OK    e-07  https://dribbble.com/shots/27421426-GoodRide-Overview-Concept-Car-Rental-Website-UI-Figma
+OK    e-08  https://dribbble.com/shots/27452198-Car-Rental-Website-Design-For-Rentor
+OK    f-01  https://dribbble.com/shots/27360588-Sonix-headphone
+OK    f-02  https://dribbble.com/shots/27872176-ORA-Premium-Headphones-E-commerce-Website
+OK    f-03  https://dribbble.com/shots/27681157-Minimal-Headphones-Product-Landing-Page
+OK    f-04  https://dribbble.com/shots/27633977-Aural-Premium-Headphones-Landing-Page-UI-Design
+OK    f-05  https://dribbble.com/shots/27891373-ECHO-Make-Room-for-Sound
+OK    f-06  https://dribbble.com/shots/27368031-Premium-Headphone-Landing-Page-UI
+OK    f-07  https://dribbble.com/shots/27073994-AURA-Audio-Ecommerce-Landing-Page
+OK    g-01  https://dribbble.com/shots/27736553-Stock-Photography-SaaS-Hero-Section-Design
+OK    g-02  https://dribbble.com/shots/27612679-Orbit-B2B-SaaS-Hero-Section
+OK    g-03  https://dribbble.com/shots/27551515-Secure-the-Circuit-Minimal-Cyber-Physical-SaaS-UI
+OK    g-04  https://dribbble.com/shots/27595606-Flowdoc-Cybersecurity-SaaS-Landing-Page-Design
+OK    g-05  https://dribbble.com/shots/27418172-Catta-AI-Model-Platform-Landing-Page-Design-Light-Theme
+OK    g-06  https://dribbble.com/shots/27337461-Project-Management-SaaS-Platform
+OK    g-07  https://dribbble.com/shots/27639875-NextConvers-B2B-SaaS-Landing-Page-AI-Lead-Scoring
+OK    g-08  https://dribbble.com/shots/25327658-Fiscal-Multi-Option-Hero-Section-for-Financial-Courses
+OK    g-09  https://dribbble.com/shots/27201802-AI-Startup-Hero-Section
+OK    h-01  https://dribbble.com/shots/25468052-Toyota-Bangladesh-website-hero-section
+OK    h-02  https://dribbble.com/shots/27880468-Payment-Platform-Landing-Page
+OK    h-03  https://dribbble.com/shots/24534412-Hero-Section-Education-Website
+OK    h-04  https://dribbble.com/shots/26875553-Premium-Jewelry-E-Commerce-Website-UI
+OK    h-05  https://dribbble.com/shots/27791492-Modern-Web-Design-Landing-Page-UI-UX
+OK    h-06  https://dribbble.com/shots/26393477-Flownest-Studio-Yoga-Website
+OK    h-07  https://dribbble.com/shots/27020250-Swiss-Website-design-for-premium-watches
+OK    h-08  https://dribbble.com/shots/26806905-Homepage-for-AI-content-rating-app
+OK    i-01  https://dribbble.com/shots/27709708-Nature-Inspired-Landing-Page-Hero-Section
+OK    i-02  https://dribbble.com/shots/26798059-Wellness-website-Hero-Section
+OK    i-03  https://dribbble.com/shots/27406690-XERO-SaaS-Landing-Page-Hero-Section-Design
+OK    i-04  https://dribbble.com/shots/27338369-SaaS-Website
+OK    i-05  https://dribbble.com/shots/26976734-Zorea-AI-Saas-Productivity-Website
+OK    i-06  https://dribbble.com/shots/27480985-AI-SaaS-Website-Business-Intelligence-Website-UI-UX-Design
+OK    i-07  https://dribbble.com/shots/26994782-Contact-Us-Page-B2B-SaaS-Website-UI-Design
+OK    k-07  https://dribbble.com/shots/27750038-IPO-FX-landing-page-web-design-3D-animation-website-icons
+OK    k-08  https://dribbble.com/shots/27344950-Web-Vortex-fx-Banking-card-web-design-landing-page-3D-animation
