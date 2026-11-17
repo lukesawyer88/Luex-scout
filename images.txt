@@ -1,12 +1,6 @@
 https://en.wikipedia.org/wiki/Ha%27penny_Bridge hapenny
-https://en.wikipedia.org/wiki/Samuel_Beckett_Bridge beckett
-https://en.wikipedia.org/wiki/The_Custom_House customhouse
 https://en.wikipedia.org/wiki/River_Liffey liffey
-https://en.wikipedia.org/wiki/Dublin_quays quays
 https://en.wikipedia.org/wiki/O%27Connell_Bridge oconnell
-https://en.wikipedia.org/wiki/Convention_Centre_Dublin convention
-https://en.wikipedia.org/wiki/Dublin_Docklands docklands
 https://en.wikipedia.org/wiki/Grattan_Bridge grattan
-https://en.wikipedia.org/wiki/Sean_O%27Casey_Bridge ocasey
+https://en.wikipedia.org/wiki/The_Custom_House customhouse
 https://en.wikipedia.org/wiki/Four_Courts fourcourts
-https://en.wikipedia.org/wiki/Poolbeg_Generating_Station poolbeg
