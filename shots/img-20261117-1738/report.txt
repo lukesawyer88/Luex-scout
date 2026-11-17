@@ -1,0 +1,88 @@
+FAIL  b-03  https://dribbble.com/shots/27444199-Email-Verifier-Dashboard-Design  TimeoutError
+FAIL  b-04  https://dribbble.com/shots/27608075-MeetMind-AI-AI-Meeting-Assistant-SaaS-Dashboard-UI-UX-Design  TimeoutError
+FAIL  b-05  https://dribbble.com/shots/26536779-Social-Marketplace-Web-and-Mobile-App-Powered-by-Web3  TimeoutError
+FAIL  b-06  https://dribbble.com/shots/27823400-Dezmolab-Modern-Fintech-SaaS-Dashboard-UI-Design  TimeoutError
+FAIL  b-07  https://dribbble.com/shots/27788311-e-Flyer-Effortless-Email-Data-Form-Management  TimeoutError
+FAIL  b-08  https://dribbble.com/shots/27465485-ZenCloud-Cloud-storage-manager  TimeoutError
+FAIL  b-09  https://dribbble.com/shots/27791200-Task-Team-Management-Dashboard  TimeoutError
+FAIL  c-01  https://dribbble.com/shots/26648282-AI-Dashboard-Sidebar-Dark-Light-Web-App-UI-Design  TimeoutError
+FAIL  c-02  https://dribbble.com/shots/27387425-Smart-Home-Climate-Dashboard-Web-App-UI-UX-Design  TimeoutError
+FAIL  c-03  https://dribbble.com/shots/27048201-Fintech-Dashboard-UI  TimeoutError
+FAIL  c-04  https://dribbble.com/shots/27724127-AI-Powered-Analytics-Dashboard  TimeoutError
+FAIL  c-05  https://dribbble.com/shots/27783565-Mobile-app-YouSquared  TimeoutError
+FAIL  c-06  https://dribbble.com/shots/27557275-CRM-Dashboard-UI-for-Sales-Pipeline-SaaS  TimeoutError
+FAIL  c-07  https://dribbble.com/shots/27047468-Healthcare-Dashboard-Design  TimeoutError
+FAIL  c-08  https://dribbble.com/shots/26996130-Orbitra-CRM-Contact-Records-Lead-Intelligence-Dashboard  TimeoutError
+LIST  a  https://dribbble.com/search/minimal-web-app-dashboard  9 shots
+LIST  b  https://dribbble.com/search/clean-saas-dashboard-light  9 shots
+LIST  c  https://dribbble.com/search/calm-minimal-web-app-ui  8 shots
+LIST  d  https://dribbble.com/search/task-management-web-app-minimal  8 shots
+LIST  e  https://dribbble.com/search/hr-dashboard-clean  8 shots
+LIST  f  https://dribbble.com/search/crm-web-app-minimal-white  8 shots
+LIST  g  https://dribbble.com/search/dark-dashboard-minimal-navy  8 shots
+LIST  h  https://dribbble.com/search/home-screen-web-app-today-tasks  7 shots
+LIST  i  https://dribbble.com/search/bento-dashboard-web-app  7 shots
+LIST  j  https://dribbble.com/search/fleet-management-dashboard  6 shots
+OK    a-01  https://dribbble.com/shots/27300066-Photo-Editor-UI-Minimal-Web-App-Design-Image-Editing-Dashboard
+OK    a-02  https://dribbble.com/shots/27392713-Retail-POS-Analytics-Inventory-Management-Dashboard-UI
+OK    a-03  https://dribbble.com/shots/27525287-AI-Workspace-Integrations-Connectors-Dashboard-Morn
+OK    a-04  https://dribbble.com/shots/26752687-CRM-Dashboard-UI-UX-Design
+OK    a-05  https://dribbble.com/shots/27723804-AI-Model-Logs-SaaS-Dashboard-UI-Monitoring
+OK    a-06  https://dribbble.com/shots/25856247-High-density-DataGrid-Table-for-saas-web-app-dashboard
+OK    a-07  https://dribbble.com/shots/4797890-Property-Saas-Web-App-Dashboard-Chat-Message-Page
+OK    a-08  https://dribbble.com/shots/14735883-Web-App-Dashboards
+OK    a-09  https://dribbble.com/shots/26752037-Shoplytic-Minimal-Web-app-Design
+OK    b-01  https://dribbble.com/shots/27600923-AI-Finance-SaaS-Dashboard
+OK    b-02  https://dribbble.com/shots/27226229-Shipping-Logistics-Dashboard-Design
+OK    d-01  https://dribbble.com/shots/25229670-KEPT-Task-Management-Web-App
+OK    d-02  https://dribbble.com/shots/27451431-CRM-Task-Management-Web-App-UI
+OK    d-03  https://dribbble.com/shots/25751915-Tasker-Landing-page-design
+OK    d-04  https://dribbble.com/shots/27143226-Trior-Project-Management-SaaS-Dashboard-UI-UX-Design
+OK    d-05  https://dribbble.com/shots/26133805-Todolux-Productivity-Web-App
+OK    d-06  https://dribbble.com/shots/27672399-Smartask-Task-Management-Dashboard-Web-App-Design
+OK    d-07  https://dribbble.com/shots/24720976-Task-pro-Task-management-dashboard
+OK    d-08  https://dribbble.com/shots/18476958-Everyone-s-Task-Construction-Management-SaaS-web-app
+OK    e-01  https://dribbble.com/shots/27829318-Workforce360-Enterprise-HR-Operations-Dashboard-Saudi-Arabia
+OK    e-02  https://dribbble.com/shots/27361532-AI-Recruitment-Dashboard-Talent-Sourcing-Candidate-Management
+OK    e-03  https://dribbble.com/shots/27330581-HR-Management-Dashboard-for-Teams
+OK    e-04  https://dribbble.com/shots/27428965-PeopleDesk-Attendance-Detail
+OK    e-05  https://dribbble.com/shots/27407349-PeopleDesk-Employee-Management-dashboard
+OK    e-06  https://dribbble.com/shots/27410908-PeopleDesk-Clients-Management
+OK    e-07  https://dribbble.com/shots/25171922-HR-Dashboard-for-Seamless-Team-Management
+OK    e-08  https://dribbble.com/shots/27341078-HR-Recruitment-Dashboard-UI
+OK    f-01  https://dribbble.com/shots/27450711-CRM-Opportunities-SaaS-List-View-UI-Design-Sales-Pipeline-UI
+OK    f-02  https://dribbble.com/shots/27134357-POS-Sales-Performance-Admin-Dashboard-SaaS-UI-UX-Design
+OK    f-03  https://dribbble.com/shots/27753404-Dashboard-Design-for-Social-Media-Management
+OK    f-04  https://dribbble.com/shots/26235079--Invoice-Generator-UI-Clean-Modular-and-Adaptable
+OK    f-05  https://dribbble.com/shots/27733513-Mental-Health-Mobile-App
+OK    f-06  https://dribbble.com/shots/27793494-Digital-Marketing-Agency-Modern-Web-UI-UX
+OK    f-07  https://dribbble.com/shots/27881294-MeetFlow-Meeting-Request-Management-UI
+OK    f-08  https://dribbble.com/shots/27792316-HR-Management-Dashboard
+OK    g-01  https://dribbble.com/shots/27832859-CODEXA-AI-Code-Generation-SaaS-Product-Design-Case-Study-Nebs
+OK    g-02  https://dribbble.com/shots/27402416-AI-Infrastructure-Liquid-Cooling-SaaS-Landing-Page-Design
+OK    g-03  https://dribbble.com/shots/27376095-Smart-Mentorship-Platform-UI-Admin-Analytics-Dashboard-Design
+OK    g-04  https://dribbble.com/shots/27758083-Crypto-Investment-Website-UI-UX-Design
+OK    g-05  https://dribbble.com/shots/27744918-TokenEra-Crypto-Exchange-Dashboard-Website
+OK    g-06  https://dribbble.com/shots/27766353-Pingvexo-VPN-Speed-Test-App-UI
+OK    g-07  https://dribbble.com/shots/27751851-Cloakvyn-VPN-Privacy-Language-Settings-App-UI
+OK    g-08  https://dribbble.com/shots/27859259-Finance-Modern-Banking-App
+OK    h-01  https://dribbble.com/shots/27877509-FlowFunds-Legal-AI-Dashboard-for-Case-and-Deadline-Management
+OK    h-02  https://dribbble.com/shots/27809430--Only-what-matters-today-Marketplace-App-UX-UI-Design
+OK    h-03  https://dribbble.com/shots/26742338-Task-Management-Schedule-Reminder-App
+OK    h-04  https://dribbble.com/shots/27431988-HoneyBook-Dashboard-UX-Redesign
+OK    h-05  https://dribbble.com/shots/27797704--New-Hire-There-s-a-Template-L-D-Platform-UI-UX-Design
+OK    h-06  https://dribbble.com/shots/27822908--Build-once-onboard-everyone-L-D-Platform-UI-UX-Design
+OK    h-07  https://dribbble.com/shots/27879549-Task-Management-Mobile-App
+OK    i-01  https://dribbble.com/shots/26960202-Taqwah-s-Yearly-Recap-2025-Bento-App-Dashboard-Web-Design
+OK    i-02  https://dribbble.com/shots/27754959-SAAS-Dashboard-Web-App-Vantara
+OK    i-03  https://dribbble.com/shots/27894525-Tokenwise-AI-Spend-Routing-Agent-Telemetry-Dashboard
+OK    i-04  https://dribbble.com/shots/27383122-Food-Delivery-Landing-Page
+OK    i-05  https://dribbble.com/shots/27509707-Fintech-SaaS-Dashboard-Financial-Analytics-UI
+OK    i-06  https://dribbble.com/shots/27617446-Freshlyo-Grocery-Ecommerce-Admin-Dashboard
+OK    i-07  https://dribbble.com/shots/27172682-AI-SaaS-Website-Smart-Features-UI-UX-Design
+OK    j-01  https://dribbble.com/shots/27624555-Telematics-Fleet-Management-Dashboard-UI
+OK    j-02  https://dribbble.com/shots/27267855-Logistics-Fleet-Management-Dashboard
+OK    j-03  https://dribbble.com/shots/26849863-Logistics-Fleet-Management-Dashboard-UI
+OK    j-04  https://dribbble.com/shots/26327784-Logistics-Fleet-Management-Dashboard
+OK    j-05  https://dribbble.com/shots/27210450-Logistics-Fleet-Management-Dashboard
+OK    j-06  https://dribbble.com/shots/27672454-Logistics-Fleet-Management-Dashboard
