@@ -1,0 +1,42 @@
+LIST  a  https://dribbble.com/shots/23218685-Srypto-Trading-Platform-Landing  0 shots
+LIST  b  https://dribbble.com/shots/24131335-Ownlea-Real-State-Website-Design  0 shots
+LIST  c  https://dribbble.com/acedesign  0 shots
+LIST  d  https://dribbble.com/ace-design  0 shots
+LIST  e  https://dribbble.com/sinapasha  24 shots
+LIST  f  https://dribbble.com/search/ace-design-landing-page  12 shots
+OK    e-01  https://dribbble.com/shots/8172256-Blueprint-landing-page
+OK    e-02  https://dribbble.com/shots/6787909-icon-set
+OK    e-03  https://dribbble.com/shots/7598628-Wickret-Landing-Page-Interaction
+OK    e-04  https://dribbble.com/shots/5101856-Skybox-Icon
+OK    e-05  https://dribbble.com/shots/6285205-Bogo-Apps-Web-site-design
+OK    e-06  https://dribbble.com/shots/4460247-Unfollow
+OK    e-07  https://dribbble.com/shots/5314733-Skybox-Website
+OK    e-08  https://dribbble.com/shots/6248741-Mr-Duck-In-The-Rain
+OK    e-09  https://dribbble.com/shots/7304045-Nick-Naron-Digital-Designer
+OK    e-10  https://dribbble.com/shots/14426328-Save-the-date
+OK    e-11  https://dribbble.com/shots/2725553-icerik-com
+OK    e-12  https://dribbble.com/shots/6690497-Mobile-app-Best-Catering
+OK    e-13  https://dribbble.com/shots/10827680-Pitch-Case-Study
+OK    e-14  https://dribbble.com/shots/5105354-How-to-stay-scrappy
+OK    e-15  https://dribbble.com/shots/1921734-Product-Features
+OK    e-16  https://dribbble.com/shots/2755634-Nike
+OK    e-17  https://dribbble.com/shots/4845906-Creative-Mints-Web-site
+OK    e-18  https://dribbble.com/shots/10977530-Mount-Fuji
+OK    e-19  https://dribbble.com/shots/4686333-TGIF
+OK    e-20  https://dribbble.com/shots/5212411-Aerospace-Logo-Construction
+OK    e-21  https://dribbble.com/shots/6908388-Tesla-mobile-app-ui-tutorial
+OK    e-22  https://dribbble.com/shots/16077553-404-Error-Page-with-3D-and-Animation
+OK    e-23  https://dribbble.com/shots/4878604--Kandinsky
+OK    e-24  https://dribbble.com/shots/7854950-3D-Printing-App
+OK    f-01  https://dribbble.com/shots/18866806-NFT-Landing-Page-Light
+OK    f-02  https://dribbble.com/shots/17616495-MOSTO-Landing-page
+OK    f-03  https://dribbble.com/shots/21748777-Mattered-Landing-Page-design
+OK    f-04  https://dribbble.com/shots/25198656-Art-Pro-Landing-page-Live-version
+OK    f-05  https://dribbble.com/shots/22830394-VWFNDR-Camera-Landing-Page
+OK    f-06  https://dribbble.com/shots/25085051-Jix-Professional-Team-management-Landing-page
+OK    f-07  https://dribbble.com/shots/20227550-Food-Recipe-Landing-Page
+OK    f-08  https://dribbble.com/shots/25492452-Mattered-Landing-Page-design
+OK    f-09  https://dribbble.com/shots/25537053-Finance-Landing-page-Design-Broker
+OK    f-10  https://dribbble.com/shots/18091813-NFT-Website-Landing-Page-Light
+OK    f-11  https://dribbble.com/shots/19292810-Oniexmint-Landing-Page
+OK    f-12  https://dribbble.com/shots/23218685-Srypto-Trading-Platform-Landing
