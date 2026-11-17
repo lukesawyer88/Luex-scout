@@ -1,0 +1,90 @@
+FAIL  b-06  https://dribbble.com/shots/27368334-Project-management-website-hero-section  TimeoutError
+FAIL  b-07  https://dribbble.com/shots/26385758-Website-3D-Hero-Section-Animation-for-E-Learning-Experiences  TimeoutError
+FAIL  b-08  https://dribbble.com/shots/26755718-Agency-Website-Design-3D-Landing-Page-Hero  TimeoutError
+FAIL  b-09  https://dribbble.com/shots/27204523-Space-Tech-Editorial-UI-with-Grid-Overlay-Design  TimeoutError
+FAIL  c-01  https://dribbble.com/shots/25132623-Credo-A-Dynamic-Landing-Page-for-Financial-Education  TimeoutError
+FAIL  c-02  https://dribbble.com/shots/27425026-3D-Asset-Marketplace-Landing-Page-Design  TimeoutError
+FAIL  c-03  https://dribbble.com/shots/27438535-Affiliate-Marketing-CPA-Network-Full-Landing-Page-Armada  TimeoutError
+FAIL  c-04  https://dribbble.com/shots/27738769-Healthcare-Web-Design-UI-UX-Mental-health-therapy-landing-page  TimeoutError
+FAIL  c-05  https://dribbble.com/shots/27798376-car-dashboard-concept-carwhisperer  TimeoutError
+FAIL  c-06  https://dribbble.com/shots/27775691-Landing-Page-Design-UI-UX-Insurance-Claim-Web-design-Insurtech  TimeoutError
+FAIL  c-07  https://dribbble.com/shots/27774163-Mascot-Character-Design-UI-UX-Insurance-claims-website-design  TimeoutError
+FAIL  c-08  https://dribbble.com/shots/27667897-Nova-Bank-Next-Gen-Banking-Landing-Page  TimeoutError
+FAIL  c-09  https://dribbble.com/shots/27689825-ARIXIOLA-Electric-Bicycle-Hero-Section  TimeoutError
+FAIL  d-01  https://dribbble.com/shots/16299025-Clean-Minimal-Music-Landing-Page  TimeoutError
+FAIL  d-02  https://dribbble.com/shots/27832352-PRINTO-X1-3D-Printer-Product-Landing-Page-UI-Design  TimeoutError
+FAIL  d-03  https://dribbble.com/shots/23481215-Tech-Landing-Page-AI-Company  TimeoutError
+FAIL  d-04  https://dribbble.com/shots/27778472-Credit-Card-Landing-Page-Fintech-3D  TimeoutError
+FAIL  d-05  https://dribbble.com/shots/27833200-LUM-RA-Luxury-Diamond-E-commerce-Website-UI-Design  TimeoutError
+LIST  a  https://dribbble.com/search/sina-pasha  4 shots
+LIST  b  https://dribbble.com/search/monochrome-grey-3d-hero-section-minimal  9 shots
+LIST  c  https://dribbble.com/search/matte-black-3d-object-landing-page-grey  9 shots
+LIST  d  https://dribbble.com/search/clay-render-landing-page-minimal-grey  8 shots
+LIST  e  https://dribbble.com/search/minimal-grey-website-hero-clean  9 shots
+LIST  f  https://dribbble.com/search/monochrome-web-design-3d  9 shots
+LIST  g  https://dribbble.com/search/soft-grey-landing-page-product-pedestal  8 shots
+LIST  h  https://dribbble.com/search/minimal-3d-illustration-website-header-grey  8 shots
+LIST  i  https://dribbble.com/search/black-and-white-minimal-landing-page-3d  8 shots
+LIST  j  https://dribbble.com/search/neutral-minimal-hero-section-object  8 shots
+OK    a-01  https://dribbble.com/shots/25963241-MyCV-CV-Analyzer-AI-Dashboard-Sina-Pasha
+OK    a-02  https://dribbble.com/shots/25830933-Cooking-and-Singing-Illustration
+OK    a-03  https://dribbble.com/shots/16273226-Sanremo
+OK    a-04  https://dribbble.com/shots/5365459-Mazza
+OK    b-01  https://dribbble.com/shots/27388696-Orbsite-Hero-Section-3D-Animation
+OK    b-02  https://dribbble.com/shots/27147983-Fintech-Website-Hero
+OK    b-03  https://dribbble.com/shots/26403729-Isometric-illustration-animation-hero-section
+OK    b-04  https://dribbble.com/shots/27884350-Cirru
+OK    b-05  https://dribbble.com/shots/27244390-Robinhood-Landing-page-hero-section-web-design-3d-animation
+OK    d-06  https://dribbble.com/shots/27848714-AI-Startup-Landing-Page-Design
+OK    d-07  https://dribbble.com/shots/27763759-Housesky-Real-Estate-Landing-Page
+OK    d-08  https://dribbble.com/shots/27780601-Landing-page-Solar-Battery-Optimization
+OK    e-01  https://dribbble.com/shots/26050364-Hero-UI-Jobs-website-My-Team
+OK    e-02  https://dribbble.com/shots/25989419-Clean-website-hero-section-for-Framer
+OK    e-03  https://dribbble.com/shots/17675483-Gazette-Blog-Website-Hero-Animation
+OK    e-04  https://dribbble.com/shots/23791382-Hero-section-design
+OK    e-05  https://dribbble.com/shots/25999447-Creative-Hero-Section-UI-Design
+OK    e-06  https://dribbble.com/shots/26781357-Elegant-Skincare-Website-UI-Clean-Fresh-Modern-Aesthetic
+OK    e-07  https://dribbble.com/shots/27857058-Streetwear-Ecommerce-Website-Fashion-Web-Design
+OK    e-08  https://dribbble.com/shots/26350395-Cards-black-and-white-technical-illustration
+OK    e-09  https://dribbble.com/shots/25215653-Dark-landing-page-website-hero-section-for-Framer-Frameblox-UI
+OK    f-01  https://dribbble.com/shots/27424610-Liquid-Form-3D-Animation
+OK    f-02  https://dribbble.com/shots/22614059-UX-UI-Design-of-a-website-dedicated-to-the-sale-of-cameras
+OK    f-03  https://dribbble.com/shots/26295843-Black-White-Minimal-UI-Cards-Design
+OK    f-04  https://dribbble.com/shots/27489756-Interactive-3D-Web-Element
+OK    f-05  https://dribbble.com/shots/26742281-Website-for-an-Incident-Management-Platform
+OK    f-06  https://dribbble.com/shots/25725561-Dark-Aesthetic-and-Creative-3D-UI-Design
+OK    f-07  https://dribbble.com/shots/27251246-Conicorn-AI-Automation-Agency-Mobile-Responsive
+OK    f-08  https://dribbble.com/shots/27394672-Landing-Page-Desktop-UI-for-IT-Consultant
+OK    f-09  https://dribbble.com/shots/27654763-Immersive-E-commerce-Cart-Experience-Web-Design
+OK    g-01  https://dribbble.com/shots/27497856-Nexwell-Clean-Minimal-Wellness-Supplement-Brand-Website-Design
+OK    g-02  https://dribbble.com/shots/26456648-Product-Landing-Page
+OK    g-03  https://dribbble.com/shots/26726348-Product-Landing-Page-for-Lunaria
+OK    g-04  https://dribbble.com/shots/27375101-Minimal-SaaS-Landing-Page-for-YouTube-Analytics-Platform
+OK    g-05  https://dribbble.com/shots/26287613-SaaS-Product-Landing-Page
+OK    g-06  https://dribbble.com/shots/27325486-MedGuide-HealthTech-Landing-Page-Product-Design
+OK    g-07  https://dribbble.com/shots/27770832-Revona-FinTech-Business-Growth-SaaS-Landing-Page
+OK    g-08  https://dribbble.com/shots/27531620-Pepsi-Landing-Page-Pepsi-soft-drinks-website-redesign
+OK    h-01  https://dribbble.com/shots/24813810-Fingrow-Financial-Courses-Landing-Page
+OK    h-02  https://dribbble.com/shots/27393237-3D-Logo-Illustration-for-Design-Agency-Website
+OK    h-03  https://dribbble.com/shots/26823739-Nexocube-AI-Intelligence-Platform
+OK    h-04  https://dribbble.com/shots/24135169-ilcons-3D
+OK    h-05  https://dribbble.com/shots/26910483-Nexocube-AI-Intelligence-Platform
+OK    h-06  https://dribbble.com/shots/27061121-Bizee-Brandbook
+OK    h-07  https://dribbble.com/shots/26914293-Supine-AI-Co-Pilot-for-Everyday-Work
+OK    h-08  https://dribbble.com/shots/25833371-NexGM-Next-Generation-Mail-Machine-Illustration
+OK    i-01  https://dribbble.com/shots/27480449-3D-Landing-Page
+OK    i-02  https://dribbble.com/shots/27865508-FIRSTMOVE-Creative-Agency-Website
+OK    i-03  https://dribbble.com/shots/24304351-Lemkis-Studio-Website-Design-Variations
+OK    i-04  https://dribbble.com/shots/21054879-Photographer-Portfolio
+OK    i-05  https://dribbble.com/shots/25141914-MAMMOUTH-IRON-MINING-REPORT
+OK    i-06  https://dribbble.com/shots/27511309-AI-Driven-Medtech-Website-Design-for-HealthSync-Platform
+OK    i-07  https://dribbble.com/shots/20817160-Polestar-C60-Concept-Bike-Landing-Page
+OK    i-08  https://dribbble.com/shots/27790390-Dark-Hero-Section-Design-Minimal-SaaS-Landing-Page
+OK    j-01  https://dribbble.com/shots/27133561-AI-Research-Website-Hero
+OK    j-02  https://dribbble.com/shots/27531270-Illustrations-for-REDACTED
+OK    j-03  https://dribbble.com/shots/27531366-Hero-exploration-for-Ballogy-pt-2
+OK    j-04  https://dribbble.com/shots/27890676-Ai-logo-Letter-A-logo-Ai-Tech-Logo-Saas-Logo-Ai-Branding
+OK    j-05  https://dribbble.com/shots/25724341-agency-website-ui-design
+OK    j-06  https://dribbble.com/shots/27395300-Ouaken-food-recycler-website-Hero-Section-Design
+OK    j-07  https://dribbble.com/shots/25996690-Developer-Portfolio-Landing-Page
+OK    j-08  https://dribbble.com/shots/27531259-Hero-exploration-for-Identiq-pt-2
