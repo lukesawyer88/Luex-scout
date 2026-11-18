@@ -1,0 +1,21 @@
+LIST  clean  https://dribbble.com/search/clean-landing-page  6 shots
+LIST  minimal  https://dribbble.com/search/minimal-landing-page  6 shots
+LIST  saas  https://dribbble.com/search/clean-saas-landing-page  6 shots
+OK    clean-01  https://dribbble.com/shots/27569663-Landingpage-Design
+OK    clean-02  https://dribbble.com/shots/27651105-PinVPN-LandingPage
+OK    clean-03  https://dribbble.com/shots/27733315-Agentix-AI-Agents-Landing-Page
+OK    clean-04  https://dribbble.com/shots/26370513-Cleaning-Service-Landing-Page
+OK    clean-05  https://dribbble.com/shots/27739439-Corebit-AI-GPU-Optimization-SaaS-Landing-Page
+OK    clean-06  https://dribbble.com/shots/27578187-Landing-Page-Performance-Stress-Shield
+OK    minimal-01  https://dribbble.com/shots/27612754-Vitalis-Accessible-Healthcare-Landing-Page
+OK    minimal-02  https://dribbble.com/shots/27717850-Insura-Insurance-Claims-Landing-Page
+OK    minimal-03  https://dribbble.com/shots/27665285-STARY-ROUTE-Hotel-Booking-Landing-page
+OK    minimal-04  https://dribbble.com/shots/27645831-Landing-Page-Neuro-Training
+OK    minimal-05  https://dribbble.com/shots/27581653-Ledgerly-Crypto-Wallet-Landing-Page
+OK    minimal-06  https://dribbble.com/shots/27708659-Flowlet-AI-Financial-Assistant-Landing-Page
+OK    saas-01  https://dribbble.com/shots/25640001-Fintech-SaaS-Landing-Page
+OK    saas-02  https://dribbble.com/shots/26251122-Pulseboard-landing-page
+OK    saas-03  https://dribbble.com/shots/27820820-Flynt-SaaS-Landing-Page
+OK    saas-04  https://dribbble.com/shots/27058685-SaaS-Hero-Section
+OK    saas-05  https://dribbble.com/shots/27879540-Swaya-AI-Marketing-Landing-Page
+OK    saas-06  https://dribbble.com/shots/25488563-SaaS-Landing-Page-Design
