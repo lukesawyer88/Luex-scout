@@ -1,0 +1,82 @@
+FAIL  b-10  https://dribbble.com/shots/26713236-VR-Landing-Page  TimeoutError
+FAIL  c-01  https://dribbble.com/shots/26367119-3D-Isometric-City-Icon  TimeoutError
+FAIL  c-02  https://dribbble.com/shots/27773543-3D-Gift-Factory  TimeoutError
+FAIL  c-03  https://dribbble.com/shots/26539253-3D-Image-Generation-Portfolio-AI-x-Creativity  TimeoutError
+FAIL  c-04  https://dribbble.com/shots/27578399-TW-Spacers-Packaging-Design-3D-Automotive-Box-Visualization  TimeoutError
+FAIL  c-05  https://dribbble.com/shots/27783565-Mobile-app-YouSquared  TimeoutError
+FAIL  c-06  https://dribbble.com/shots/27849276-CITY-CAR-Urban-Mobility-Cab-Service-Brand-Identity-Suite  TimeoutError
+FAIL  c-07  https://dribbble.com/shots/27773826-Track-every-step-of-the-journey-in-real-time  TimeoutError
+FAIL  c-08  https://dribbble.com/shots/25410873-Brooklyn-Isometric-3D-Illustration  TimeoutError
+FAIL  c-09  https://dribbble.com/shots/16294587-Isometric-3D-Illustration  TimeoutError
+FAIL  c-10  https://dribbble.com/shots/27044409-Cybersecurity-Isometric-3D-Illustrations-for-Tech-Brand  TimeoutError
+FAIL  d-01  https://dribbble.com/shots/25978950-Geometric-Pastel-3d-Design  TimeoutError
+FAIL  d-02  https://dribbble.com/shots/25451807-3D-Block-Composition  TimeoutError
+FAIL  d-03  https://dribbble.com/shots/25450863-Holey-Harmony-3D-design  TimeoutError
+FAIL  d-04  https://dribbble.com/shots/27454403-Finkido-EdTech-Platform-Financial-Literacy-Website  TimeoutError
+LIST  a  https://dribbble.com/search/matte-3d-illustration-landing-page  10 shots
+LIST  b  https://dribbble.com/search/soft-3d-shapes-website-hero  10 shots
+LIST  c  https://dribbble.com/search/isometric-matte-3d-illustration  10 shots
+LIST  d  https://dribbble.com/search/3d-abstract-geometric-shapes-pastel  10 shots
+LIST  e  https://dribbble.com/search/stylized-3d-minimal-illustration  10 shots
+LIST  f  https://dribbble.com/search/miniature-3d-diorama  8 shots
+LIST  g  https://dribbble.com/search/outcrowd-3d-landing  8 shots
+LIST  h  https://dribbble.com/search/clay-render-isometric  8 shots
+OK    a-01  https://dribbble.com/shots/27882800-Kukeri-Cultural-Folklore-3D-Mask-Showcase-Web-UI
+OK    a-02  https://dribbble.com/shots/27872176-ORA-Premium-Headphones-E-commerce-Website
+OK    a-03  https://dribbble.com/shots/15023833-FACTOR-E-3D-illustration-Landing-Page-Exploration
+OK    a-04  https://dribbble.com/shots/17008012-VK-Services
+OK    a-05  https://dribbble.com/shots/16076921-Node-Crypto-NFT-iOS-UI-Kit
+OK    a-06  https://dribbble.com/shots/27536504-FyniteEnergy-Renewable-Energy-Landing-Page-UI-Design
+OK    a-07  https://dribbble.com/shots/27743011-MindNest-Mental-Wellness-Landing-Page
+OK    a-08  https://dribbble.com/shots/27658584-Telecom-Landing-Page-Illustration-3D-CG-Abstract-Geometry
+OK    a-09  https://dribbble.com/shots/27746668-Paynex-Modern-Fintech-Banking-UI-Design
+OK    a-10  https://dribbble.com/shots/26752561-Landing-page-with-3D-illustrations
+OK    b-01  https://dribbble.com/shots/27103052-Bites-Donuts-Pink-Bakery-Website-Hero-UI
+OK    b-02  https://dribbble.com/shots/27748847-AI-Technology-Landing-Page-Artificial-Intelligence-Solutions
+OK    b-03  https://dribbble.com/shots/27871331-Vela-One-VR-Headset-Website-UX-UI-Design
+OK    b-04  https://dribbble.com/shots/26416740-Smart-Website-Builder-Minimal-Landing-Page-UI
+OK    b-05  https://dribbble.com/shots/26906760-Friendly-AI-Assistant-Robot-3D-Character-Design
+OK    b-06  https://dribbble.com/shots/25118565-Sicio-AI-Automation-Agency-Landing-Page-UI-UX-Framer
+OK    b-07  https://dribbble.com/shots/27773436-Bispace-Online-Learning-Course-Platform-Landing-Page
+OK    b-08  https://dribbble.com/shots/26835337-Crypto-Website-Concept-Web-Design
+OK    b-09  https://dribbble.com/shots/27844208-Pighal-Immersive-3D-Website-for-a-Motion-Design-Studio
+OK    d-05  https://dribbble.com/shots/24356621-Manifestly-Social-Media-Designs-Test
+OK    d-06  https://dribbble.com/shots/25450578-3D-Color-Palette
+OK    d-07  https://dribbble.com/shots/25459239-Pastel-Pillars-3D-Design
+OK    d-08  https://dribbble.com/shots/27839057-Nyuman-3D-Character-Design-Digital-Workspaces
+OK    d-09  https://dribbble.com/shots/25812537-Sweet-Geometry-3d-Model
+OK    d-10  https://dribbble.com/shots/25195822-3D-Surreal-Geometric-Gateway
+OK    e-01  https://dribbble.com/shots/27065654-LocoVibe-Restaurant-Discovery-Mobile-App-UI-UX
+OK    e-02  https://dribbble.com/shots/25220071-Minimal-Pendrive-3d-Illustration-animation
+OK    e-03  https://dribbble.com/shots/25195632-Minimal-keyboard-3d-Illustration-Animation
+OK    e-04  https://dribbble.com/shots/20909128-Stylized-3D-Shoe
+OK    e-05  https://dribbble.com/shots/26849315-Pigeon-Character-CGI-Concept-Stylized-3D
+OK    e-06  https://dribbble.com/shots/27858787-3D-Motion-Design-Designing-Experiences
+OK    e-07  https://dribbble.com/shots/25857848-BlastUP-Branding-3D-Characters
+OK    e-08  https://dribbble.com/shots/27392952-Cute-3D-Character-Animation-Pastel-Bunny-Puppy-Motion-Design
+OK    e-09  https://dribbble.com/shots/26202658-AutomataCoin-Crypto-Themed-UI-Design
+OK    e-10  https://dribbble.com/shots/26734151-Book-3D-Icons-Collection
+OK    f-01  https://dribbble.com/shots/27061945-Tilt-shift-3D-diorama-pans-into-a-buzzing-miniature-Manhattan
+OK    f-02  https://dribbble.com/shots/27776415-Places-We-Love-Miniature-3D-Isometric-Designs
+OK    f-03  https://dribbble.com/shots/27481789-Miniature-3D-City-Emerging-from-a-World-Map
+OK    f-04  https://dribbble.com/shots/25829521-Cozy-Miniature-3D-Workspace-Design
+OK    f-05  https://dribbble.com/shots/27852367-Jhaanki-3D-Room-Diorama-Planner-App-Home-Decor
+OK    f-06  https://dribbble.com/shots/25845205-3D-Miniature-Kitchen-Interior-Design
+OK    f-07  https://dribbble.com/shots/26788103-Isometric-3D-room
+OK    f-08  https://dribbble.com/shots/25674217-3D-ILLUSTRATION-for-XP-PEN
+OK    g-01  https://dribbble.com/shots/20585200-KMBCH-Landing-page-3D-motion-for-a-beverage-brand
+OK    g-02  https://dribbble.com/shots/19577645-P-51-Mustang-Creative-landing-page-with-3D
+OK    g-03  https://dribbble.com/shots/20543435-KMBCH-Website-design-for-a-beverage-brand
+OK    g-04  https://dribbble.com/shots/19927040-Hide-Mobile-application-design
+OK    g-05  https://dribbble.com/shots/27880468-Payment-Platform-Landing-Page
+OK    g-06  https://dribbble.com/shots/15502396-DNA-Test-Web-Design-3D-and-Motion
+OK    g-07  https://dribbble.com/shots/26152690-Innovative-UI-UX-Design-with-3D-for-the-aviation-industry
+OK    g-08  https://dribbble.com/shots/24813810-Fingrow-Financial-Courses-Landing-Page
+OK    h-01  https://dribbble.com/shots/17844084-Tiny-Bathroom-Isometric-3D
+OK    h-02  https://dribbble.com/shots/5284973-Clay-Render-Vestforbr-nding
+OK    h-03  https://dribbble.com/shots/24027166-Little-cat-was-hiding-behind-Clay-Render
+OK    h-04  https://dribbble.com/shots/24061060-Isometric-3D-Scene-Flower-Shop
+OK    h-05  https://dribbble.com/shots/3815539-Factory-clay-render
+OK    h-06  https://dribbble.com/shots/20897180-3D-ISOMETRIC-LIVING-ROOM-DESIGN
+OK    h-07  https://dribbble.com/shots/17726931-Dogfight-Clay
+OK    h-08  https://dribbble.com/shots/20633039-DELIVERY-3D-ILLUSTRATION
